@@ -2587,6 +2587,20 @@ text},
 }
 
 @article{
+   author = {Franceschet, Massimo},
+   title = {Ten good reasons to use the Eigenfactor™ metrics},
+   journal = {Information Processing & Management},
+   volume = {46},
+   number = {5},
+   pages = {555-558},
+   abstract = {The Eigenfactor score is a journal influence metric developed at the Department of Biology of the University of Washington and recently introduced in the Science and Social Science Journal Citation Reports maintained by Thomson Reuters. It provides a compelling measure of journal status with solid mathematical background, sound axiomatic foundation, intriguing stochastic interpretation, and many interesting relationships to other ranking measures. In this short contribution, we give 10 reasons to motivate the use of the Eigenfactor method.},
+   keywords = {Journal influence measures
+Eigenfactor metrics
+Impact Factor},
+   year = {2010}
+}
+
+@article{
    author = {Frantzi, Katerina and Ananiadou, Sophia and Mima, Hideki},
    title = {Automatic recognition of multi-word terms:. the C-value/NC-value method},
    journal = {International Journal on Digital Libraries},
@@ -4838,6 +4852,22 @@ social},
    year = {2007}
 }
 
+@inbook{
+   author = {Lau, AnnieY S. and Kwok, TrevorM Y.},
+   title = {Social Features in Online Communities for Healthcare Consumers – A Review},
+   booktitle = {Online Communities and Social Computing},
+   editor = {Ozok, A. Ant and Zaphiris, Panayiotis},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {5621},
+   chapter = {73},
+   pages = {682-689},
+   keywords = {Online community
+healthcare consumer
+social features},
+   year = {2009}
+}
+
 @misc{
    author = {Lau, T.},
    title = {Venture Research %U http://cacm.acm.org/blogs/blog-cacm/38421-venture-research/fulltext},
@@ -6868,6 +6898,18 @@ prelim},
    title = {The Impact of parental Attachment Style, Limit Setting and Monitoring on Teen Myspace Behavior},
    publisher = {CSU Dominguez Hills %U http://www.csudh.edu/psych/The%20Impact%20of%20Parental%20Attachment%20S%20tyle%20Rosen-Cheever-Ca.pdf},
    year = {2007}
+}
+
+@article{
+   author = {Rosenquist, J. Niels and Murabito, Joanne and Fowler, James H. and Christakis, Nicholas A.},
+   title = {The Spread of Alcohol Consumption Behavior in a Large Social Network},
+   journal = {Annals of Internal Medicine},
+   volume = {152},
+   number = {7},
+   pages = {426-433},
+   note = {10.7326/0003-4819-152-7-201004060-00007},
+   abstract = {Background: Alcohol consumption has important health-related consequences and numerous biological and social determinants.Objective: To explore quantitatively whether alcohol consumption behavior spreads from person to person in a large social network of friends, coworkers, siblings, spouses, and neighbors, followed for 32 years.Design: Longitudinal network cohort study.Setting: The Framingham Heart Study.Participants: 12Â 067 persons assessed at several time points between 1971 and 2003.Measurements: Self-reported alcohol consumption (number of drinks per week on average over the past year and number of days drinking within the past week) and social network ties, measured at each time point.Results: Clusters of drinkers and abstainers were present in the network at all time points, and the clusters extended to 3 degrees of separation. These clusters were not only due to selective formation of social ties among drinkers but also seem to reflect interpersonal influence. Changes in the alcohol consumption behavior of a person's social network had a statistically significant effect on that person's subsequent alcohol consumption behavior. The behaviors of immediate neighbors and coworkers were not significantly associated with a person's drinking behavior, but the behavior of relatives and friends was.Limitations: A nonclinical measure of alcohol consumption was used. Also, it is unclear whether the effects on long-term health are positive or negative, because alcohol has been shown to be both harmful and protective. Finally, not all network ties were observed.Conclusion: Network phenomena seem to influence alcohol consumption behavior. This has implications for clinical and public health interventions and further supports group-level interventions to reduce problematic drinking.Primary Funding Source: National Institutes of Health and the Robert Wood Johnson Foundation. The Framingham Heart Study is supported by the National Heart, Lung, and Blood Institute.},
+   year = {2010}
 }
 
 @article{
