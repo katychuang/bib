@@ -281,9 +281,9 @@ social},
    journal = {Journal of Health Communication: International Perspectives},
    volume = {14},
    number = {1 supp 1},
-   pages = {38 - 46+ %U http://www.informaworld.com/10.1080/10810730902806760},
+   pages = {38 - 46},
    abstract = {Online communication among patients and consumers through support groups, discussion boards, and knowledge resources is becoming more common. In this article, the summary of a workgroup discussion, we discuss key methods through which such web-based peer-to-peer communication may affect health promotion and disease prevention behavior (exchanges of information, emotional and instrumental support, and establishment of group norms and models). We also discuss several theoretical models for studying online peer communication, including social theory, health communication models, and health behavior models. Although online peer communication about health and disease is very common, research evaluating effects on health behaviors, mediators, and outcomes is still relatively sparse. We suggest that future research in this field should include formative evaluation and studies of effects on mediators of behavior change, behaviors, and outcomes. It also will be important to examine spontaneously emerging peer communication efforts to see how they can be integrated with theory-based efforts initiated by researchers.},
-
+   year = {2009}
 }
 
 @article{
@@ -304,7 +304,8 @@ social},
    volume = {14(1 supp 1)},
    pages = {38-46},
    abstract = {Online communication among patients and consumers through support groups, discussion boards, and knowledge resources is becoming more common. In this article, the summary of a workgroup discussion, we discuss key methods through which such web-based peer-to-peer communication may affect health promotion and disease prevention behavior (exchanges of information, emotional and instrumental support, and establishment of group norms and models). We also discuss several theoretical models for studying online peer communication, including social theory, health communication models, and health behavior models. Although online peer communication about health and disease is very common, research evaluating effects on health behaviors, mediators, and outcomes is still relatively sparse. We suggest that future research in this field should include formative evaluation and studies of effects on mediators of behavior change, behaviors, and outcomes. It also will be important to examine spontaneously emerging peer communication efforts to see how they can be integrated with theory-based efforts initiated by researchers. },
-   year = {2009}
+   year = {2009},
+   url={http://www.informaworld.com/10.1080/10810730902806760}
 }
 
 @book{
@@ -1068,6 +1069,7 @@ Information science},
    number = {2},
    pages = {123 - 151},
    abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
+   notes = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
    year = {1999}
 }
 
@@ -1076,18 +1078,7 @@ Information science},
    title = {Communication of Social Support in Computer-Mediated Groups for People With Disabilities},
    journal = {Health Communication},
    volume = {11},
-   number = {2},
-   pages = {123 - 151},
-   abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
-   year = {1999}
-}
 
-@article{
-   author = {Braithwaite, Dawn O. and Waldron, Vincent R. and Finn, Jerry},
-   title = {Communication of Social Support in Computer-Mediated Groups for People With Disabilities},
-   journal = {Health Communication},
-   volume = {11},
-   pages = {123 - 151 %U http://www.informaworld.com/10.1207/s15327027hc1102_2},
    year = {2009}
 }
 
@@ -1571,7 +1562,7 @@ Coping},
 @misc{
    author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
    title = {Locating patient expertise in everyday life},
-   publisher = {ACM},
+
    note = {1531718
 291-300},
    year = {2009}
@@ -1580,29 +1571,15 @@ Coping},
 @article{
    author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
    title = {Locating patient expertise in everyday life},
-   note = {Proceedings of the ACM 2009 international conference on Supporting group work %W Sanibel Island, Florida, USA %U http://dx.doi.org/10.1145/1531674.1531718},
-   keywords = {cancer
-patient},
-   year = {2009}
-}
-
-@misc{
-   author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
-   title = {Locating patient expertise in everyday life},
    publisher = {ACM},
-   pages = {291-300 %@ 978-1-60558-500-0 %U http://portal.acm.org/citation.cfm?id=1531718},
+   note = {Proceedings of the ACM 2009 international conference on Supporting group work %W Sanibel Island, Florida, USA %U http://dx.doi.org/10.1145/1531674.1531718},
+   pages = {291-300},
    abstract = {Coping with a new health issue often requires individuals to acquire knowledge and skills to manage personal health. Many patients turn to one another for experiential expertise outside the formal bounds of the health-care system. Internet-based social software can facilitate expertise sharing among patients, but provides only limited ways for users to locate sources of patient expertise. Although much prior research has investigated expertise location and systems to augment expertise sharing in workplace organizations, the transferability of this knowledge to other contexts, such as personal health, is unclear. Guided by expertise locating frameworks drawn from prior work, we conducted a field study to investigate expertise locating in the informal and everyday context of women diagnosed with breast cancer. Similarities between patients' expertise locating practices and practices of professionals in workplace organizations suggest similar support strategies could apply in both contexts. However, unlike professionals, unsolicited advice often triggered patients to locate expertise. They identified expertise through various forms of gatekeeping. The high-stakes nature of problems patients faced also led them to use triangulation strategies in anticipation of breakdowns in expertise location. Based on these key differences, we explored five design additions to social software that could support patients in their critical need to locate patient expertise.},
    keywords = {expertise location
-expertise sharing
-patient expertise},
+expertise sharing, patient expertise,cancer patient},
    year = {2009}
 }
 
-@misc{
-   author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
-   title = {Locating patient expertise in everyday life %U internal-pdf://civan 2009 locating patient expertise-0519112713/civan 2009 locating patient expertise.pdf},
-   year = {2009}
-}
 
 @misc{
    author = {Civan, Andrea and Pratt, Wanda},
@@ -1740,19 +1717,9 @@ text},
    journal = {Journal of Health Communication: International Perspectives},
    volume = {14},
    number = {2},
-   pages = {119 - 130+ %U http://www.informaworld.com/10.1080/10810730802659111},
-   abstract = {As a way of identifying a conduit to disseminate health information, this study aims to explore health behaviors and attitudes of a unique group of extensively socially-networked individuals who regularly are asked for their health advice. Respondents from a population-based consumer opinion panel (<i>n</i>Â�=Â�2,639) were categorized as â�\oeextensively socially-networkedâ�� (75+ friends and acquaintances, and almost daily giving friends advice on general issues) vs. â�\oenon-networked.â�� The networked respondents were further divided into â�\oehealth-networkedâ�� (regularly asked for health advice) versus â�\oeonly-socially-networkedâ�� groups (asked for general advice, not health). Chi-square analyses, ANOVA tests, and multivariate regressions controlling for sociodemographic variables compared health behaviors and attitudes between groups. Results indicated that health-networked individuals reported more positive health behaviors (e.g., fruit and vegetable consumption) and attitudes than only-socially-networked and non-networked individuals. Future research is warranted to elucidate how providing health advice to a large network contributes to the positive health of health-networked individuals. Exploratory analyses revealed that doctors and health/fitness magazines were main sources of health and nutrition information for health-networked respondents. Through their advice and word-of-mouth, health-networked individuals have the potential to influence the health information of large groups of people and, therefore, may serve as valuable change agents to disseminate health and nutrition information.},
-
-}
-
-@article{
-   author = {Colon-Ramos, Uriyoan and Atienza, Audie A. and Weber, Deanne and Taylor, Melissa and Uy, Christina and Yaroch, Amy},
-   title = {Practicing What They Preach: Health Behaviors of Those Who Provide Health Advice to Extensive Social Networks},
-   journal = {Journal of Health Communication: International Perspectives},
-   volume = {14},
-   number = {2},
    pages = {119 - 130},
    abstract = {As a way of identifying a conduit to disseminate health information, this study aims to explore health behaviors and attitudes of a unique group of extensively socially-networked individuals who regularly are asked for their health advice. Respondents from a population-based consumer opinion panel (<i>n</i>Â =Â 2,639) were categorized as â€œextensively socially-networkedâ€ (75+ friends and acquaintances, and almost daily giving friends advice on general issues) vs. â€œnon-networked.â€ The networked respondents were further divided into â€œhealth-networkedâ€ (regularly asked for health advice) versus â€œonly-socially-networkedâ€ groups (asked for general advice, not health). Chi-square analyses, ANOVA tests, and multivariate regressions controlling for sociodemographic variables compared health behaviors and attitudes between groups. Results indicated that health-networked individuals reported more positive health behaviors (e.g., fruit and vegetable consumption) and attitudes than only-socially-networked and non-networked individuals. Future research is warranted to elucidate how providing health advice to a large network contributes to the positive health of health-networked individuals. Exploratory analyses revealed that doctors and health/fitness magazines were main sources of health and nutrition information for health-networked respondents. Through their advice and word-of-mouth, health-networked individuals have the potential to influence the health information of large groups of people and, therefore, may serve as valuable change agents to disseminate health and nutrition information.},
+   notes = {http://www.informaworld.com/10.1080/10810730802659111},
    year = {2009}
 }
 
@@ -5777,17 +5744,6 @@ survivors},
    pages = {211-224 %U http://dx.doi.org/10.1111/j.1475-6811.1995.tb00087.x},
    abstract = {This study was conducted to examine the influence of gender on social support provision and receipt using both self-report and observational methodologies. In response to another person sharing a problem, we predicted that men would be more likely than women to provide advice, and women would be more likely than men to provide emotional support. We also predicted women would be more likely than men to receive emotional support, and men would be more likely than women to receive negative support. Sixty-one pairs of college students, same-sex and mixed-sex dyads, shared a problem with each other. Problem-sharing transactions were audiotaped and transcribed for content analysis. Opposite-sex providers offered more emotional support than did same-sex providers, whereas same-sex providers listened more than did opposite-sex providers. No gender differences were found for advice-giving. Men were more likely than women to receive negative support. These results suggest that gender composition of the dyad has a greater influence on support provision and receipt than provider or recipient gender alone.},
    year = {1995}
-}
-
-@article{
-   author = {Mickelson, KRISTIN D. and Helgeson, VICKI S. and Weiner, ERICA},
-   title = {Gender effects on social support provision and receipt},
-   journal = {Personal Relationships},
-   volume = {2},
-   number = {3},
-   pages = {211-224},
-   abstract = {This study was conducted to examine the influence of gender on social support provision and receipt using both self-report and observational methodologies. In response to another person sharing a problem, we predicted that men would be more likely than women to provide advice, and women would be more likely than men to provide emotional support. We also predicted women would be more likely than men to receive emotional support, and men would be more likely than women to receive negative support. Sixty-one pairs of college students, same-sex and mixed-sex dyads, shared a problem with each other. Problem-sharing transactions were audiotaped and transcribed for content analysis. Opposite-sex providers offered more emotional support than did same-sex providers, whereas same-sex providers listened more than did opposite-sex providers. No gender differences were found for advice-giving. Men were more likely than women to receive negative support. These results suggest that gender composition of the dyad has a greater influence on support provision and receipt than provider or recipient gender alone.},
-   year = {2005}
 }
 
 @book{
