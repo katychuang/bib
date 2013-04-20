@@ -113,9 +113,10 @@ Web communities},
    year = {2003}
 }
 
-@misc{
+@Conference{
    author = {Adamic, L. A. and Zhang, J. and Bakshy, E. and Ackerman, M. S.},
    title = {Knowledge Sharing and Yahoo Answers: Everyone knows something},
+   booktitle = {WWW2008},
    year = {2008}
 }
 
@@ -126,9 +127,11 @@ Web communities},
    year = {2009}
 }
 
-@misc{
+@conference{
    author = {Agichtein, E. and Castillo, C. and Donato, D. and Gionis, A. and Mishne, G. },
    title = {Finding high-quality content in social media.},
+   booktitle = {ACM Web Search and Data Mining Conference (WSDM)},
+   note = {http://www.mathcs.emory.edu/~eugene/papers/wsdm2008quality.pdf},
    year = {2008}
 }
 
@@ -169,7 +172,9 @@ video},
    pages = {835-844},
    abstract = {Social networking services are a fast-growing business in the Internet. However, it is unknown if online relationships and their growth patterns are the same as in real-life social networks. In this paper, we compare the structures of three online social networking services: Cyworld, MySpace, and orkut, each with more than 10 million users, respectively. We have access to complete data of Cyworld's ilchon (friend) relationships and analyze its degree distribution, clustering property, degree correlation, and evolution over time. We also use Cyworld data to evaluate the validity of snowball sampling method, which we use to crawl and obtain partial network topologies of MySpace and orkut. Cyworld, the oldest of the three, demonstrates a changing scaling behavior over time in degree distribution. The latest Cyworld data's degree distribution exhibits a multi-scaling behavior, while those of MySpace and orkut have simple scaling behaviors with different exponents. Very interestingly, each of the two e ponents corresponds to the different segments in Cyworld's degree distribution. Certain online social networking services encourage online activities that cannot be easily copied in real life; we show that they deviate from close-knit online social networks which show a similar degree correlation pattern to real-life social networks.},
    keywords = {sampling,  social network},
-
+   url = {http://www2007.org/papers/paper676.pdf},
+   doi = {10.1145/1242572.1242685},
+   location = {Banff, Alberta, Canada}
 }
 
 @misc{
@@ -547,6 +552,7 @@ emotion},
 @book{
    author = {Bambina, A. D. },
    title = {Online Social Support: The Interplay of Social Networks and Computer-Mediated Communication},
+   note = {ISBN: 978-1-934043-25-7},
    publisher = {Cambria Press. },
    year = {2007}
 }
@@ -570,6 +576,7 @@ emotion},
    publisher = {Sage},
    address = {Thousand Oaks, CA},
    volume = {18},
+   pages = {381-413},
    year = {1995}
 }
 
@@ -661,6 +668,16 @@ echo},
    year = {2004}
 }
 
+@article {
+    author = {Beattie, M.C. and Longabaugh R.},
+    title = {General and alcohol-specific social support following treatment.},
+    journal = {Addictive Behaviors},
+    volume = {24},
+    number = {5},
+    pages = {593-606},
+    year = {1999},
+    notes = {PMID: 10574299}
+}
 @misc{
    author = {Bederson, Benjamin and Hollan, James},
    title = {Pad++: a zooming graphical interface for exploring alternate interface physics},
@@ -1186,6 +1203,16 @@ social support},
 }
 
 @article{
+   author = {Burnett, Gary},
+   title = {Information exchange in virtual communities: A typology},
+   journal = {Information Research},
+   volume = {5},
+   number = {4},
+   note = {http://informationr.net/ir/5-4/paper82.html},
+   year = {2000}
+}
+
+@article{
    author = {Burri, M. and Baujar, V. and Etter, J. F.},
    title = {A qualitative analysis of an Internet discussion forum for recent ex-smokers},
    journal = {Nicotine Tobacco Research},
@@ -1559,15 +1586,6 @@ Coping},
    year = {2008}
 }
 
-@misc{
-   author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
-   title = {Locating patient expertise in everyday life},
-
-   note = {1531718
-291-300},
-   year = {2009}
-}
-
 @article{
    author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
    title = {Locating patient expertise in everyday life},
@@ -1581,22 +1599,14 @@ expertise sharing, patient expertise,cancer patient},
 }
 
 
-@misc{
+@article{
    author = {Civan, Andrea and Pratt, Wanda},
    title = {Threading Together Patient Expertise},
    volume = {11},
    pages = {140-144},
    month = {October },
    abstract = {Patients are valuable sources of expertise for other patients in similar situations, but little is understood about the nature of this expertise. To address this knowledge gap, we investigated informational support as a mechanism for peers to help one another learn to cope with the breast cancer experience. We analyzed the types of problems discussed and recommendations offered by correspondents in three online breast cancer communities. Informational support was prevalent and directed towards problems in which correspondents were planning for future events or coping with emergent situations. Peers shared a wealth of patient expertise, including action strategies, recommended knowledge, suggested approaches, and information resources for dealing with problems. Our results highlight how peers are helping one another to learn. These findings bring insight to new support we could provide to patients for developing and sharing patient expertise, such as problem-based information organization and functionality for collaborative problem solving.},
-   year = {2007}
-}
-
-@article{
-   author = {Civan, Andrea and Pratt, Wanda},
-   title = {Threading Together Patient Expertise},
-   volume = {2007},
-   pages = {140-144 %U http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2655889/pdf/amia-0140-s2007.pdf},
-   abstract = {Patients are valuable sources of expertise for other patients in similar situations, but little is understood about the nature of this expertise. To address this knowledge gap, we investigated informational support as a mechanism for peers to help one another learn to cope with the breast cancer experience. We analyzed the types of problems discussed and recommendations offered by correspondents in three online breast cancer communities. Informational support was prevalent and directed towards problems in which correspondents were planning for future events or coping with emergent situations. Peers shared a wealth of patient expertise, including action strategies, recommended knowledge, suggested approaches, and information resources for dealing with problems. Our results highlight how peers are helping one another to learn. These findings bring insight to new support we could provide to patients for developing and sharing patient expertise, such as problem-based information organization and functionality for collaborative problem solving.},
+   url = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2655889/pdf/amia-0140-s2007.pdf},
    year = {2007}
 }
 
@@ -3481,6 +3491,16 @@ ties},
    keywords = {redundant
 reviews},
    year = {2001}
+}
+
+@article{
+   author = {Henry, N.L.},
+   title = {Getting acquainted with support and self-help groups on the Internet.},
+   journal = {Healthcare on the Internet},
+   volume = {1},
+   number = {2},
+   pages = {27-32},
+   year = {1997}
 }
 
 @misc{
@@ -6341,18 +6361,12 @@ text},
    journal = {Computers in Human Behavior},
    year = {2008}
 }
-
+x
 @misc{
    author = {Pfeil, Ulrike and Zaphiris, Panayiotis},
    title = {Patterns of empathy in online communication},
    pages = {919 - 928  },
    abstract = {This article presents an investigation of empathy within an online community for older people (SeniorNet). Qualitative content analysis of 400 messages from a discussion board about depression was used to determine how empathy is expressed and facilitated in online communication. Special emphasis was placed on determining the components of online empathy. A code scheme that we developed to analyse online empathy is also presented. The findings were compared to offline studies about empathy in order to investigate the influence that the mediating technology has on the phenomenon.},
-   year = {2007}
-}
-
-@misc{
-   author = {Pfeil, Ulrike and Zaphiris, Panayiotis},
-   title = {Patterns of empathy in online communication},
    keywords = {Computer mediated communication (CMC)
 empathy
 inclusive design
@@ -6513,6 +6527,15 @@ prelim},
    volume = {37},
    pages = {1459-1480},
    year = {2008}
+}
+
+@article{
+   author = {Preece, J.},
+   title = {Empathetic Communities: Balancing emotional and factual communication},
+   journal = {Interacting with Computers},
+   volume = {12},
+   pages = {62-77},
+   year = {1999}
 }
 
 @article{
