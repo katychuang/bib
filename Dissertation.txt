@@ -1078,7 +1078,8 @@ Information science},
    booktitle = {MacArthur Foundation Series on Digital Learning - Youth, Identity, and Digital Media Volume},
    publisher = {MIT Press},
    address = {Cambridge},
-   pages = {119-142 %U http://www.danah.org/papers/WhyYouthHeart.pdf},
+   pages = {119-142},
+   url = {http://www.danah.org/papers/WhyYouthHeart.pdf}},
    year = {2008}
 }
 
@@ -1086,28 +1087,23 @@ Information science},
    author = {boyd, danah and Ellison, Nicole},
    title = {Social Network Sites: Definition, History, and Scholarship},
    journal = {JCMC},
-   volume = {13 (1)},
-   year = {2007}
-}
-
-@article{
-   author = {boyd, danah and Ellison, Nicole},
-   title = {Social Network Sites: Definition, History, and Scholarship},
-   journal = {JCMC},
-   volume = {13 (1)},
+   volume = {13},
+   number = {1},
    year = {2007}
 }
 
 @misc{
    author = {boyd, danah and Heer, Jeffrey},
    title = {Profiles as Conversation: Networked Identity Performance on Friendster},
-   publisher = {IEEE Press %U http://www.danah.org/papers/HICSS2006.pdf},
+   publisher = {IEEE Press},
+   url = {http://www.danah.org/papers/HICSS2006.pdf},
    year = {2006}
 }
 
 @misc{
    author = {boyd, danah and Jenkins, Henry},
-   title = {Discussion: MySpace and Deleting Online Predators Act %U http://www.danah.org/papers/MySpaceDOPA.html},
+   title = {Discussion: MySpace and Deleting Online Predators Act},
+   url = {http://www.danah.org/papers/MySpaceDOPA.html},
    year = {2006}
 }
 
@@ -1117,7 +1113,8 @@ Information science},
    journal = {Health Communication},
    volume = {11},
    number = {2},
-   pages = {123 - 151+ %U http://www.informaworld.com/10.1207/s15327027hc1102_2},
+   pages = {123 - 151+},
+   url = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
    abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
 
 }
@@ -1130,7 +1127,7 @@ Information science},
    number = {2},
    pages = {123 - 151},
    abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
-   notes = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
+   url = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
    year = {1999}
 }
 
@@ -1139,14 +1136,13 @@ Information science},
    title = {Communication of Social Support in Computer-Mediated Groups for People With Disabilities},
    journal = {Health Communication},
    volume = {11},
-
    year = {2009}
 }
 
 @inbook{
    author = {Brake, David},
    title = {Shaping the 'Me' in MySpace: The Framing of Profiles on a Social Network Site in Digital Storytelling, Mediatized Stories: Self-Representations in New Media},
-   publisher = {Peter Lang %U none},
+   publisher = {Peter Lang},
    year = {2009}
 }
 
@@ -1156,7 +1152,8 @@ Information science},
    journal = {Machine Learning},
    volume = {24},
    number = {2},
-   pages = {140, 123 %U http://citeseer.ist.psu.edu/breiman96bagging.html},
+   pages = {140, 123},
+   url = {http://citeseer.ist.psu.edu/breiman96bagging.html},
    abstract = {Bagging predictors is a method for generating multiple versions of a predictor and using these to get an aggregated predictor. The aggregation averages over the versions when predicting a numerical outcome and does a plurality vote when predicting a class. The multiple versions are formed by making bootstrap replicates of the learning set and using these as new learning sets. Tests on real and simulated data sets using classification and regression trees and subset selection in linear...},
    keywords = {echo
 ml
@@ -1169,7 +1166,9 @@ modeling},
    title = {HeartCare: an Internet-based information and support system for patient home recovery after coronary artery bypass graft (CABG) surgery},
    journal = {Journal of Advanced Nursing},
    volume = {35},
-   pages = {699-708 %U http://dx.doi.org/10.1046/j.1365-2648.2001.01902.x http://www3.interscience.wiley.com/journal/118983297/abstract},
+   pages = {699-708},
+   doi = {10.1046/j.1365-2648.2001.01902.x},
+   url = {http://www3.interscience.wiley.com/journal/118983297/abstract},
    year = {2001}
 }
 
@@ -1178,7 +1177,8 @@ modeling},
    title = {INTERFERENCE IN VISUAL RECOGNITION},
    journal = {Science (New York, N.Y.)},
    volume = {144},
-   pages = {425, 424 %U http://view.ncbi.nlm.nih.gov/pubmed/14169336},
+   pages = {425, 424},
+   url = {http://view.ncbi.nlm.nih.gov/pubmed/14169336},
    abstract = {Pictures of common objects, coming slowly into focus, were viewed by adult observers. Recognition was delayed when subjects first viewed the pictures out of focus. The greater or more prolonged the initial blur, the slower the eventual recognition. Interference may be accounted for partly by the difficulty of rejecting incorrect hypotheses based on substandard cues.},
    keywords = {behavioral
 econ},
@@ -1187,7 +1187,7 @@ econ},
 
 @article{
    author = {Buffardi, L. E. and Campbell, W. K.},
-   title = {Narcissism and Social Networking Web Sites %U none},
+   title = {Narcissism and Social Networking Web Sites},
    journal = {Pers Soc Psychol Bull},
    year = {2008}
 }
@@ -1201,7 +1201,8 @@ econ},
 
 @misc{
    author = {Burke, M. and Marlow, C. and Lento, T.},
-   title = {Feed me: Motivating newcomer contribution in social network sites %U http://www.thoughtcrumbs.com/publications/paper0778-burke.pdf},
+   title = {Feed me: Motivating newcomer contribution in social network sites},
+   url = {http://www.thoughtcrumbs.com/publications/paper0778-burke.pdf},
    year = {2009}
 }
 
@@ -1223,7 +1224,8 @@ econ},
    volume = {61},
    number = {3},
    pages = {265-280+-265-280+},
-   note = {Explaining Gender Differences in Responses to Supportive Messages: Two Tests of a Dual-Process Approach —=note-separator=— 10.1007/s11199-009-9623-7},
+   note = {Explaining Gender Differences in Responses to Supportive Messages: Two Tests of a Dual-Process Approach},
+   doi = {10.1007/s11199-009-9623-7},
    abstract = {Abstract&nbsp;&nbsp;We propose a comprehensive explanation for gender differences in responses to supportive communication grounded in a dual-process theory of communication outcomes. Two studies confirmed consistent gender differences in responses by US college students to supportive communication and assessed the mediating effects of an ability factor (cognitive complexity) and two motivational factors (expressive and instrumental orientations) on situation elaboration and message evaluation. Study 1 focused on everyday comforting contexts (N = 318), whereas Study 2 focused on bereavement (N = 103). Both studies found that cognitive complexity mediated gender differences in situation elaboration and further found that cognitive complexity and expressive orientation collectively mediated gender differences in evaluative responses to supportive messages. Theoretical and pragmatic implications of the results are discussed.},
    year = {2009}
 }
@@ -1252,7 +1254,7 @@ social support},
    journal = {Information Research},
    volume = {5},
    number = {4},
-   note = {http://informationr.net/ir/5-4/paper82.html},
+   url = {http://informationr.net/ir/5-4/paper82.html},
    year = {2000}
 }
 
@@ -1267,7 +1269,8 @@ social support},
 
 @misc{
    author = {Burt, R.},
-   title = {The Network Structure of Social Capital %U http://citeseer.ist.psu.edu/burt00network.html},
+   title = {The Network Structure of Social Capital},
+   url = {http://citeseer.ist.psu.edu/burt00network.html},
    abstract = {this paper was supported by the Institute Europen d'Administration d'Affaires (INSEAD) and the University of Chicago Graduate School of Business. Portions of the material were presented in 1998 at a "Social Networks and Social Capital" conference organized by Nan Lin and Karen Cook at Duke University, and a "Economic and Organizational Sociology" conference organized by Mauro Guilln and Douglas Massey at the University of Pennsylvania, in 1999 at a "Local Standards and Global Standards in the...},
    keywords = {capital
 sna
@@ -1281,7 +1284,8 @@ social},
    journal = {The American Journal of Sociology},
    volume = {92},
    number = {6},
-   pages = {1335, 1287 %U http://dx.doi.org/10.2307/2779839},
+   pages = {1335, 1287},
+   url = {http://dx.doi.org/10.2307/2779839},
    abstract = {Two classes of network models are used to reanalyze a sociological classic often cited as evidence of social contagion in the diffusion of technological innovation: Medical Innovation. Debate between the cohesion and structural equivalence models poses the following question for study: Did the physicians resolve the uncertainty of adopting the new drug through conversations with colleagues (cohesion) or through their perception of the action proper for an occupant of their position in the social structure of colleagues (structural equivalence)? The alternative models are defined, compared, and tested. Four conclusions are drawn: (a) Contagion was not the dominant factor driving tetracyclene's diffusion. Where there is evidence of contagion, there is evidence of personal preferences at work.},
    keywords = {networks
 prelim},
@@ -1291,7 +1295,8 @@ prelim},
 @book{
    author = {Burt, Ronald},
    title = {Structural Holes: The Social Structure of Competition},
-   publisher = {Harvard University Press %@ 0674843711 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0674843711},
+   publisher = {Harvard University Press %@ 0674843711},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0674843711},
    abstract = {{ Ronald Burt describes the social structural theory of competition that has developed through the last two decades. The contrast between perfect competition and monopoly is replaced with a network model of competition. The basic element in this account is the structural hole: a gap between two individuals with complementary resources or information. When the two are connected through a third individual as entrepreneur, the gap is filled, creating important advantages for the entrepreneur. Competitive advantage is a matter of access to structural holes in relation to market transactions. }},
    keywords = {ties},
    year = {1995}
@@ -1303,7 +1308,8 @@ prelim},
    journal = {American Journal of Sociology},
    volume = {110},
    number = {2},
-   pages = {399, 349 %U http://www.journals.uchicago.edu/doi/abs/10.1086/421787},
+   pages = {399, 349},
+   url = {http://www.journals.uchicago.edu/doi/abs/10.1086/421787},
    keywords = {ties},
    year = {2004}
 }
@@ -1314,7 +1320,8 @@ prelim},
    journal = {Social Forces},
    volume = {55},
    number = {1},
-   pages = {93-122 %U http://www.jstor.org/stable/2577097},
+   pages = {93-122},
+   url = {http://www.jstor.org/stable/2577097},
    year = {1976}
 }
 
@@ -1324,8 +1331,9 @@ prelim},
    journal = {Science},
    volume = {325},
    number = {5939},
-   pages = {416, 414 %U http://dx.doi.org/10.1126/science.1171022},
-   abstract = {Network analysis has emerged as a powerful way of studying phenomena as diverse as interpersonal interaction, connections among neurons, and the structure of the Internet. Appropriate use of network analysis depends, however, on choosing the right network representation for the problem at hand. 10.1126/science.1171022},
+   pages = {416, 414},
+   url = {http://dx.doi.org/10.1126/science.1171022},
+   abstract = {Network analysis has emerged as a powerful way of studying phenomena as diverse as interpersonal interaction, connections among neurons, and the structure of the Internet. Appropriate use of network analysis depends, however, on choosing the right network representation for the problem at hand.},
    keywords = {networks
 prelim},
    year = {2009}
@@ -1335,7 +1343,9 @@ prelim},
    author = {Byrne, Dara},
    title = {Public Discourse, Community Concerns, and Their Relationship to Civic Engagement: Exploring Black Social Networking Traditions on BlackPlanet.com},
    journal = {JCMC},
-   volume = {13 (1) %U http://jcmc.indiana.edu/vol13/issue1/byrne.html},
+   volume = {13},
+   number = {1},
+   url = {http://jcmc.indiana.edu/vol13/issue1/byrne.html},
    year = {2007}
 }
 
@@ -1343,7 +1353,8 @@ prelim},
    author = {Byrne, Dara},
    title = {The Future of (the) 'Race': Identity, Discourse and the Rise of Computer-mediated Public Spheres},
    journal = {MacArthur Foundation Book Series on Digital Learning: Race and Ethnicity Volume},
-   pages = {15-38 %U http://www.mitpressjournals.org/doi/pdf/10.1162/dmal.9780262550673.015},
+   pages = {15-38},
+   url = {http://www.mitpressjournals.org/doi/pdf/10.1162/dmal.9780262550673.015},
    note = {Everett, A.},
    year = {2008}
 }
@@ -1352,7 +1363,9 @@ prelim},
    author = {Cain, Jeff},
    title = {Online social networking issues within academia and pharmacy education},
    journal = {American Journal of Pharmaceutical Education},
-   volume = {72 (1) %U http://www.ajpe.org/aj7201/aj720110/aj720110.pdf},
+   volume = {72},
+   number = {1},
+   url = {http://www.ajpe.org/aj7201/aj720110/aj720110.pdf},
    year = {2008}
 }
 
@@ -1360,7 +1373,9 @@ prelim},
    author = {Cain, Jeff and Scott, D. and Akers, P.},
    title = {Pharmacy Students' Facebook Activity and Opinions Regarding Accountability and E-Professionalism},
    journal = {American Journal of Pharmaceutical Education},
-   volume = {73 (6) %U http://www.ajpe.org/aj7306/aj7306104/aj7306104.pdf},
+   volume = {73},
+   number = {6},
+   url = {http://www.ajpe.org/aj7306/aj7306104/aj7306104.pdf},
    year = {2009}
 }
 
@@ -1385,7 +1400,8 @@ Social Support},
    author = {Cardie, Claire and Farina, Cynthia and Bruce, Thomas},
    title = {Using natural language processing to improve eRulemaking: project highlight},
    publisher = {ACM},
-   pages = {178, 177 %U http://dx.doi.org/10.1145/1146598.1146651},
+   pages = {178, 177},
+   url = {http://dx.doi.org/10.1145/1146598.1146651},
    keywords = {echo
 ml
 text},
