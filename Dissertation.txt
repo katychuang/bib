@@ -1,37 +1,10 @@
 ﻿@misc{
    title = {comScore Media Metrix Ranks Top 50 U.S. Web Properties for June 2008 %U http://www.comscore.com/press/release.asp?press=2339},
    keywords = {ties},
-
-}
-
-@misc{
-   title = {Facebook: US Politics %U http://www.facebook.com/politics},
-   keywords = {echo},
-
-}
-
-@misc{
-   title = {Firebug %U http://www.getfirebug.com},
-   keywords = {echo},
-
-}
-
-@misc{
-   title = {Greasemonkey %U http://www.greasespot.net},
-   keywords = {methods},
-
 }
 
 @misc{
    title = {Social Support for Health Behavior Change %U http://www.center-trt.org/downloads/wisewoman/strategies/Social_Support.pdf},
-
-}
-
-@misc{
-   title = {Technorati Popular: Top 100 blogs %U http://technorati.com/pop/blogs},
-   keywords = {blogs
-echo},
-
 }
 
 @misc{
@@ -682,7 +655,9 @@ echo},
    author = {Bederson, Benjamin and Hollan, James},
    title = {Pad++: a zooming graphical interface for exploring alternate interface physics},
    publisher = {ACM},
-   pages = {26, 17 %@ 0-89791-657-3 %U http://dx.doi.org/10.1145/192426.192435},
+   pages = {26, 17},
+   ISBN = {0-89791-657-3},
+   url = {http://dx.doi.org/10.1145/192426.192435},
    abstract = {We describe the current status of Pad++, a zooming graphical interface that we are exploring as an alternative to traditional window and icon-based approaches to interface design. We discuss the motivation for Pad++, describe the implementation, and present prototype applications. In addition, we introduce an informational physics strategy for interface design and briefly compare it with metaphor-based design strategies.},
    keywords = {visualization
 wemeddlechi},
@@ -693,7 +668,8 @@ wemeddlechi},
    author = {Beenen, Gerard and Ling, Kimberly and Wang, Xiaoqing and Chang, Klarissa and Frankowski, Dan and Resnick, Paul and Kraut, Robert},
    title = {Using social psychology to motivate contributions to online communities},
    publisher = {ACM},
-   pages = {221, 212 %@ 1-58113-810-5 %U http://dx.doi.org/10.1145/1031607.1031642},
+   pages = {221, 212 %@ 1-58113-810-5},
+   url = {http://dx.doi.org/10.1145/1031607.1031642},
    abstract = {Under-contribution is a problem for many online communities. Social psychology theories of social loafing and goal-setting can provide mid-level design principles to address this problem. We tested the design principles in two field experiments. In one, members of an online movie recommender community were reminded of the uniqueness of their contributions and the benefits that follow from them. In the second, they were given a range of individual or group goals for contribution. As predicted by theory, individuals contributed when they were reminded of their uniqueness and when they were given specific and challenging goals, but other predictions were not borne out. The paper ends with suggestions and challenges for mining social science theories as well as implications for design.},
    keywords = {online communities
 social},
@@ -705,7 +681,7 @@ social},
    title = {Making Friends with Jarvis Cocker: Music Culture in the Context of Web 2.0},
    journal = {Cultural Sociology},
    volume = {2 (2)},
-   pages = {222-241 %U none},
+   pages = {222-241},
    year = {2008}
 }
 
@@ -714,7 +690,8 @@ social},
    title = {Social network(ing) sites...revisiting the story so far: A response to danah boyd &amp; Nicole Ellison},
    journal = {Journal of Computer-Mediated Communication},
    volume = {13 (2)},
-   pages = {516-529 %U http://www3.interscience.wiley.com/cgi-bin/fulltext/119414153/HTMLSTART},
+   pages = {516-529},
+   url = {http://www3.interscience.wiley.com/cgi-bin/fulltext/119414153/HTMLSTART},
    year = {2008}
 }
 
@@ -722,7 +699,8 @@ social},
    author = {Beitzel, Steven M. and Jensen, Eric C. and Chowdhury, Abdur and Frieder, Ophir},
    title = {Varying approaches to topical web query classification},
    publisher = {ACM},
-   pages = {783-784 %@ 978-1-59593-597-7},
+   pages = {783-784},
+   isbn = {978-1-59593-597-7},
    year = {2007}
 }
 
