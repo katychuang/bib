@@ -2006,7 +2006,8 @@ time},
    author = {Dave, Kushal and Lawrence, Steve and Pennock, David},
    title = {Mining the peanut gallery: opinion extraction and semantic classification of product reviews},
    publisher = {ACM Press},
-   pages = {528, 519 %@ 1581136803 %U http://dx.doi.org/10.1145/775152.775226},
+   pages = {528, 519 %@ 1581136803},
+   doi = {10.1145/775152.775226},
    keywords = {consumer
 sentiment},
    year = {2003}
@@ -2018,7 +2019,8 @@ sentiment},
    journal = {American Journal of Economics and Sociology},
    volume = {56},
    number = {3},
-   pages = {302, 287 %U http://www.jstor.org/stable/3487236},
+   pages = {302, 287},
+   url = {http://www.jstor.org/stable/3487236},
    abstract = {The social network metaphor is widely used by sociologists to study socioeconomic behavior and processes. The use of social networks generally takes place within the ranks of sociology. However, a more complete social science would result by combining work being done on social networks within sociology with mainline economic theory. The insights from such a research agenda will help us better understand socioeconomic behavior. With this in mind, the main objective of this paper is to demonstrate the utility of the network metaphor to economists. This objective will be accomplished through developing four basic components of social networks, and using them to navigate through the existing literature in economic sociology. Furthermore, topics for future research in which social networks can provide contributions to the explanation of socioeconomic behavior are explored as well.},
    keywords = {econ
 social},
@@ -2038,7 +2040,9 @@ social},
    author = {De Choudhury, Munmun and Sundaram, Hari and John, Ajita and Seligmann, Dor 'ee},
    title = {Can blog communication dynamics be correlated with stock market activity?},
    publisher = {ACM},
-   pages = {60, 55 %@ 9781595939852 %U http://dx.doi.org/10.1145/1379092.1379106},
+   pages = {60, 55},
+   isbn = {9781595939852},
+   url = {http://dx.doi.org/10.1145/1379092.1379106},
    keywords = {econ
 finance
 mining
@@ -2060,7 +2064,8 @@ nlp},
    title = {Facebook and Online Privacy: Attitudes, Behaviors, and Unintended Consequences},
    journal = {Journal of Computer-Mediated Communication},
    volume = {15 (1)},
-   pages = {83 - 108 %U http://dx.doi.org/10.1111/j.1083-6101.2009.01494.x},
+   pages = {83 - 108},
+   doi = {10.1111/j.1083-6101.2009.01494.x},
    year = {2009}
 }
 
