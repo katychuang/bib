@@ -2063,7 +2063,8 @@ nlp},
    author = {Debatin, Bernhard and Lovejoy, Jennette P. and Horn, Ann-Kathrin and Hughes, Brittany N.},
    title = {Facebook and Online Privacy: Attitudes, Behaviors, and Unintended Consequences},
    journal = {Journal of Computer-Mediated Communication},
-   volume = {15 (1)},
+   volume = {15},
+   number = {1},
    pages = {83 - 108},
    doi = {10.1111/j.1083-6101.2009.01494.x},
    year = {2009}
@@ -2071,7 +2072,7 @@ nlp},
 
 @article{
    author = {DeKay, S. H.},
-   title = {Focus on Business Practices: Are Business-Oriented Social Networking Web Sites Useful Resources for Locating Passive Jobseekers? Results of a Recent Survey %U none},
+   title = {Focus on Business Practices: Are Business-Oriented Social Networking Web Sites Useful Resources for Locating Passive Jobseekers? Results of a Recent Survey},
    journal = {Business Communication Quarterly},
    year = {2009}
 }
@@ -2082,7 +2083,8 @@ nlp},
    journal = {Journal of the Royal Statistical Society. Series B (Methodological)},
    volume = {39},
    number = {1},
-   pages = {38, 1 %U http://dx.doi.org/10.2307/2984875},
+   pages = {38, 1},
+   doi = {10.2307/2984875},
    abstract = {A broadly applicable algorithm for computing maximum likelihood estimates from incomplete data is presented at various levels of generality. Theory showing the monotone behaviour of the likelihood and convergence of the algorithm is derived. Many examples are sketched, including missing value situations, applications to grouped, censored or truncated data, finite mixture models, variance component estimation, hyperparameter estimation, iteratively reweighted least squares and factor analysis.},
    keywords = {echo
 ml},
@@ -2092,13 +2094,14 @@ ml},
 @misc{
    author = {DeRosa, C. and Cantrell, J. and Havens, A. and Hawk, J. and Jenkins, L.},
    title = {Sharing, Privacy and Trust in Our Networked World},
-   publisher = {OCLC %U http://www.oclc.org/reports/sharing/default.htm},
+   publisher = {OCLC},
+   url = {http://www.oclc.org/reports/sharing/default.htm},
    year = {2007}
 }
 
 @article{
    author = {Dickman, K. and Dutton, E. and Gioia, C. and Oberhausen, L. and Ravensberg, B.},
-   title = {Facebook and college students' development of mature relationships %U none},
+   title = {Facebook and college students' development of mature relationships},
    journal = {Journal of the Indiana University Student Personnel Association},
    year = {2006}
 }
@@ -2128,7 +2131,8 @@ ml},
    journal = {Science (New York, N.Y.)},
    volume = {298},
    number = {5596},
-   pages = {1194, 1191 %U http://dx.doi.org/10.1126/science.1076358},
+   pages = {1194, 1191},
+   doi = {10.1126/science.1076358},
    abstract = {Emotion is central to the quality and range of everyday human experience. The neurobiological substrates of human emotion are now attracting increasing interest within the neurosciences motivated, to a considerable extent, by advances in functional neuroimaging techniques. An emerging theme is the question of how emotion interacts with and influences other domains of cognition, in particular attention, memory, and reasoning. The psychological consequences and mechanisms underlying the emotional modulation of cognition provide the focus of this article.},
    keywords = {behavioral
 econ
@@ -2140,7 +2144,9 @@ emotion},
    author = {Donath, Judith},
    title = {Signals in Social Supernets},
    journal = {JCMC},
-   volume = {13 (1) %U http://jcmc.indiana.edu/vol13/issue1/donath.html},
+   volume = {13},
+   number = {1},
+   url = {http://jcmc.indiana.edu/vol13/issue1/donath.html},
    year = {2007}
 }
 
@@ -2149,7 +2155,7 @@ emotion},
    title = {Virtually Trustworthy},
    journal = {Science},
    volume = {317 (5834)},
-   pages = {53-54 %U none},
+   pages = {53-54},
    year = {2007}
 }
 
@@ -2158,7 +2164,8 @@ emotion},
    title = {Public displays of connection},
    journal = {BT Technology Journal},
    volume = {22 (4)},
-   pages = {71-82 %U http://www.danah.org/papers/PublicDisplays.pdf},
+   pages = {71-82},
+   url = {http://www.danah.org/papers/PublicDisplays.pdf},
    year = {2004}
 }
 
@@ -2179,7 +2186,8 @@ emotion},
    title = {Structural equivalence in a psychology journal network},
    journal = {Journal of the American Society for Information Science},
    volume = {36},
-   pages = {411-417 %U http://dx.doi.org/10.1002/asi.4630360611},
+   pages = {411-417},
+   doi = {10.1002/asi.4630360611},
    abstract = {Two journal-to-journal matrices for psychology in 1950 and 1960 are analyzed in terms of structural equivalence. Structurally nonequivalent positions have a strong correspondence with a categorization based on the intended audiences and objectives of these journals, supporting the hypothesis that journals of a discipline function as a status-role relational system. The hypothesis that interdisciplinary journals are distant from journals of a field is also supported. However, the hypothesis that journal networks have a core-periphery structure is not supported. The network of psychological journals has a discernable core, but not a clear core-periphery structure. Some propositions concerning the causes and consequences of the structure of journal-to-journal networks for fields are advanced.},
    year = {1985}
 }
@@ -2190,7 +2198,8 @@ emotion},
    journal = {Journal of Marriage and the Family},
    volume = {30},
    number = {3},
-   pages = {443-451 %U http://www.jstor.org/stable/349914},
+   pages = {443-451},
+   url = {http://www.jstor.org/stable/349914},
    year = {1968}
 }
 
@@ -2200,7 +2209,8 @@ emotion},
    journal = {Nature},
    volume = {452},
    number = {7185},
-   pages = {351, 348 %U http://dx.doi.org/10.1038/nature06723},
+   pages = {351, 348},
+   doi = {10.1038/nature06723},
    abstract = {A key aspect of human behaviour is cooperation. We tend to help others even if costs are involved. We are more likely to help when the costs are small and the benefits for the other person significant. Cooperation leads to a tension between what is best for the individual and what is best for the group. A group does better if everyone cooperates, but each individual is tempted to defect. Recently there has been much interest in exploring the effect of costly punishment on human cooperation. Costly punishment means paying a cost for another individual to incur a cost. It has been suggested that costly punishment promotes cooperation even in non-repeated games and without any possibility of reputation effects. But most of our interactions are repeated and reputation is always at stake. Thus, if costly punishment is important in promoting cooperation, it must do so in a repeated setting. We have performed experiments in which, in each round of a repeated game, people choose between cooperation, defection and costly punishment. In control experiments, people could only cooperate or defect. Here we show that the option of costly punishment increases the amount of cooperation but not the average payoff of the group. Furthermore, there is a strong negative correlation between total payoff and use of costly punishment. Those people who gain the highest total payoff tend not to use costly punishment: winners don't punish. This suggests that costly punishment behaviour is maladaptive in cooperation games and might have evolved for other reasons.},
    keywords = {econ
 neat},
@@ -2212,7 +2222,7 @@ neat},
    title = {This is not a blog: gender, intimacy and community},
    journal = {Feminist Media Studies},
    volume = {8 (2)},
-   pages = {198-202 %U none},
+   pages = {198-202},
    year = {2008}
 }
 
@@ -2221,13 +2231,14 @@ neat},
    title = {Broadcast Yourself: Youth, Community and Intimacy Online},
    booktitle = {Youth, Media and Culture in the Asia-Pacific Region},
    publisher = {Cambridge Scholars Press},
-   pages = {71-86 %U none},
+   pages = {71-86},
    year = {2008}
 }
 
 @article{
    author = {Duan, Wenjing and Gu, Bin and Whinston, Andrew},
-   title = {Do Online Reviews Matter? - An Empirical Investigation of Panel Data %U http://ssrn.com/abstract=616262},
+   title = {Do Online Reviews Matter? - An Empirical Investigation of Panel Data},
+   url = {http://ssrn.com/abstract=616262},
    journal = {Social Science Research Network Working Paper Series},
    abstract = {With the proliferation of online user review systems, there has been a growing interest in understanding how they influence consumers' purchase decisions. In this paper, we explore the dynamic process of online user reviews for motion pictures, and its relationship with movies' daily box office performance. We characterize online user reviews through a dynamic simultaneous system, in which we separate the effects of online user reviews as both a precursor to and an outcome of box office revenues. First, in contrast to the common wisdom that better user reviews lead to more sales, we showed that the rating of online user reviews has no significant impact on movies' box office revenues. Second, we found that box office sales are significantly influenced by the number of online postings. Our findings suggest that it is the underlying word-of-mouth effect that plays a dominant role rather than the user ratings. Online user review sites help reveal the underlying word-of-mouth process, but the sites themselves may not play as significant a role in influencing sales as commonly expected.},
    keywords = {consumer
@@ -2237,13 +2248,15 @@ sentiment},
 
 @misc{
    author = {Dwyer, Catherine},
-   title = {Digital Relationships in the 'MySpace' Generation: Results From a Qualitative Study %U http://csis.pace.edu/ dwyer/research/DwyerHICSS2007.pdf},
+   title = {Digital Relationships in the 'MySpace' Generation: Results From a Qualitative Study},
+   url = {http://csis.pace.edu/ dwyer/research/DwyerHICSS2007.pdf},
    year = {2007}
 }
 
 @misc{
    author = {Dwyer, Catherine and Hiltz, Starr Roxanne and Passerini, Katia},
-   title = {Trust and Privacy Concern Within Social Networking Sites: A Comparison of Facebook and MySpace %U http://csis.pace.edu/%7Edwyer/research/DwyerAMCIS2007.pdf},
+   title = {Trust and Privacy Concern Within Social Networking Sites: A Comparison of Facebook and MySpace},
+   url = {http://csis.pace.edu/%7Edwyer/research/DwyerAMCIS2007.pdf},
    year = {2007}
 }
 
@@ -2262,7 +2275,8 @@ sentiment},
    journal = {The Journal of Finance},
    volume = {62},
    number = {4},
-   pages = {1998, 1967 %U http://dx.doi.org/10.1111/j.1540-6261.2007.01262.x},
+   pages = {1998, 1967},
+   doi = {10.1111/j.1540-6261.2007.01262.x},
    keywords = {behavioral
 econ
 emotion
@@ -2277,7 +2291,7 @@ finance},
    volume = {14},
    number = {1},
    pages = {67-78},
-   note = {10.1111/j.1083-6101.2008.01431.x},
+   doi = {10.1111/j.1083-6101.2008.01431.x},
    abstract = {Using a longitudinal, systematic random sample of 490 postings, this study analyzed the type of social support provided, the strategies used to solicit social support, and the themes on the top 5 Yahoo! eating disorder discussion boards. Optimal match theory was used as the theoretical framework for the study. Results suggest that messages providing informational support were more prevalent than those providing instrumental support. Also, the findings revealed that the most frequent strategy for soliciting support was sharing experiences and the most frequent theme was positive affect. The results of the study highlight the significance of prosocial communication exchanges on these discussion boards. },
    year = {2008}
 }
