@@ -1413,7 +1413,7 @@ text},
    title = {Puerto Rican language use on MySpace.com},
    journal = {Centro Journal},
    volume = {20 (1)},
-   pages = {96 - 111 %U none},
+   pages = {96 - 111},
    year = {2008}
 }
 
@@ -1422,7 +1422,7 @@ text},
    title = {High Tech or High Risk: Moral Panics about Girls Online},
    booktitle = {The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning},
    publisher = {MIT Press},
-   pages = {53-75 %U none},
+   pages = {53-75},
    year = {2007}
 }
 
@@ -1432,7 +1432,8 @@ text},
    journal = {Reviews of Modern Physics},
    volume = {81},
    number = {2},
-   pages = {591 %U http://dx.doi.org/10.1103/RevModPhys.81.591},
+   pages = {591},
+   url = {http://dx.doi.org/10.1103/RevModPhys.81.591},
    abstract = {Statistical physics has proven to be a fruitful framework to describe phenomena outside the realm of traditional physics. Recent years have witnessed an attempt by physicists to study collective phenomena emerging from the interactions of individuals as elementary units in social structures. A wide list of topics are reviewed ranging from opinion and cultural and language dynamics to crowd behavior, hierarchy formation, human dynamics, and social spreading. The connections between these problems and other, more traditional, topics of statistical physics are highlighted. Comparison of model results with empirical data from social systems are also emphasized.},
    keywords = {networks
 prelim},
@@ -1469,7 +1470,8 @@ Taiwan},
 @misc{
    author = {Chapman, Tom},
    title = {Social network marketing, engagement marketing and brands},
-   publisher = {Social Network Marketing UK %U http://www.socialnetworkmarketinguk.com/SNMreport2008.pdf},
+   publisher = {Social Network Marketing UK},
+   url = {http://www.socialnetworkmarketinguk.com/SNMreport2008.pdf},
    year = {2008}
 }
 
@@ -1478,14 +1480,16 @@ Taiwan},
    title = {Checking Out Facebook.com: The Impact of a Digital Trend on Academic Libraries},
    journal = {Information Technology and Libraries},
    volume = {26 (1)},
-   pages = {23 %U http://www.acrl.org/ala/lita/litapublications/ital/262007/2601mar/charnigo.pdf},
+   pages = {23},
+   url = {http://www.acrl.org/ala/lita/litapublications/ital/262007/2601mar/charnigo.pdf},
    year = {2007}
 }
 
 @misc{
    author = {Chen, Wei and Wang, Yajun and Yang, Siyu},
    title = {Efficient Influence Maximization in Social Networks},
-   publisher = {ACM Press %U http://research.microsoft.com/en-us/people/weic/kdd09_influence.pdf},
+   publisher = {ACM Press},
+   url = {http://research.microsoft.com/en-us/people/weic/kdd09_influence.pdf},
    year = {2009}
 }
 
@@ -1510,7 +1514,8 @@ Taiwan},
    journal = {New Rev. Hypermedia Multimedia},
    volume = {14},
    number = {1},
-   pages = {121-143 %U http://portal.acm.org/citation.cfm?id=1451749&dl=GUIDE&coll=GUIDE&CFID=85660437&CFTOKEN=55591279},
+   pages = {121-143},
+   url = {http://portal.acm.org/citation.cfm?id=1451749&dl=GUIDE&coll=GUIDE&CFID=85660437&CFTOKEN=55591279},
    abstract = {The problem of identifying cohesive subgroups in social hypertext is reviewed. A computationally efficient three-step framework for identifying cohesive subgroups is proposed, referred to as the Social Cohesion Analysis of Networks (SCAN) method. In the first step of this method (Select), people within a social network are screened using a level of network centrality to select possible subgroup members. In the second step (Collect), the people selected in the first step are collected into subgroups identified at each point in time using hierarchical cluster analysis. In the third step (Choose), similarity modeling is used to choose cohesive subgroups based on the similarity of subgroups when compared across different points in time. The application of this SCAN method is then demonstrated in a case study where a subgroup is automatically extracted from a social network formed based on the online interactions of a group of about 150 people that occurred over a two-year period. In addition, this paper also demonstrates that similarity-based cohesion can provide a different, and in this case more compelling, subgroup representation than a method based on splitting a hierarchical clustering dendrogram using an optimality criterion.},
    keywords = {cluster analysis
 cohesive subgroups
@@ -1527,7 +1532,8 @@ subgroup evolution},
    author = {Chklovski, Timothy},
    title = {Deriving quantitative overviews of free text assessments on the web},
    publisher = {ACM},
-   pages = {162, 155 %@ 1-59593-287-9 %U http://dx.doi.org/10.1145/1111449.1111486},
+   pages = {162, 155 %@ 1-59593-287-9},
+   url = {http://dx.doi.org/10.1145/1111449.1111486},
    abstract = {Many research efforts are addressing the problem of enabling automatic summarization of opinions and assessments stated on the web in product reviews, discussion forums, and blogs. One key difficulty is that relevant assessments scattered throughout web pages are obscured by variations in natural language. In this paper, we focus on a novel aspect of enabling aggregations of assessments of degree to which a given property holds for a given entity (for instance, how touristy is Boston ). We present GrainPile, a user interface for extracting from the web, aggregating and quantifying degree assessments of unconstrained topics. The interface provides a variety of functions: a) identification of dimensions of comparison (properties) relevant to a particular entity or set of entities, b) comparisons of like entities on user-specified properties (for example, which university is more prestigious, Yale or Cornell ), c) tracing the derived opinions back to their sources (so that the reasons for the opinions can be found). A central contribution in GrainPile is the evaluated demonstration of feasibility of mapping the recognized expressions (such as fairly, very, extremely , and so on) to a common scale of numerical values and aggregating across all the extracted assessments to derive an overall assessment of degree. GrainPile's novel assessment and aggregation of degree expressions is shown to strongly outperform an interpretation-free, co-occurrence based method.},
    keywords = {consumer
 sentiment},
@@ -1539,7 +1545,8 @@ sentiment},
    title = {Living in Cyworld: Contextualising Cy-Ties in South Korea},
    booktitle = {Use of Blogs (Digital Formations)},
    publisher = {Peter Lang},
-   pages = {173-186 %U http://www.nicemustard.com/files/jaz_c_cyworld_ch.pdf},
+   pages = {173-186},
+   url = {http://www.nicemustard.com/files/jaz_c_cyworld_ch.pdf},
    year = {2006}
 }
 
@@ -1547,7 +1554,8 @@ sentiment},
    author = {Chopra, Sumit and Thampy, Trivikraman and Leahy, John and Caplin, Andrew and Lecun, Yann},
    title = {Discovering the hidden structure of house prices with a non-parametric latent manifold model},
    publisher = {ACM},
-   pages = {182, 173 %@ 9781595936097 %U http://dx.doi.org/10.1145/1281192.1281214},
+   pages = {182, 173 %@ 9781595936097},
+   url = {http://dx.doi.org/10.1145/1281192.1281214},
    keywords = {classification
 ml
 modeling
@@ -1568,7 +1576,8 @@ sna},
    title = {Social Media Use in the United States: Implications for Health Communication},
    journal = {Journal of Medical Internet Research},
    volume = {11},
-   number = {4 %U http://www.jmir.org/2009/4/e48/HTML},
+   number = {4},
+   url = {http://www.jmir.org/2009/4/e48/HTML},
    year = {2009}
 }
 
@@ -1590,7 +1599,8 @@ sna},
    journal = {The New England journal of medicine},
    volume = {357},
    number = {4},
-   pages = {379, 370 %U http://dx.doi.org/10.1056/NEJMsa066082},
+   pages = {379, 370},
+   url = {http://dx.doi.org/10.1056/NEJMsa066082},
    abstract = {BACKGROUND: The prevalence of obesity has increased substantially over the past 30 years. We performed a quantitative analysis of the nature and extent of the person-to-person spread of obesity as a possible factor contributing to the obesity epidemic. METHODS: We evaluated a densely interconnected social network of 12,067 people assessed repeatedly from 1971 to 2003 as part of the Framingham Heart Study. The body-mass index was available for all subjects. We used longitudinal statistical models to examine whether weight gain in one person was associated with weight gain in his or her friends, siblings, spouse, and neighbors. RESULTS: Discernible clusters of obese persons (body-mass index [the weight in kilograms divided by the square of the height in meters], > or =30) were present in the network at all time points, and the clusters extended to three degrees of separation. These clusters did not appear to be solely attributable to the selective formation of social ties among obese persons. A person's chances of becoming obese increased by 57% (95% confidence interval [CI], 6 to 123) if he or she had a friend who became obese in a given interval. Among pairs of adult siblings, if one sibling became obese, the chance that the other would become obese increased by 40% (95% CI, 21 to 60). If one spouse became obese, the likelihood that the other spouse would become obese increased by 37% (95% CI, 7 to 73). These effects were not seen among neighbors in the immediate geographic location. Persons of the same sex had relatively greater influence on each other than those of the opposite sex. The spread of smoking cessation did not account for the spread of obesity in the network. CONCLUSIONS: Network phenomena appear to be relevant to the biologic and behavioral trait of obesity, and obesity appears to spread through social ties. These findings have implications for clinical and public health interventions.},
    keywords = {networks},
    year = {2007}
@@ -1600,8 +1610,9 @@ sna},
    author = {Christofides, Emily and Muise, Amy and Desmarais, Serge},
    title = {Information Disclosure and Control on Facebook: Are They Two Sides of the Same Coin or Two Different Processes?},
    journal = {CyberPsychology & Behavior},
-   volume = {12 (3)},
-   pages = {341-345 %U none},
+   volume = {12},
+   number = {3},
+   pages = {341-345},
    year = {2009}
 }
 
@@ -1642,7 +1653,8 @@ Coping},
    author = {Chun, Hyunwoo and Kwak, Haewoon and Eom, Young-Ho and Ahn, Yong-Yeol and Moon, Sue and Jeong, Hawoong},
    title = {Comparison of online social relations in volume vs interaction: a case study of cyworld},
    publisher = {ACM},
-   pages = {57-70 %U http://www.ece.ucdavis.edu/ chuah/classes/EEC274/refs/08CK-cyworld.pdf},
+   pages = {57-70},
+   url = {http://www.ece.ucdavis.edu/ chuah/classes/EEC274/refs/08CK-cyworld.pdf},
    year = {2008}
 }
 
@@ -1650,7 +1662,9 @@ Coping},
    author = {Civan, Andrea and McDonald, David W. and Unruh, Kenton T. and Pratt, Wanda},
    title = {Locating patient expertise in everyday life},
    publisher = {ACM},
-   note = {Proceedings of the ACM 2009 international conference on Supporting group work %W Sanibel Island, Florida, USA %U http://dx.doi.org/10.1145/1531674.1531718},
+   note = {Proceedings of the ACM 2009 international conference on Supporting group work},
+   address = {Sanibel Island, Florida, USA},
+   url = {http://dx.doi.org/10.1145/1531674.1531718},
    pages = {291-300},
    abstract = {Coping with a new health issue often requires individuals to acquire knowledge and skills to manage personal health. Many patients turn to one another for experiential expertise outside the formal bounds of the health-care system. Internet-based social software can facilitate expertise sharing among patients, but provides only limited ways for users to locate sources of patient expertise. Although much prior research has investigated expertise location and systems to augment expertise sharing in workplace organizations, the transferability of this knowledge to other contexts, such as personal health, is unclear. Guided by expertise locating frameworks drawn from prior work, we conducted a field study to investigate expertise locating in the informal and everyday context of women diagnosed with breast cancer. Similarities between patients' expertise locating practices and practices of professionals in workplace organizations suggest similar support strategies could apply in both contexts. However, unlike professionals, unsolicited advice often triggered patients to locate expertise. They identified expertise through various forms of gatekeeping. The high-stakes nature of problems patients faced also led them to use triangulation strategies in anticipation of breakdowns in expertise location. Based on these key differences, we explored five design additions to social software that could support patients in their critical need to locate patient expertise.},
    keywords = {expertise location
@@ -1673,7 +1687,8 @@ expertise sharing, patient expertise,cancer patient},
 @book{
    author = {Clark, Herbert},
    title = {Arenas of Language Use},
-   publisher = {University Of Chicago Press %@ 0226107825 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0226107825},
+   publisher = {University Of Chicago Press %@ 0226107825},
+   url = { http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0226107825},
    abstract = {When we think of the ways we use language, we think of face-to-face conversations, telephone conversations, reading and writing, and even talking to oneself. These are arenas of language use—theaters of action in which people do things with language. But what exactly _are_ they doing with language? What are their goals and intentions? By what processes do they achieve these goals? In these twelve essays, Herbert H. Clark and his colleagues discuss the collective nature of language—the ways in which people coordinate with each other to determine the meaning of what they say. According to Clark, in order for one person to understand another, there must be a "common ground" of knowledge between them. He shows how people infer this "common ground" from their past conversations, their immediate surroundings, and their shared cultural background. Clark also discusses the means by which speakers design their utterances for particular audiences and coordinate their use of language with other participants in a language arena. He argues that language use in conversation is a collaborative process, where speaker and listener work together to establish that the listener understands the speaker's meaning. Since people often use words to mean something quite different from the dictionary definitions of those words, Clark offers a realistic perspective on how speakers and listeners coordinate on the meanings of words. This collection presents outstanding examples of Clark's pioneering work on the pragmatics of language use and it will interest psychologists, linguists, computer scientists, and philosophers.},
    keywords = {ties},
    year = {1993}
@@ -1683,7 +1698,8 @@ expertise sharing, patient expertise,cancer patient},
    author = {Clarke, Barbie H.},
    title = {Early Adolescents' Use of Social Networking Sites to Maintain Friendship and Explore Identity: Implications for Policy},
    journal = {Policy & Internet},
-   volume = {1 (1) %U none},
+   volume = {1},
+   number = {1},
    year = {2009}
 }
 
@@ -1720,8 +1736,8 @@ expertise sharing, patient expertise,cancer patient},
    journal = {Educational and Psychological Measurement},
    volume = {20},
    number = {1},
-   pages = {46, 37 %U http://dx.doi.org/10.1177/001316446002000104},
-   abstract = {10.1177/001316446002000104},
+   pages = {46, 37},
+   doi = {10.1177/001316446002000104},
    keywords = {methods
 social},
    year = {1960}
@@ -1732,7 +1748,7 @@ social},
    title = {Gendering Facebook: Privacy and commidification},
    journal = {Feminist Media Studies},
    volume = {8 (2)},
-   pages = {210-214 %U none},
+   pages = {210-214},
    year = {2008}
 }
 
@@ -1742,7 +1758,8 @@ social},
    journal = {Popular Music},
    volume = {12},
    number = {2},
-   pages = {123–138 %U http://www.jstor.org/stable/931294},
+   pages = {123–138},
+   url = {http://www.jstor.org/stable/931294},
    keywords = {music
 taste},
    year = {1993}
@@ -1764,14 +1781,16 @@ taste},
    author = {Cohen, Sheldon and Brissette, Ian and Skoner, David and Doyle, William},
    title = {Social Integration and Health: The Case of the Common Cold},
    journal = {Journal of Social Structure},
-   volume = {1 %U http://www.cmu.edu/joss/content/articles/volume1/cohen.html},
+   volume = {1},
+   url = {http://www.cmu.edu/joss/content/articles/volume1/cohen.html},
    keywords = {networks},
 
 }
 
 @misc{
    author = {Cohn, Michael and Mehl, Matthias and Pennebaker, James},
-   title = {Research Article Linguistic Markers of Psychological Change %U http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.58.7736},
+   title = {Research Article Linguistic Markers of Psychological Change},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.58.7736},
    abstract = {ABSTRACT—The diaries of 1,084 U.S. users of an on-line journaling service were downloaded for a period of 4 months spanning the 2 months prior to and after the September 11 attacks. Linguistic analyses of the journal entries revealed pronounced psychological changes in response to the attacks. In the short term, participants expressed more negative emotions, were more cognitively and socially engaged, and wrote with greater psychological distance. After 2 weeks, their moods and social referencing returned to baseline, and their use of cognitive-analytic words dropped below baseline. Over the next 6 weeks, social referencing decreased, and psychological distancing remained elevated relative to baseline. Although the effects were generally stronger for individuals highly preoccupied with September 11, even participants who hardly wrote about the events showed comparable language changes. This study bypasses many of the},
    keywords = {classification
 emotion
@@ -1789,7 +1808,7 @@ text},
    number = {2},
    pages = {119 - 130},
    abstract = {As a way of identifying a conduit to disseminate health information, this study aims to explore health behaviors and attitudes of a unique group of extensively socially-networked individuals who regularly are asked for their health advice. Respondents from a population-based consumer opinion panel (<i>n</i>Â =Â 2,639) were categorized as â€œextensively socially-networkedâ€ (75+ friends and acquaintances, and almost daily giving friends advice on general issues) vs. â€œnon-networked.â€ The networked respondents were further divided into â€œhealth-networkedâ€ (regularly asked for health advice) versus â€œonly-socially-networkedâ€ groups (asked for general advice, not health). Chi-square analyses, ANOVA tests, and multivariate regressions controlling for sociodemographic variables compared health behaviors and attitudes between groups. Results indicated that health-networked individuals reported more positive health behaviors (e.g., fruit and vegetable consumption) and attitudes than only-socially-networked and non-networked individuals. Future research is warranted to elucidate how providing health advice to a large network contributes to the positive health of health-networked individuals. Exploratory analyses revealed that doctors and health/fitness magazines were main sources of health and nutrition information for health-networked respondents. Through their advice and word-of-mouth, health-networked individuals have the potential to influence the health information of large groups of people and, therefore, may serve as valuable change agents to disseminate health and nutrition information.},
-   notes = {http://www.informaworld.com/10.1080/10810730802659111},
+   url = {http://www.informaworld.com/10.1080/10810730802659111},
    year = {2009}
 }
 
@@ -1798,7 +1817,7 @@ text},
    title = {Academic Libraries, Facebook and MySpace, and Student Outreach: A Survey of Student Opinion},
    journal = {portal: Libraries and the Academy},
    volume = {9 (1)},
-   pages = {25-36 %U none},
+   pages = {25-36},
    year = {2008}
 }
 
@@ -1808,7 +1827,8 @@ text},
    journal = {Organization Science},
    volume = {7},
    number = {2},
-   pages = {135, 119 %U http://dx.doi.org/10.2307/2634976},
+   pages = {135, 119},
+   url = {http://dx.doi.org/10.2307/2634976},
    abstract = {People use weak ties-relationships with acquaintances or strangers-to seek help unavailable from friends or colleagues. Yet in the absence of personal relationships or the expectation of direct reciprocity, help from weak ties might not be forthcoming or could be of low quality. We examined the practice of distant employees (strangers) exchanging technical advice through a large organizational computer network. A survey of advice seekers and those who replied was conducted to test hypotheses about the viability and usefulness of such electronic weak tie exchanges. Theories of organizational motivation suggest that positive regard for the larger organization can substitute for direct incentives or personal relationships in motivating people to help others. Theories of weak ties suggest that the usefulness of this help may depend on the number of ties, the diversity of ties, or the resources of help providers. We hypothesized that, in an organizational context, the firm-specific resources and organizational motivation of people who provide advice will predict the usefulness of advice. We investigated these theories in a study of employees of a global computer manufacturer. We collected survey and observational data on the relationships between information seekers and information providers; the number, diversity, resources, and motivations of information providers, and subjective ratings of the usefulness of the advice (from both parties in the exchange) and whether or not the advice solved information seekers' problems. We found that information providers gave useful advice and solved the problems of information seekers, despite their lack of a personal connection with the seekers. The data support the main hypotheses and provide some support for resource and diversity explanations of weak tie influence. We discuss how this organization's culture sustained useful information exchange through weak ties.},
    keywords = {ties},
    year = {1996}
@@ -1818,7 +1838,8 @@ text},
    author = {Cosley, Dan and Frankowski, Dan and Kiesler, Sara and Terveen, Loren and Riedl, John},
    title = {How oversight improves member-maintained communities},
    publisher = {ACM},
-   pages = {20, 11 %@ 1-58113-998-5 %U http://dx.doi.org/10.1145/1054972.1054975},
+   pages = {20, 11 %@ 1-58113-998-5},
+   url = {http://dx.doi.org/10.1145/1054972.1054975},
    abstract = {Online communities need regular maintenance activities such as moderation and data input, tasks that typically fall to community owners. Communities that allow all members to participate in maintenance tasks have the potential to be more robust and valuable. A key challenge in creating member-maintained communities is building interfaces, algorithms, and social structures that encourage people to provide high-quality contributions. We use Karau and Williams' collective effort model to predict how peer and expert editorial oversight affect members' contributions to a movie recommendation website and test these predictions in a field experiment with 87 contributors. Oversight increased both the quantity and quality of contributions while reducing antisocial behavior, and peers were as effective at oversight as experts. We draw design guidelines and suggest avenues for future work from our results.},
    keywords = {online communities
 redundant
@@ -1830,7 +1851,8 @@ wikipedia},
    author = {Cosley, Dan and Frankowski, Dan and Terveen, Loren and Riedl, John},
    title = {Using intelligent task routing and contribution review to help communities build artifacts of lasting value},
    publisher = {ACM},
-   pages = {1046, 1037 %@ 1-59593-372-7 %U http://dx.doi.org/10.1145/1124772.1124928},
+   pages = {1046, 1037 %@ 1-59593-372-7},
+   url = {http://dx.doi.org/10.1145/1124772.1124928},
    abstract = {Many online communities are emerging that, like Wikipedia, bring people together to build community-maintained artifacts of lasting value (CALVs). Motivating people to contribute is a key problem because the quantity and quality of contributions ultimately determine a CALV's value. We pose two related research questions: 1) How does intelligent task routing---matching people with work---affect the quantity of contributions? 2) How does reviewing contributions before accepting them affect the quality of contributions? A field experiment with 197 contributors shows that simple, intelligent task routing algorithms have large effects. We also model the effect of reviewing contributions on the value of CALVs. The model predicts, and experimental data shows, that value grows more slowly with review before acceptance. It also predicts, surprisingly, that a CALV will reach the same final value whether contributions are reviewed before or after they are made available to the community.},
    keywords = {redundant
 reviews},
@@ -1841,7 +1863,8 @@ reviews},
    author = {Cosley, Dan and Frankowski, Dan and Terveen, Loren and Riedl, John},
    title = {SuggestBot: using intelligent task routing to help people find work in wikipedia},
    publisher = {ACM},
-   pages = {41, 32 %@ 1-59593-481-2 %U http://dx.doi.org/10.1145/1216295.1216309},
+   pages = {41, 32 %@ 1-59593-481-2},
+   url = {http://dx.doi.org/10.1145/1216295.1216309},
    abstract = {Member-maintained communities ask their users to perform tasks the community needs. From Slashdot, to IMDb, to Wikipedia, groups with diverse interests create community-maintained artifacts of lasting value (CALV) that support the group's main purpose and provide value to others. Said communities don't help members find work to do, or do so without regard to individual preferences, such as Slashdot assigning meta-moderation randomly. Yet social science theory suggests that reducing the cost and increasing the personal value of contribution would motivate members to participate more.We present SuggestBot, software that performs intelligent task routing (matching people with tasks) in Wikipedia. SuggestBot uses broadly applicable strategies of text analysis, collaborative filtering, and hyperlink following to recommend tasks. SuggestBot's intelligent task routing increases the number of edits by roughly four times compared to suggesting random articles. Our contributions are: 1) demonstrating the value of intelligent task routing in a real deployment; 2) showing how to do intelligent task routing; and 3) sharing our experience of deploying a tool in Wikipedia, which offered both challenges and opportunities for research.},
    keywords = {wemeddlechi},
    year = {2007}
@@ -1852,14 +1875,14 @@ reviews},
    title = {Learning to Immaterial Labour 2.0: MySpace and Social Networks},
    journal = {ephemera},
    volume = {7 (1)},
-   pages = {88-106 %U none},
+   pages = {88-106},
    year = {2007}
 }
 
 @misc{
    author = {Counts, S. and Fisher, K. E.},
    title = {Mobile Social Networking: An Information Grounds Perspective},
-   pages = {153 %U none},
+   pages = {153},
    year = {2008}
 }
 
@@ -1870,7 +1893,7 @@ reviews},
    volume = {25},
    number = {4},
    pages = {911-918},
-   note = {doi: DOI: 10.1016/j.chb.2009.03.006},
+   doi = {10.1016/j.chb.2009.03.006},
    abstract = {Hundreds of thousands of people sharing concerns about HIV/AIDS have taken advantage of online self-help groups to exchange resources and support. Little research so far has focused on the nature and content of actual messages exchanged by group members. To provide an in-depth understanding of social support exchanges in online HIV/AIDS self-help groups, this study identifies and analyzes the dimensions and corresponding frequencies of exchanged social support as well as the group interactions facilitating those exchanges. A total of 5000 postings created within a 1 year period were randomly selected from a selected online HIV/AIDS forum. Content analysis was then conducted to assess the types and proportions of exchanged social support. A thematic analysis of the postings that could not be categorized with the adopted coding system was performed to find further patterns of positive group interactions. The results show that information support (41.6%) and emotional support (16.0%) were exchanged most frequently, followed by network support (6.8%) and esteem support exchanges (6.4%), whereas tangible assistance was quite rare (0.8%). The authors also suggest that three types of group interactions including sharing personal experience, expression of gratitude, and offering congratulations can facilitate social support exchanges among group members.},
    keywords = {Support groups
 Internet
@@ -1886,7 +1909,8 @@ Content analysis},
    title = {Gratifications and Seeding Behavior of Online Adolescents},
    journal = {Journal of Computer-Mediated Communication},
    volume = {15 (1)},
-   pages = {109-137 %U http://dx.doi.org/10.1111/j.1083-6101.2009.01496.x},
+   pages = {109-137},
+   doi = {http://dx.doi.org/10.1111/j.1083-6101.2009.01496.x},
    year = {2009}
 }
 
@@ -1894,7 +1918,8 @@ Content analysis},
    author = {Cristian Danescu Niculescu, Mizil and Kossinets, Gueorgi and Kleinberg, Jon and Lee, Lillian},
    title = {How opinions are received by online communities: a case study on amazon.com helpfulness votes},
    publisher = {ACM},
-   pages = {150, 141 %@ 978-1-60558-487-4 %U http://dx.doi.org/10.1145/1526709.1526729},
+   pages = {150, 141 %@ 978-1-60558-487-4},
+   doi = {10.1145/1526709.1526729},
    abstract = {There are many on-line settings in which users publicly express opinions. A number of these offer mechanisms for other users to evaluate these opinions; a canonical example is Amazon.com, where reviews come with annotations like "26 of 32 people found the following review helpful." Opinion evaluation appears in many off-line settings as well, including market research and political campaigns. Reasoning about the evaluation of an opinion is fundamentally different from reasoning about the opinion itself: rather than asking, "What did Y think of X?", we are asking, "What did Z think of Y's opinion of X?" Here we develop a framework for analyzing and modeling opinion evaluation, using a large-scale collection of Amazon book reviews as a dataset. We find that the perceived helpfulness of a review depends not just on its content but also but also in subtle ways on how the expressed evaluation relates to other evaluations of the same product. As part of our approach, we develop novel methods that take advantage of the phenomenon of review "plagiarism" to control for the effects of text in opinion evaluation, and we provide a simple and natural mathematical model consistent with our findings. Our analysis also allows us to distinguish among the predictions of competing theories from sociology and social psychology, and to discover unexpected differences in the collective opinion-evaluation behavior of user populations from ifferent countries.},
    keywords = {reviews},
    year = {2009}
@@ -1905,7 +1930,10 @@ Content analysis},
    title = {Formative Evaluation and Three-Month Follow-Up of an Online Personalized Assessment Feedback Intervention for Problem Drinkers},
    journal = {Journal of Medical Internet Research},
    volume = {8},
-   pages = {e5 %U http://www.jmir.org/2006/2/e5/ http://dx.doi.org/10.2196/jmir.8.2.e5 http://www.ncbi.nlm.nih.gov/pubmed/16867968},
+   pages = {e5},
+   pmid = {16867968},
+   doi = {10.2196/jmir.8.2.e5},
+   url = {http://www.jmir.org/2006/2/e5/},
    keywords = {alcohol
 internet
 self-help
@@ -1920,7 +1948,7 @@ Web-based},
    volume = {70},
    number = {2},
    pages = {193-198},
-   note = {doi: DOI: 10.1016/j.pec.2007.10.003},
+   doi = {10.1016/j.pec.2007.10.003},
    abstract = {Objective Social support networks have been identified as one factor that can help people resolve their problem drinking. A relatively new phenomenon is online support groups, such as the one provided on the Alcohol Help Center (AHC; http://www.alcoholhelpcenter.net). Preliminary use of the AHC support group will be summarized and lessons learned in the initial development of an online support group will be discussed.Methods The AHC support group can be viewed by anyone interested in its content. However, only registered users of the AHC can make postings and trained professional staff moderates all support group content. The amount and content of traffic on this support group were recorded. Qualitative analyses were conducted to identify the types of message content.Results There were 674 posts on the AHC during the first 10 months of operation, including those made by the professional moderators. Content analyses of these postings identified common themes, including introductions, greetings, general supportive statements, suggested strategies, success stories, and discussion of difficulties. In addition, it appeared that the amount of traffic on the support group varied over time and clustered around nodes that consisted of one or more active users. This variation in traffic may disappear over time as overall use of the AHC support group increases.Conclusions Online support groups are developing into a new venue of support for those with drinking problems and other addictions concerns.Practice implications Consider referring clients to an online, professionally moderated, support group as another means to help problem drinkers.},
    keywords = {Alcohol
 Internet
@@ -1934,7 +1962,8 @@ Support groups},
    journal = {The Public Opinion Quarterly},
    volume = {41},
    number = {3},
-   pages = {384, 379 %U http://dx.doi.org/10.2307/2748573},
+   pages = {384, 379},
+   doi = {10.2307/2748573},
    abstract = {Researchers who gather data from several different groups are frequently faced with the problem of response set bias. This paper discusses the ipsative process, a technique which can reduce systematic response bias which exists between groups in a study. The usefulness of the ipsative process is illustrated on cross-cultural research findings gathered in four countries.},
    keywords = {methods},
    year = {1977}
@@ -1954,16 +1983,8 @@ Support groups},
 @phdthesis{
    author = {Dahlbeck and nbsp},
    title = {Life satisfaction and stress among mothers and fathers of children with cerebral palsy: The impact of social support, financial stress, positive affect, relationship satisfaction, and religious community support},
-   university = {Memphis State University %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1987511261&Fmt=7&clientId=18133&RQT=309&VName=PQD},
-   keywords = {Counseling Psychology
-Mental health
-Religion},
-   year = {2009}
-}
-
-@phdthesis{
-   author = {Dahlbeck, D.},
-   title = {Life satisfaction and stress among mothers and fathers of children with cerebral palsy: The impact of social support, financial stress, positive affect, relationship satisfaction, and religious community support %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1987511261&Fmt=7&clientId=18133&RQT=309&VName=PQD},
+   university = {Memphis State University},
+   url = {http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1987511261&Fmt=7&clientId=18133&RQT=309&VName=PQD},
    keywords = {Counseling Psychology
 Mental health
 Religion},
