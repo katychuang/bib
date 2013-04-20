@@ -1,27 +1,31 @@
 ﻿@misc{
-   title = {comScore Media Metrix Ranks Top 50 U.S. Web Properties for June 2008 %U http://www.comscore.com/press/release.asp?press=2339},
+   title = {comScore Media Metrix Ranks Top 50 U.S. Web Properties for June 2008},
+   url = {http://www.comscore.com/press/release.asp?press=2339},
    keywords = {ties},
 }
 
 @misc{
-   title = {Social Support for Health Behavior Change %U http://www.center-trt.org/downloads/wisewoman/strategies/Social_Support.pdf},
+   title = {Social Support for Health Behavior Change},
+   url = {http://www.center-trt.org/downloads/wisewoman/strategies/Social_Support.pdf}
 }
 
 @misc{
-   title = {The Wisdom of Patients: Health Care Meets Online Social Media - CHCF.org %U http://www.chcf.org/publications/2008/04/the-wisdom-of-patients-health-care-meets-online-social-media},
-
+   title = {The Wisdom of Patients: Health Care Meets Online Social Media - CHCF.org},
+   url = {http://www.chcf.org/publications/2008/04/the-wisdom-of-patients-health-care-meets-online-social-media}
 }
 
 @article{
    title = {Emotion homophily in social network site messages},
    journal = {First Monday},
-   volume = {15 (4-5) %U http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2897/2483},
+   volume = {15 (4-5)},
+   url = {http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2897/2483},
    year = {2010}
 }
 
 @misc{
-   title = {Led by Facebook, Twitter, Global Time Spent on Social Media Sites up 82% Year over Year %U http://blog.nielsen.com/nielsenwire/global/led-by-facebook-twitter-global-time-spent-on-social-media-sites-up-82-year-over-year},
+   title = {Led by Facebook, Twitter, Global Time Spent on Social Media Sites up 82% Year over Year},
    abstract = {According to The Nielsen Company, global* consumers spent more than five and half hours on social networking sites like Facebook and Twitter in December 2009, an 82% increase from the same time last year when users were spending just over three hours on social networking sites. In addition, the overall traffic to social networking sites has grown over the last three years. Globally, social networks and blogs are the most popular online category when ranked by average time spent in December, followed by online games and instant messaging. With 206.9 million unique visitors, Facebook was the No. 1 global social networking destination in December 2009 and 67% of global social media users visited the site during the month. Time on site for Facebook has also been on the rise, with global users spending nearly six hours per month on the site. http://blog.nielsen.com/nielsenwire/wp-content/uploads/2010/01/social-media-time1.png U.S. Growth in Average time Person on Facebook and Twitter Outpaces Growth of Overall Category People in the U.S. continue to spend more time on social networking and blog sites as well, with total minutes increasing 210% year-over-year and the average time per person increasing 143% year-over-year in December 2009. Year-over-year growth in average time spent by U.S. users, for both Facebook and Twitter.com, outpaced the overall growth for the category, increasing 200% and 368%, respectively. Among, the top five U.S. social networking sites, Twitter.com continued its reign as the fastest-growing in December 2009 in terms of unique visitors, increasing 579% year-over-year, from 2.7 million unique visitors in December 2008 to 18.1 million in December 2009. However, month-over-month, unique visitors decreased 5% http://blog.nielsen.com/nielsenwire/wp-content/uploads/2010/01/social-network-growth.png},
+   url = {http://blog.nielsen.com/nielsenwire/global/led-by-facebook-twitter-global-time-spent-on-social-media-sites-up-82-year-over-year},
    year = {2010}
 }
 
@@ -40,7 +44,8 @@
    author = {Acquisti, Alessandro and Gross, Ralph},
    title = {Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook},
    publisher = {Robinson College},
-   pages = {36–58 %U http://petworkshop.org/2006/preproc/preproc_03.pdf},
+   pages = {36–58},
+   url = {http://petworkshop.org/2006/preproc/preproc_03.pdf},
    year = {2006}
 }
 
@@ -49,7 +54,8 @@
    title = {Predicting Social Security numbers from public data},
    journal = {Proceedings of the National Academy of Sciences},
    volume = {106 (27)},
-   pages = {10975-10980 %U http://www.pnas.org/content/106/27/10975.abstract},
+   pages = {10975-10980},
+   url = {http://www.pnas.org/content/106/27/10975.abstract},
    year = {2009}
 }
 
@@ -58,15 +64,17 @@
    title = {A Social Network Caught in the Web},
    journal = {First Monday},
    volume = {8},
-   number = {6 %U http://www.firstmonday.org/issues/issue8_6/adamic/},
+   number = {6},
+   url = {http://www.firstmonday.org/issues/issue8_6/adamic/},
    keywords = {ties},
    year = {2003}
 }
 
 @misc{
    author = {Adamic, Lada and Glance, Natalie},
-   title = {The Political Blogosphere and the 2004 U.S. Election: Divided They Blog %U http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.59.9009},
+   title = {The Political Blogosphere and the 2004 U.S. Election: Divided They Blog},
    abstract = {In this paper, we study the linking patterns and discussion topics of political bloggers.},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.59.9009},
    keywords = {blogs
 echo
 empirical},
@@ -79,7 +87,8 @@ empirical},
    journal = {Social Networks},
    volume = {25},
    number = {3},
-   pages = {211-230 %U http://www.sciencedirect.com/science/article/B6VD1-48Y6SYK-1/2/8216f71528567bedb3a194828fe68c34},
+   pages = {211-230},
+   url = {http://www.sciencedirect.com/science/article/B6VD1-48Y6SYK-1/2/8216f71528567bedb3a194828fe68c34},
    keywords = {Homepage analysis
 Small worlds
 Web communities},
@@ -95,7 +104,7 @@ Web communities},
 
 @article{
    author = {Agarwal, S. and Mital, M.},
-   title = {Focus on Business Practices: An Exploratory Study of Indian University Students' Use of Social Networking Web Sites: Implications for the Workplace %U none},
+   title = {Focus on Business Practices: An Exploratory Study of Indian University Students' Use of Social Networking Web Sites: Implications for the Workplace},
    journal = {Business Communication Quarterly},
    year = {2009}
 }
@@ -104,13 +113,14 @@ Web communities},
    author = {Agichtein, E. and Castillo, C. and Donato, D. and Gionis, A. and Mishne, G. },
    title = {Finding high-quality content in social media.},
    booktitle = {ACM Web Search and Data Mining Conference (WSDM)},
-   note = {http://www.mathcs.emory.edu/~eugene/papers/wsdm2008quality.pdf},
+   url = {http://www.mathcs.emory.edu/~eugene/papers/wsdm2008quality.pdf},
    year = {2008}
 }
 
 @misc{
    author = {Agichtein, Eugene and Castillo, Carlos and Donato, Debora and Gionis, Aristides and Mishne, Gilad},
-   title = {Finding High Quality Content in Social Media %U http://www.mathcs.emory.edu/~eugene/papers/wsdm2008quality.pdf},
+   title = {Finding High Quality Content in Social Media},
+   url = {http://www.mathcs.emory.edu/~eugene/papers/wsdm2008quality.pdf},
    keywords = {community question answering
 social media
 user interactions},
@@ -121,7 +131,8 @@ user interactions},
    author = {Agresti, Alan and Coull, Brent},
    title = {Approximate Is Better Than "Exact" for Interval Estimation of Binomial Proportions},
    journal = {The American Statistician},
-   volume = {52 %U http://www.questia.com/googleScholar.qst;jsessionid=LNTBSQWkCyG6zbYXt3NNC8vPSBpZlRvJ1SxPpJpXpKSW7WnCW2PB!-725903841?docId=5001349531},
+   volume = {52},
+   url = {http://www.questia.com/googleScholar.qst;jsessionid=LNTBSQWkCyG6zbYXt3NNC8vPSBpZlRvJ1SxPpJpXpKSW7WnCW2PB!-725903841?docId=5001349531},
    keywords = {stats},
    year = {1998}
 }
@@ -129,7 +140,8 @@ user interactions},
 @misc{
    author = {Ahanger, Gulrukh and Benson, Dan and Little, Thomas D. C.},
    title = {Video Query Formulation},
-   pages = {280–291 %U http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.7121},
+   pages = {280–291},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.7121},
    abstract = {For developing advanced query formulation methods for general multimedia data, we describe the issues related to video data. We distinguish between the requirements for image retrieval and video retrieval by identifying queryable attributes unique to video data, namely audio, temporal structure, motion, and events. Our approach is based on visual query methods to describe predicates interactively while providing feedback that is as similar as possible to the video data. An initial prototype of...},
    keywords = {queries
 video},
@@ -154,7 +166,9 @@ video},
    author = {Ahn, Yong-Yeol and Han, Seungyeop and Kwak, Haewoon and Moon, Sue and Jeong, Hawoong},
    title = {Analysis of topological characteristics of huge online social networking services},
    publisher = {ACM},
-   pages = {835-844 %@ 978-1-59593-654-7 %U http://portal.acm.org/citation.cfm?id=1242572.1242685&coll=GUIDE&dl=GUIDE&CFID=85660437&CFTOKEN=55591279},
+   pages = {835-844},
+   url = {http://portal.acm.org/citation.cfm?id=1242572.1242685&coll=GUIDE&dl=GUIDE&CFID=85660437&CFTOKEN=55591279},
+   isbn = {978-1-59593-654-7},
    abstract = {Social networking services are a fast-growing business in the Internet. However, it is unknown if online relationships and their growth patterns are the same as in real-life social networks. In this paper, we compare the structures of three online social networking services: Cyworld, MySpace, and orkut, each with more than 10 million users, respectively. We have access to complete data of Cyworld's ilchon (friend) relationships and analyze its degree distribution, clustering property, degree correlation, and evolution over time. We also use Cyworld data to evaluate the validity of snowball sampling method, which we use to crawl and obtain partial network topologies of MySpace and orkut. Cyworld, the oldest of the three, demonstrates a changing scaling behavior over time in degree distribution. The latest Cyworld data's degree distribution exhibits a multi-scaling behavior, while those of MySpace and orkut have simple scaling behaviors with different exponents. Very interestingly, each of the two e ponents corresponds to the different segments in Cyworld's degree distribution. Certain online social networking services encourage online activities that cannot be easily copied in real life; we show that they deviate from close-knit online social networks which show a similar degree correlation pattern to real-life social networks.},
    keywords = {sampling
 social network},
@@ -167,7 +181,8 @@ social network},
    journal = {Reviews of Modern Physics},
    volume = {74},
    number = {1},
-   pages = {97, 47 %U http://dx.doi.org/10.1103/RevModPhys.74.47},
+   pages = {97, 47},
+   url = {http://dx.doi.org/10.1103/RevModPhys.74.47},
    abstract = {Complex networks describe a wide range of systems in nature and society. Frequently cited examples include the cell, a network of chemicals linked by chemical reactions, and the Internet, a network of routers and computers connected by physical links. While traditionally these systems have been modeled as random graphs, it is increasingly recognized that the topology and evolution of real networks are governed by robust organizing principles. This article reviews the recent advances in the field of complex networks, focusing on the statistical mechanics of network topology and dynamics. After reviewing the empirical data that motivated the recent interest in networks, the authors discuss the main models and analytical tools, covering random graphs, small-world and scale-free networks, the emerging theory of evolving networks, and the interplay between topology and the network’s robustness against failures and attacks.},
    keywords = {ties},
    year = {2002}
@@ -177,7 +192,9 @@ social network},
    author = {Albrechtslund, Anders},
    title = {Online Social Networking as Participatory Surveillance},
    journal = {First Monday},
-   volume = {13 (3) %U http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2142/1949},
+   volume = {13},
+   number = {3},
+   url = {http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2142/1949},
    year = {2008}
 }
 
@@ -216,7 +233,8 @@ SMOKING},
 @phdthesis{
    author = {Almeida and nbsp},
    title = {The relationship between social networks, social support, physical activity and self-rated health: An exploratory study},
-   university = {University of Denver %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1490081471&Fmt=7&clientId=18133&RQT=309&VName=PQD},
+   university = {University of Denver},
+   url = {http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1490081471&Fmt=7&clientId=18133&RQT=309&VName=PQD},
    keywords = {Physical fitness
 Public health
 Social networks
@@ -240,8 +258,9 @@ Social work},
 @book{
    author = {Altman, Douglas},
    title = {Practical Statistics for Medical Research (Statistics texts)},
-   publisher = {Chapman & Hall %@ 0412276305 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0412276305},
+   publisher = {Chapman & Hall %@ 0412276305},
    abstract = {Practical Statistics for Medical Research is a problem-based text for medical students, medical researchers, and others in medical areas who need to use statistics but have no specialist mathematics background. The author draws on twenty years of experience as a consulting medical statistician to provide clear explanations to key statistical concepts, with a firm emphasis on practical aspects of the design and analysis of medical research. Special attention is given to the presentation and interpretation of results and the many real problems that arise frequently in medical research.Marketing Class Code: 6},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0412276305},
    keywords = {methods
 social},
    year = {1990}
@@ -249,7 +268,8 @@ social},
 
 @misc{
    author = {Ambrose, David},
-   title = {Virtual Interactive Communication: A Bicultural Survey Through the Lens of Web 2.0 %U http://www.scribd.com/doc/100515/Virtual-Interactive-Communication-A-Bicultural-Survey-Through-the-Lens-of-Web-20},
+   title = {Virtual Interactive Communication: A Bicultural Survey Through the Lens of Web 2.0},
+   url = {http://www.scribd.com/doc/100515/Virtual-Interactive-Communication-A-Bicultural-Survey-Through-the-Lens-of-Web-20},
    year = {2007}
 }
 
@@ -283,7 +303,7 @@ social},
    pages = {38-46},
    abstract = {Online communication among patients and consumers through support groups, discussion boards, and knowledge resources is becoming more common. In this article, the summary of a workgroup discussion, we discuss key methods through which such web-based peer-to-peer communication may affect health promotion and disease prevention behavior (exchanges of information, emotional and instrumental support, and establishment of group norms and models). We also discuss several theoretical models for studying online peer communication, including social theory, health communication models, and health behavior models. Although online peer communication about health and disease is very common, research evaluating effects on health behaviors, mediators, and outcomes is still relatively sparse. We suggest that future research in this field should include formative evaluation and studies of effects on mediators of behavior change, behaviors, and outcomes. It also will be important to examine spontaneously emerging peer communication efforts to see how they can be integrated with theory-based efforts initiated by researchers. },
    year = {2009},
-   url={http://www.informaworld.com/10.1080/10810730902806760}
+   url = {http://www.informaworld.com/10.1080/10810730902806760}
 }
 
 @book{
@@ -298,7 +318,8 @@ social},
    title = {The work of watching one another: Lateral surveillance, risk and governance},
    journal = {Surveillance & Society},
    volume = {2 (4)},
-   pages = {479-497 %U http://www.surveillance-and-society.org/articles2(4)/lateral.pdf},
+   pages = {479-497},
+   url = {http://www.surveillance-and-society.org/articles2(4)/lateral.pdf},
    year = {2005}
 }
 
@@ -317,7 +338,8 @@ modeling},
 @book{
    author = {Armstrong, Jerome and Moulitsas, Markos},
    title = {Crashing the Gate: Netroots, Grassroots, and the Rise of People-Powered Politics},
-   publisher = {Chelsea Green Publishing Company %@ 193339241X %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/193339241X},
+   publisher = {Chelsea Green Publishing Company %@ 193339241X},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/193339241X},
    abstract = {_Crashing the Gate_ is a shot across the bow at the political establishment in Washington, DC and a call to re-democratize politics in America. This book lays bare, with passion and precision, how ineffective, incompetent, and antiquated the Democratic Party establishment has become, and how it has failed to adapt and respond to new realities and challenges. The authors save their sharpest knives to go for the jugular in their critique of Republican ideologues who are now running—and ruining—our country. Written by two of the most popular political bloggers in America, the book hails the new movement—of the netroots, the grassroots, the unorthodox labor unions, the maverick big donors—that is the antidote to old-school politics as usual. Fueled by advances in technology and a hunger for a more authentic and populist democracy, this broad-based movement is changing the way political campaigns are waged and managed. A must-read book for anyone with an interest in the future of American democracy.},
    keywords = {echo
 public
@@ -328,7 +350,8 @@ social},
 @misc{
    author = {Athanasopoulos, E. A. Makridakis and Antonatos, S. and Antoniades, D. and Ioannidis, S. and Anagnostakis, K. G. and Markatos, E. P.},
    title = {Antisocial Networks: Turning a Social Network into a Botnet},
-   publisher = {ICS %U http://blogs.zdnet.com/security/images/facebotisc08.pdf},
+   publisher = {ICS},
+   url = {http://blogs.zdnet.com/security/images/facebotisc08.pdf},
    year = {2008}
 }
 
@@ -344,7 +367,8 @@ social},
 @misc{
    author = {Backstrom, Lars and Dwork, C. and Kleinberg, Jon},
    title = {Wherefore art thou r3579x? anonymized social networks, hidden patterns, and structural steganography},
-   pages = {181-190 %U http://www.cs.cornell.edu/ lars/www07-anon.pdf},
+   pages = {181-190},
+   url = {http://www.cs.cornell.edu/ lars/www07-anon.pdf},
    year = {2007}
 }
 
@@ -352,7 +376,8 @@ social},
    author = {Backstrom, Lars and Huttenlocher, Dan and Kleinberg, Jon and Lan, Xiangyang},
    title = {Group formation in large social networks: membership, growth, and evolution},
    publisher = {ACM},
-   pages = {54, 44 %@ 1-59593-339-5 %U http://dx.doi.org/10.1145/1150402.1150412},
+   pages = {54, 44 %@ 1-59593-339-5},
+   url = {http://dx.doi.org/10.1145/1150402.1150412},
    abstract = {The processes by which communities come together, attract new members, and develop over time is a central research issue in the social sciences - political movements, professional organizations, and religious denominations all provide fundamental examples of such communities. In the digital domain, on-line groups are becoming increasingly prominent due to the growth of community and social networking sites such as MySpace and LiveJournal. However, the challenge of collecting and analyzing large-scale time-resolved data on social groups and communities has left most basic questions about the evolution of such groups largely unresolved: what are the structural features that influence whether individuals will join communities, which communities will grow rapidly, and how do the overlaps among pairs of communities change over time.Here we address these questions using two large sources of data: friendship links and community membership on LiveJournal, and co-authorship and conference publications in DBLP. Both of these datasets provide explicit user-defined communities, where conferences serve as proxies for communities in DBLP. We study how the evolution of these communities relates to properties such as the structure of the underlying social networks. We find that the propensity of individuals to join communities, and of communities to grow rapidly, depends in subtle ways on the underlying network structure. For example, the tendency of an individual to join a community is influenced not just by the number of friends he or she has within the community, but also crucially by how those friends are connected to one another. We use decision-tree techniques to identify the most significant structural determinants of these properties. We also develop a novel methodology for measuring movement of individuals between communities, and show how such movements are closely aligned with changes in the topics of interest within the communities.},
    keywords = {sna
 social},
@@ -364,7 +389,8 @@ social},
    title = {Distress, coping, and blogging: Comparing new Myspace users by their intention to blog},
    journal = {CyberPsychology & Behavior},
    volume = {11 (1)},
-   pages = {81-85 %U http://www.liebertonline.com/doi/pdf/10.1089/cpb.2007.9930},
+   pages = {81-85},
+   url = {http://www.liebertonline.com/doi/pdf/10.1089/cpb.2007.9930},
    year = {2008}
 }
 
@@ -515,7 +541,8 @@ Wenger, Etienne 1998 "Communities of practice: Learning, meaning, and identity."
 
 @misc{
    author = {Balog, K. and Mishne, G. and Rijke, M.},
-   title = {Why Are They Excited? Identifying and Explaining Spikes in Blog Mood Levels %U http://staff.science.uva.nl/~gilad/publications.html},
+   title = {Why Are They Excited? Identifying and Explaining Spikes in Blog Mood Levels},
+   url = {http://staff.science.uva.nl/~gilad/publications.html},
    keywords = {blogs
 classification
 emotion},
@@ -525,7 +552,7 @@ emotion},
 @book{
    author = {Bambina, A. D. },
    title = {Online Social Support: The Interplay of Social Networks and Computer-Mediated Communication},
-   note = {ISBN: 978-1-934043-25-7},
+   isbn = {978-1-934043-25-7},
    publisher = {Cambria Press. },
    year = {2007}
 }
@@ -536,7 +563,8 @@ emotion},
    journal = {Annual Review of Information Science and Technology},
    volume = {38},
    number = {1},
-   pages = {231-288 %U http://dx.doi.org/10.1002/aris.1440380106},
+   pages = {231-288},
+   url = {http://dx.doi.org/10.1002/aris.1440380106},
    abstract = {No Abstract.},
    year = {2004}
 }
@@ -555,7 +583,8 @@ emotion},
 
 @article{
    author = {Barker, Valerie},
-   title = {Older Adolescents' Motivations for Social Network Site Use: The Influence of Gender, Group Identity, and Collective Self-Esteem %U http://www.allacademic.com//meta/p_mla_apa_research_citation/2/3/0/5/7/pages230574/p230574-1.php},
+   title = {Older Adolescents' Motivations for Social Network Site Use: The Influence of Gender, Group Identity, and Collective Self-Esteem},
+   url = {http://www.allacademic.com//meta/p_mla_apa_research_citation/2/3/0/5/7/pages230574/p230574-1.php},
    journal = {CyberPsychology & Behavior},
    year = {2009}
 }
@@ -564,7 +593,9 @@ emotion},
    author = {Barnes, Susan},
    title = {A privacy paradox: Social networking in the United States},
    journal = {First Monday},
-   volume = {11 (9) %U http://www.firstmonday.org/issues/issue11_9/barnes/index.html},
+   volume = {11},
+   number = {9},
+   url = {http://www.firstmonday.org/issues/issue11_9/barnes/index.html},
    year = {2006}
 }
 
@@ -574,7 +605,8 @@ emotion},
    journal = {Journal of Experimental Social Psychology},
    volume = {32},
    number = {6},
-   pages = {560, 537 %U http://dx.doi.org/10.1006/jesp.1996.0024},
+   pages = {560, 537},
+   url = {http://dx.doi.org/10.1006/jesp.1996.0024},
    abstract = {Four studies found that social corroboration of one's (pro/con) attitudinal position leads to increases in attitude extremity. Study 1 focused on attraction ratings made by college women. This study demonstrated both increases in opinion extremity following corroboration and decreases in opinion extremity following contradiction. Study 2 focused on dental chair comfort ratings made by dental patients and found greater opinion extremity following corroboration from either fellow patients or the dentist. Study 3 reported greater charity donation amounts as well as heightened opinion confidence following corroboration. Study 4 replicated Study 1 varying duration of stimulus exposure and found that, as predicted, confidence scores were affected more by the corroboration/contradiction manipulation when initial exposures were brief. Unexpectedly, however, the affect of corroboration on attraction ratings, was not moderated by initial exposure time. Rather, across both long and short exposure times, attraction scores were most extreme following corroboration and least extreme following contradiction. Path analyses in Study 4 supported the view that this association between corroboration and extremity was mediated by confidence. This research indicates that the relationship between corroboration and opinion extremity appears to be respectably robust across populations and target variables, and is not specific to sensitive within subject designs. Moreover, Study 3 indicates that social corroboration is capable of increasing the extremity of behavior having real consequences for participants. The data are discussed in terms of possible moderator variables, as well as theories of group polarization and opinion extremity.},
    keywords = {echo
 experimental
@@ -585,7 +617,8 @@ social},
 @misc{
    author = {Barzilay, Regina and Elhadad, Michael},
    title = {Using lexical chains for text summarization},
-   pages = {17, 10 %U http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.29.6428},
+   pages = {17, 10},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.29.6428},
    abstract = {We investigate one technique to produce a summary of an original text without requiring its full semantic interpretation, but instead relying on a model of the topic progression in the text derived from lexical chains. We present a new algorithm to compute lexical chains in a text, merging several robust knowledge sources: the WordNet thesaurus, a partof-speech tagger and shallow parser for the identification of nominal groups, and a segmentation algorithm derived from [8]. Summarization proceeds in three steps: the original text is first segmented, lexical chains are constructed, strong chains are identified and significant sentences are extracted from the text. We present in this paper empirical results on the identification of strong chains and of significant sentences. Preliminary results indicate that quality indicative summaries are produced and are extensively documented in},
    keywords = {ml
 text},
@@ -598,7 +631,7 @@ text},
    journal = {Journal of the American Society for Information Science},
    volume = {50},
    number = {12},
-   pages = {1043-1050 %U http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12<1043::AID-ASI1>3.0.CO;2-X},
+   pages = {1043-1050},
    abstract = {The explicit, above-the-water-line paradigm of information science is well known and widely discussed. Every disciplinary paradigm, however, contains elements that are less conscious and explicit in the thinking of its practitioners. The purpose of this article is to elucidate key elements of the below-the-water-line portion of the information science paradigm. Particular emphasis is given to information science's role as a meta-science - conducting research and developing theory around the documentary products of other disciplines and activities. The mental activities of the professional practice of the ﬁeld are seen to center around representation and organization of information rather than knowing information. It is argued that such representation engages fundamentally diﬀerent talents and skills from those required in other professions and intellectual disciplines. Methodological approaches and values of information science are also considered.},
    year = {1999}
 }
@@ -607,7 +640,9 @@ text},
    author = {Baumer, Eric and Sueyoshi, Mark and Tomlinson, Bill},
    title = {Exploring the role of the reader in the activity of blogging},
    publisher = {ACM},
-   pages = {1120, 1111 %@ 9781605580111 %U http://dx.doi.org/10.1145/1357054.1357228},
+   pages = {1120, 1111},
+   isbn = {9781605580111},
+   url = {http://dx.doi.org/10.1145/1357054.1357228},
    keywords = {blogs
 echo},
    year = {2008}
@@ -617,7 +652,8 @@ echo},
    author = {Baumgartner, J. C. and Morris, J. S.},
    title = {MyFaceTube Politics Social Networking Web Sites and Political Engagement of Young Adults},
    journal = {Social Science Computer Review},
-   volume = {28(1) %U none},
+   volume = {28},
+   number = {1},
    year = {2010}
 }
 
@@ -625,7 +661,9 @@ echo},
    author = {Baym, Nancy},
    title = {The new shape of online community: The example of Swedish independent music fandom},
    journal = {First Monday},
-   volume = {12 (8) %U http://firstmonday.org/issues/issue12_8/baym/index.html},
+   volume = {12},
+   number = {8},
+   url = {http://firstmonday.org/issues/issue12_8/baym/index.html},
    year = {2007}
 }
 
@@ -635,7 +673,8 @@ echo},
    journal = {American Journal of Sociology},
    volume = {110},
    number = {1},
-   pages = {91, 44 %U http://www.journals.uchicago.edu/doi/abs/10.1086/386272},
+   pages = {91, 44},
+   url = {http://www.journals.uchicago.edu/doi/abs/10.1086/386272},
    abstract = {This article describes the structure of the adolescent romantic and sexual network in a population of over 800 adolescents residing in a midsized town in the midwestern United States. Precise images and measures of network structure are derived from reports of relationships that occurred over a period of 18 months between 1993 and 1995. The study offers a comparison of the structural characteristics of the observed network to simulated networks conditioned on the distribution of ties; the observed structure reveals networks characterized by longer contact chains and fewer cycles than expected. This article identifies the micromechanisms that generate networks with structural features similar to the observed network. Implications for disease transmission dynamics and social policy are explored.},
    keywords = {networks},
    year = {2004}
@@ -717,7 +756,8 @@ social},
 @book{
    author = {Benkler, Yochai},
    title = {The Wealth of Networks: How Social Production Transforms Markets and Freedom},
-   publisher = {Yale University Press %@ 0300110561 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0300110561},
+   publisher = {Yale University Press %@ 0300110561},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0300110561},
    abstract = {With the radical changes in information production that the Internet has introduced, we stand at an important moment of transition, says Yochai Benkler in this thought-provoking book. The phenomenon he describes as social production is reshaping markets, while at the same time offering new opportunities to enhance individual freedom, cultural diversity, political discourse, and justice. But these results are by no means inevitable: a systematic campaign to protect the entrenched industrial information economy of the last century threatens the promise of today’s emerging networked information environment. In this comprehensive social theory of the Internet and the networked information economy, Benkler describes how patterns of information, knowledge, and cultural production are changing—and shows that the way information and knowledge are made available can either limit or enlarge the ways people can create and express themselves. He describes the range of legal and policy choices that confront us and maintains that there is much to be gained—or lost—by the decisions we make today.},
    keywords = {networks
 prelim},
@@ -735,7 +775,8 @@ prelim},
    title = {Assessing the Physical Health Effects of Social Networks and Social Support},
    journal = {Annual Review of Public Health},
    volume = {5},
-   pages = {413-432 %U http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.pu.05.050184.002213},
+   pages = {413-432},
+   url = {http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.pu.05.050184.002213},
    year = {1984}
 }
 
@@ -766,7 +807,8 @@ ties},
    journal = {Social Networks},
    volume = {2},
    number = {3},
-   pages = {218, 191 %U http://dx.doi.org/10.1016/0378-8733(79)90014-5},
+   pages = {218, 191},
+   url = {http://dx.doi.org/10.1016/0378-8733(79)90014-5},
    abstract = {This paper examines whether clique-structure in cognitive data (i.e. recall of who one talks to) may be used as a proxy for clique-structure in behavioral data (i.e. who one actually talks to). The answer to this question is crucial to much of sociometric and social net-theoretic studies of social structure. We analysed the clique structures of the communication patterns of four naturally occurring groups of sizes 34 to 58, whose actual communications could easily be monitored, together with the groups' perceptions of their communications. The groups used were: radio hams, a college fraternity, a group of office workers, and an academic department. The analysis used clique-finding, block-modelling, and factor-analytic techniques, all employed in such a way as to maximize the accuracy of the cognitive data. After defining a way to compare clique structures between behavioral and cognitive data, we found that there was no useful relationship between the two, and furthermore there was no significant difference in performance between any of the structure-finding algorithms. We conclude that cognitive data may not be used for drawing any conclusions about behavioral social structure.},
    keywords = {sna
 social},
@@ -778,7 +820,8 @@ social},
    title = {Effects of Internet Use on Health and Depression: A Longitudinal Study},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e6 %U http://www.jmir.org/2010/1/e6/},
+   pages = {e6},
+   url = {http://www.jmir.org/2010/1/e6/},
    abstract = {Background: The rapid expansion of the Internet has increased the ease with which the public can obtain medical information. Most research on the utility of the Internet for health purposes has evaluated the quality of the information itself or examined its impact on clinical populations. Little is known about the consequences of its use by the general population. Objective: Is use of the Internet by the general population for health purposes associated with a subsequent change in psychological well-being and health? Are the effects different for healthy versus ill individuals? Does the impact of using the Internet for health purposes differ from the impact of other types of Internet use? Methods: Data come from a national US panel survey of 740 individuals conducted from 2000 to 2002. Across three surveys, respondents described their use of the Internet for different purposes, indicated whether they had any of 13 serious illnesses (or were taking care of someone with a serious illness), and reported their depression. In the initial and final surveys they also reported on their physical health. Lagged dependent variable regression analysis was used to predict changes in depression and general health reported on a later survey from frequency of different types of Internet use at an earlier period, holding constant prior depression and general health, respectively. Statistical interactions tested whether uses of the Internet predicted depression and general health differently for people who initially differed on their general health, chronic illness, and caregiver status. Results: Health-related Internet use was associated with small but reliable increases in depression (ie, increasing use of the Internet for health purposes from 3 to 5 days per week to once a day was associated with .11 standard deviations more symptoms of depression, P = .002). In contrast, using the Internet for communication with friends and family was associated with small but reliable decreases in depression (ie, increasing use of the Internet for communication with friends and family purposes from 3 to 5 days per week to once a day was associated with .07 standard deviations fewer symptoms of depression, P = .007). There were no significant effects of respondents’ initial health status (P = .234) or role as a caregiver (P = .911) on the association between health-related Internet use and depression. Neither type of use was associated with changes in general health (P = .705 for social uses and P = .494 for health uses). Conclusions: Using the Internet for health purposes was associated with increased depression. The increase may be due to increased rumination, unnecessary alarm, or over-attention to health problems. Additionally, those with unmeasured problems or those more prone to health anxiety may self-select online health resources. In contrast, using the Internet to communicate with friends and family was associated with declines in depression. This finding is comparable to other studies showing that social support is beneficial for well-being and lends support to the idea that the Internet is a way to strengthen and maintain social ties.},
    keywords = {depression
 Health
@@ -792,14 +835,17 @@ Social support},
    author = {Bigge, Ryan},
    title = {The cost of (anti-)social networks: Identity, agency and neo-luddites},
    journal = {First Monday},
-   volume = {11 (12) %U http://firstmonday.org/issues/issue11_12/bigge/index.html},
+   volume = {11},
+   number = {12},
+   url = {http://firstmonday.org/issues/issue11_12/bigge/index.html}},
    year = {2006}
 }
 
 @book{
    author = {Bishop, Bill},
    title = {The Big Sort: Why the Clustering of Like-Minded America Is Tearing Us Apart},
-   publisher = {Houghton Mifflin %@ 0618689354 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0618689354},
+   publisher = {Houghton Mifflin %@ 0618689354},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0618689354},
    abstract = {The untold story of why America is so culturally and politically divided America may be more diverse than ever coast to coast, but the places where we live are becoming increasingly crowded with people who live, think, and vote as we do. This social transformation didn't happed by accident. We've built a country where we can all choose the neighborhood -- and religion and news show -- most compatible with our lifestyle and beliefs. And we are living with the consequences of this way-of-life segregation. Our country has become so polarized, so ideologically inbred, that people don't know and can't understand those who live just a few miles away. The reason for this situation, and the dire implications for our country, is the subject of this groundbreaking work. In 2004, the journalist Bill Bishop, armed with original and startling demographic data, made national news in a series of articles showing how Americans have been sorting themselves over the past three decades into alarmingly homogeneous communities -- not by region or by red state or blue state, but by city and even neighborhood. In The Big Sort, Bishop deepens his analysis in a brilliantly reported book that makes its case from the ground up, starting with stories about how we live today and then drawing on history, economics, and our changing political landscape to create one of the most compelling big-picture accounts of America in recent memory. The Big Sort will draw comparisons to Robert Putnam's Bowling Alone and Richard Florida's The Rise of the Creative Class and will redefine the way Americans think about themselves for decades to come.},
    keywords = {echo
 social},
@@ -809,19 +855,22 @@ social},
 @misc{
    author = {Boase, J. and Horrigan, J. and Wellman, B. and Rainie, L.},
    title = {The Strength of Internet Ties: The internet and email aid users in maintaining their social networks and provide pathways to help when people face big decisions},
-   publisher = {Pew Internet and American Life Project %U http://www.pewinternet.org/PPF/r/172/report_display.asp},
+   publisher = {Pew Internet and American Life Project},
+   url = {http://www.pewinternet.org/PPF/r/172/report_display.asp},
    year = {2006}
 }
 
 @misc{
    author = {Bonneau, Joseph and Anderson, Jonathan and Anderson, Ross and Stajano, Frank},
-   title = {Eight Friends are Enough: Social Graph Approximation via Public Listings %U http://www.cl.cam.ac.uk/ jra40/publications/2009-SNS-public-listings.pdf},
+   title = {Eight Friends are Enough: Social Graph Approximation via Public Listings},
+   url = {http://www.cl.cam.ac.uk/ jra40/publications/2009-SNS-public-listings.pdf},
    year = {2009}
 }
 
 @article{
    author = {Bonneau, Joseph and Anderson, Jonathan and Danezis, George},
-   title = {Prying Data Out of a Social Network %U http://www.cl.cam.ac.uk/ jra40/publications/2009-ASONAM-prying-data.pdf},
+   title = {Prying Data Out of a Social Network},
+   url = {http://www.cl.cam.ac.uk/ jra40/publications/2009-ASONAM-prying-data.pdf},
    year = {2009}
 }
 
@@ -862,7 +911,8 @@ ORGANIZATIONAL change},
    journal = {Science (New York, N.Y.)},
    volume = {323},
    number = {5916},
-   pages = {895, 892 %U http://dx.doi.org/10.1126/science.1165821},
+   pages = {895, 892},
+   url = {http://dx.doi.org/10.1126/science.1165821},
    abstract = {Over the past decade, there has been an explosion of interest in network research across the physical and social sciences. For social scientists, the theory of networks has been a gold mine, yielding explanations for social phenomena in a wide variety of disciplines from psychology to economics. Here, we review the kinds of things that social scientists have tried to explain using social network analysis and provide a nutshell description of the basic assumptions, goals, and explanatory mechanisms prevalent in the field. We hope to contribute to a dialogue among researchers from across the physical and social sciences who share a common interest in understanding the antecedents and consequences of network phenomena.},
    keywords = {networks
 social},
@@ -874,7 +924,8 @@ social},
    title = {Notions of Position in Social Network Analysis},
    journal = {Sociological Methodology},
    volume = {22},
-   pages = {1-35 %U http://www.jstor.org/stable/270991},
+   pages = {1-35},
+   url = {http://www.jstor.org/stable/270991},
    year = {1992}
 }
 
@@ -884,7 +935,8 @@ social},
    journal = {Science},
    volume = {323},
    number = {5916},
-   pages = {892-895 %U http://www.sciencemag.org/cgi/content/abstract/323/5916/892},
+   pages = {892-895},
+   url = {http://www.sciencemag.org/cgi/content/abstract/323/5916/892},
    abstract = {Over the past decade, there has been an explosion of interest in network research across the physical and social sciences. For social scientists, the theory of networks has been a gold mine, yielding explanations for social phenomena in a wide variety of disciplines from psychology to economics. Here, we review the kinds of things that social scientists have tried to explain using social network analysis and provide a nutshell description of the basic assumptions, goals, and explanatory mechanisms prevalent in the field. We hope to contribute to a dialogue among researchers from across the physical and social sciences who share a common interest in understanding the antecedents and consequences of network phenomena.},
    year = {2009}
 }
@@ -895,7 +947,8 @@ social},
    journal = {Heart & Lung: The Journal of Acute and Critical Care},
    volume = {34},
    number = {1},
-   pages = {22-29 %U http://www.sciencedirect.com/science/article/B6WG7-4F7H0YW-B/2/a006d70905b39a47a43e67a6f5065fe6},
+   pages = {22-29},
+   url = {http://www.sciencedirect.com/science/article/B6WG7-4F7H0YW-B/2/a006d70905b39a47a43e67a6f5065fe6},
    abstract = {Purpose This study evaluates the types of instrumental social support that are perceived by patients with coronary artery disease as being most helpful to health behavior modification.Methods A purposive sample of 63 patients with coronary artery disease were enrolled in this qualitative study. Patients described lifestyle changes that they made in an effort to stay healthy and the types of instrumental supports provided by their social networks that helped them make these changes.Results The most frequently cited lifestyle changes reported were making dietary changes, reducing responsibilities, keeping doctors' appointments, taking medications, and exercising more. The types of instrumental support that were perceived as being most helpful in making these changes were those that (1) made it easier and practical to engage in healthy behaviors, (2) alleviated stressful situations, and (3) facilitated the process of receiving medical care.Conclusions These findings identify practical ways in which social networks can promote risk factor modification and ultimately contribute to improving coronary artery disease outcomes.},
 
 }
@@ -903,7 +956,8 @@ social},
 @phdthesis{
    author = {Boyd and nbsp},
    title = {Taken out of context: American teen sociality in networked publics},
-   university = {University of California, Berkeley %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1720785061&Fmt=7&clientId=18133&RQT=309&VName=PQD},
+   university = {University of California, Berkeley},
+   url = {http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1720785061&Fmt=7&clientId=18133&RQT=309&VName=PQD},
    keywords = {American studies
 Cultural anthropology
 Information science},
@@ -912,7 +966,8 @@ Information science},
 
 @phdthesis{
    author = {Boyd, Danah},
-   title = {FACETED ID/ENTITY: Managing representation in a digital world %U http://www.danah.org/papers/Thesis.FacetedIdentity.pdf},
+   title = {FACETED ID/ENTITY: Managing representation in a digital world},
+   url = {http://www.danah.org/papers/Thesis.FacetedIdentity.pdf},
    keywords = {social
 wemeddlechi},
    year = {2002}
@@ -922,7 +977,8 @@ wemeddlechi},
    author = {boyd, danah},
    title = {Friendster and Publicly Articulated Social Networks},
    publisher = {ACM Press},
-   pages = {1279 - 1282 %U http://www.danah.org/papers/CHI2004Friendster.pdf},
+   pages = {1279 - 1282},
+   url = {http://www.danah.org/papers/CHI2004Friendster.pdf},
    year = {2004}
 }
 
@@ -930,7 +986,9 @@ wemeddlechi},
    author = {boyd, danah},
    title = {Friends, Friendsters, and MySpace Top 8: Writing Community Into Being on Social Network Sites},
    journal = {First Monday},
-   volume = {11 (12) %U http://www.firstmonday.org/issues/issue11_12/boyd/index.html},
+   volume = {11},
+   number = {12},
+   url = {http://www.firstmonday.org/issues/issue11_12/boyd/index.html}
    year = {2006}
 }
 
@@ -939,7 +997,8 @@ wemeddlechi},
    title = {Friends, friendsters, and top 8: Writing community into being on social network sites},
    journal = {First Monday},
    volume = {11},
-   number = {12 %U http://www.firstmonday.org/issues/issue11_12/boyd/index.html#p4},
+   number = {12},
+   url = {http://www.firstmonday.org/issues/issue11_12/boyd/index.html#p4},
    abstract = {“Are you my friend? Yes or no?” This question, while fundamentally odd, is a key component of social network sites. Participants must select who on the system they deem to be ‘Friends.’ Their choice is publicly displayed for all to see and becomes the backbone for networked participation. By examining what different participants groups do on social network sites, this paper investigates what Friendship means and how Friendship affects the culture of the sites. I will argue that Friendship helps people write community into being in social network sites. Through these imagined egocentric communities, participants are able to express who they are and locate themselves culturally. In turn, this provides individuals with a contextual frame through which they can properly socialize with other participants. Friending is deeply affected by both social processes and technological affordances. I will argue that the established Friending norms evolved out of a need to resolve the social tensions that emerged due to technological limitations. At the same time, I will argue that Friending supports pre-existing social norms yet because the architecture of social network sites is fundamentally different than the architecture of unmediated social spaces, these sites introduce an environment that is quite unlike that with which we are accustomed.},
    keywords = {ethnographic
 facebook
@@ -951,7 +1010,8 @@ social},
 
 @misc{
    author = {boyd, danah},
-   title = {Friendster lost steam. Is MySpace just a fad? %U http://www.danah.org/papers/FriendsterMySpaceEssay.html},
+   title = {Friendster lost steam. Is MySpace just a fad?},
+   url = {http://www.danah.org/papers/FriendsterMySpaceEssay.html},
    year = {2006}
 }
 
@@ -969,7 +1029,8 @@ social},
 
 @article{
    author = {boyd, danah},
-   title = {Social Network Sites: Public, Private, or What? %U http://www.danah.org/papers/KnowledgeTree.pdf},
+   title = {Social Network Sites: Public, Private, or What?},
+   url = {http://www.danah.org/papers/KnowledgeTree.pdf},
    year = {2007}
 }
 
@@ -977,7 +1038,9 @@ social},
    author = {boyd, danah},
    title = {Facebook's Privacy Trainwreck: Exposure, Invasion, and Social Convergence},
    journal = {Convergence},
-   volume = {14(1) %U http://www.danah.org/papers/FacebookPrivacyTrainwreck.pdf},
+   volume = {14},
+   number = {1},
+   url = {http://www.danah.org/papers/FacebookPrivacyTrainwreck.pdf},
    year = {2008}
 }
 
@@ -985,14 +1048,16 @@ social},
    author = {boyd, danah},
    title = {None of this is Real},
    booktitle = {Structures of Participation},
-   publisher = {Social Science Research Council %U http://www.danah.org/papers/NoneOfThisIsReal.pdf},
+   publisher = {Social Science Research Council},
+   url = {http://www.danah.org/papers/NoneOfThisIsReal.pdf},
    address = {New York},
    year = {2008}
 }
 
 @phdthesis{
    author = {Boyd, D.},
-   title = {Taken out of context: American teen sociality in networked publics %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1720785061&Fmt=7&clientId=18133&RQT=309&VName=PQD},
+   title = {Taken out of context: American teen sociality in networked publics},
+   url = {http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=1720785061&Fmt=7&clientId=18133&RQT=309&VName=PQD},
    keywords = {American studies
 Cultural anthropology
 Information science},
@@ -1002,7 +1067,8 @@ Information science},
 @phdthesis{
    author = {boyd, danah},
    title = {Taken Out of Context: American Teen Sociality in Networked Publics},
-   university = {University of California-Berkeley %U http://www.danah.org/papers/TakenOutOfContext.pdf},
+   university = {University of California-Berkeley},
+   url = {http://www.danah.org/papers/TakenOutOfContext.pdf},
    year = {2008}
 }
 
