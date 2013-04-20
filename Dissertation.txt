@@ -2306,13 +2306,14 @@ finance},
    author = {Ellison, Nicole and Lampe, Cliff and Steinfield, Charles},
    title = {Social Network Sites and Society: Current Trends and Future Possibilities},
    journal = {Interactions Magazine},
-   volume = {16 (1)},
+   volume = {16},
+   number = {1},
    year = {2009}
 }
 
 @misc{
    author = {Ellison, Nicole and Steinfield, Charles and Lampe, Cliff},
-   title = {Spatially Bounded Online Social Networks and Social Capital: The Role of Facebook %U none},
+   title = {Spatially Bounded Online Social Networks and Social Capital: The Role of Facebook},
    year = {2006}
 }
 
@@ -2320,7 +2321,9 @@ finance},
    author = {Ellison, Nicole and Steinfield, Charles and Lampe, Cliff},
    title = {The Benefits of Facebook 'Friends:' Social Capital and College Students' Use of Online Social Network Sites},
    journal = {Journal of Computer-Mediated Communication},
-   volume = {12 (3) %U http://jcmc.indiana.edu/vol12/issue4/ellison.html},
+   volume = {12},
+   number = {3},
+   url = {http://jcmc.indiana.edu/vol12/issue4/ellison.html},
    year = {2006}
 }
 
@@ -2329,7 +2332,8 @@ finance},
    title = {Social Class Differentials in Health and Mortality: Patterns and Explanations in Comparative Perspective},
    journal = {Annual Review of Sociology},
    volume = {35},
-   pages = {553-572 %U http://arjournals.annualreviews.org/doi/abs/10.1146/annurev-soc-070308-115929},
+   pages = {553-572},
+   url = {http://arjournals.annualreviews.org/doi/abs/10.1146/annurev-soc-070308-115929},
    year = {2009}
 }
 
@@ -2337,7 +2341,9 @@ finance},
    author = {Enochsson, Ann Britt},
    title = {Tweens on the Internet: Communication in virtual guest books},
    journal = {Seminar.net},
-   volume = {3 (2) %U http://www.seminar.net/images/stories/vol3-issue2/enochsson-tweens_on_the_internet.pdf},
+   volume = {3},
+   number = {2},
+   url = {http://www.seminar.net/images/stories/vol3-issue2/enochsson-tweens_on_the_internet.pdf},
    year = {2007}
 }
 
@@ -2355,13 +2361,14 @@ finance},
 @misc{
    author = {Ermecke, Rebecca and Mayrhofer, Philip and Wagner, Stefan},
    title = {Agents of Diffusion - Insights from a Survey of Facebook Users},
-   publisher = {IEEE Press %U none},
+   publisher = {IEEE Press},
    year = {2009}
 }
 
 @misc{
    author = {Esuli, Andrea and Sebastiani, Fabrizio},
-   title = {SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining %U http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.7217},
+   title = {SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.7217},
    abstract = {Opinion mining (OM) is a recent subdiscipline at the crossroads of information retrieval and computational linguistics which is concerned not with the topic a document is about, but with the opinion it expresses. OM has a rich set of applications, ranging from tracking users' opinions about products or about political candidates as expressed in online forums, to customer relationship management. In order to aid the extraction of opinions from text, recent research has tried to automatically...},
    keywords = {consumer
 sentiment},
@@ -2370,7 +2377,8 @@ sentiment},
 
 @misc{
    author = {Evans, David and Gosling, Samuel and Caroll, Anthony},
-   title = {What Elements of an Online Social Networking Profile Predict Target-Rater Agreement in Personality Impressions? %U http://www.psychster.com/library/EvansGoslingCarroll_ICWSM08.pdf},
+   title = {What Elements of an Online Social Networking Profile Predict Target-Rater Agreement in Personality Impressions?},
+   url = {http://www.psychster.com/library/EvansGoslingCarroll_ICWSM08.pdf},
    year = {2008}
 }
 
@@ -2380,7 +2388,8 @@ sentiment},
    journal = {Obesity},
    volume = {18},
    number = {n1s},
-   pages = {S23-S26 %U http://dx.doi.org/10.1038/oby.2009.428},
+   pages = {S23-S26},
+   doi = {10.1038/oby.2009.428},
    year = {2010}
 }
 
@@ -2403,7 +2412,8 @@ sentiment},
    series = {Advances in Medical Sociology},
    publisher = {Emerald Group Publishing Limited},
    volume = {8},
-   pages = {29-72 %@ 1057-6290 %U http://dx.doi.org/10.1016/S1057-6290(02)80020-1},
+   pages = {29-72 %@ 1057-6290},
+   doi = {10.1016/S1057-6290(02)80020-1},
    year = {2002}
 }
 
@@ -2435,7 +2445,8 @@ sentiment},
    journal = {Journal of Clinical Epidemiology},
    volume = {43},
    number = {6},
-   pages = {549, 543 %U http://dx.doi.org/10.1016/0895-4356(90)90158-L},
+   pages = {549, 543},
+   doi = {10.1016/0895-4356(90)90158-L},
    abstract = {In a fourfold table showing binary agreement of two observers, the observed proportion of agreement, P0 can be paradoxically altered by the chance-corrected ratio that creates [kappa] as an index of concordance. In one paradox, a high value of P0 can be drastically lowered by a substantial imbalance in the table's marginal totals either vertically or horizontally. In the second pardox, [kappa] will be higher with an asymmetrical rather than symmetrical imbalance in marginal totals, and with imperfect rather than perfect symmetry in the imbalance. An adjustment that substitutes Kmax for [kappa] does not repair either problem, and seems to make the second one worse.},
    keywords = {interrater
 social
@@ -2446,7 +2457,8 @@ stats},
 @book{
    author = {Fellbaum, C.},
    title = {WordNet: An Electronic Lexical Database},
-   publisher = {The MIT Press %@ 026206197X %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/026206197X},
+   publisher = {The MIT Press %@ 026206197X},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/026206197X},
    abstract = {with a preface by George Miller WordNet, an electronic lexical database, is considered to be the most important resource available to researchers in computational linguistics, text analysis, and many related areas. Its design is inspired by current psycholinguistic and computational theories of human lexical memory. English nouns, verbs, adjectives, and adverbs are organized into synonym sets, each representing one underlying lexicalized concept. Different relations link the synonym sets. The purpose of this volume is twofold. First, it discusses the design of WordNet and the theoretical motivations behind it. Second, it provides a survey of representative applications, including word sense identification, information retrieval, selectional preferences of verbs, and lexical chains. Contributors: Reem Al-Halimi, Robert C. Berwick, J. F. M. Burg, Martin Chodorow, Christiane Fellbaum, Joachim Grabowski, Sanda Harabagiu, Marti A. Hearst, Graeme Hirst, Douglas A. Jones, Rick Kazman, Karen T. Kohl, Shari Landes, Claudia Leacock, George A. Miller, Katherine J. Miller, Dan Moldovan, Naoyuki Nomura, Uta Priss, Philip Resnik, David St-Onge, Randee Tengi, Reind P. van de Riet, Ellen Voorhees.},
    keywords = {echo
 text},
@@ -2455,13 +2467,15 @@ text},
 
 @misc{
    author = {Felt, Adrienne and Evans, David},
-   title = {Privacy Protection for Social Networking APIs %U http://www.cs.virginia.edu/felt/privacybyproxy.pdf},
+   title = {Privacy Protection for Social Networking APIs},
+   url = {http://www.cs.virginia.edu/felt/privacybyproxy.pdf},
    year = {2008}
 }
 
 @article{
    author = {Felt, Adrienne and Hooimeijer, Pieter and Evans, David and Weimer, Westley},
-   title = {Talking to Strangers Without Taking Their Candy: Isolating Proxied Content %U http://www.cs.virginia.edu/felt/secure_mashups.pdf},
+   title = {Talking to Strangers Without Taking Their Candy: Isolating Proxied Content},
+   url = {http://www.cs.virginia.edu/felt/secure_mashups.pdf},
    journal = {SocialNets '08},
    year = {2008}
 }
@@ -2473,7 +2487,7 @@ text},
    volume = {35},
    number = {1},
    pages = {115-129},
-   note = {10.1111/j.1468-2958.2008.01340.x},
+   doi = {10.1111/j.1468-2958.2008.01340.x},
    abstract = {Viewing supportive communication as a multistage process, the present study proposed and tested an integrated model of advice giving, which specifies three sequential moves in supportive interactions involving advice: emotional support, problem inquiry and analysis, and advice. Seven hundred and fifty-two participants read and responded to a hypothetical scenario in which they received advice from a friend. Results of the study showed that advice that was offered following the moves of emotional support and problem inquiry and analysis was judged to be higher in quality than advice that did not follow this sequential pattern. Un test d'un modèle intégré des conseils lors d'interactions de soutien Voyant la communication de soutien comme un processus à plusieurs étapes, la présente étude propose et teste un modèle intégré du conseil, qui spécifie trois mouvements séquentiels des interactions de soutien impliquant des conseils : le soutien émotif, le questionnement et l'analyse du problème, puis les conseils. 752 participants ont lu et réagi à un scénario hypothétique dans laquel ils recevaient les conseils d'un ami. Les résultats de l'étude démontrent que les conseils offerts à la suite du soutien émotif et du questionnement et de l'analyse du problème furent considérés de meilleure qualité que les conseils qui ne suivaient pas ce modèle séquentiel. Untersuchung eines integrativen Modells des Ratschlag-Gebens in unterstützenden Interaktionen Vorliegende Studie betrachtet unterstützende Kommunikation als einen mehrstufigen Prozess und testet ein integratives Modell des Ratschlag-Gebens bei unterstützenden Interaktionen, welches durch drei aufeinander folgende Schritte spezifiziert wird: emotionale Unterstützung 2013 Problemerörterung und -analyse 2013 Ratschlag. 752 Teilnehmer lasen und reagierten auf ein hypothetisches Szenario, in welchem sie einen Ratschlag von einem Freund erhielten. Die Ergebnisse der Studie zeigten, dass ein Ratschlag, der dem Ablauf emotionale Unterstützung, Problemerörterung und -analyse folgte als qualitativ höher eingeschätzt wurde als ein Ratschlag, der diese Abfolge nicht einhielt.. Poniendo a Prueba un Modelo Integrado del Dar Consejos durante Interacciones de Apoyo Viendo a la comunicación de apoyo como un proceso de múltiples pasos, el presente estudio propuso y puso a prueba un modelo integrado del dar consejos, que especifica tres movimientos secuenciales en las interacciones de apoyo que involucran dar consejos: apoyo emocional2014preguntar sobre el problema y el análisis2014el consejo. 752 participantes leyeron y respondieron a un escenario hipotético en el cual recibieron el consejo de un amigo. Los resultados de este estudio mostraron que el consejo que fue ofrecido siguiendo los estados de apoyo emocional y las preguntas sobre el problema y análisis fue juzgado como de mayor calidad que el consejo que no siguió la secuencia de la pauta.},
    year = {2009}
 }
@@ -2482,7 +2496,9 @@ text},
    author = {Ferdig, R. E. and Dawson, K. and Black, E. W. and Black, N. M. P. and Thompson, L. A.},
    title = {Medical students and residents use of online social networking tools: Implications for teaching professionalism in medical education},
    journal = {First Monday},
-   volume = {13(9) %U http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2161/2026},
+   volume = {13},
+   number = {9},
+   url = {http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2161/2026},
    year = {2008}
 }
 
@@ -2502,7 +2518,8 @@ text},
    journal = {Journal of the American Statistical Association},
    volume = {80},
    number = {389},
-   pages = {67, 51 %U http://dx.doi.org/10.2307/2288040},
+   pages = {67, 51},
+   doi = {10.2307/2288040},
    abstract = {Loglinear models are adapted for the analysis of multivariate social networks, a set of sociometric relations among a group of actors. Models that focus on the similarities and differences between the relations and models that concentrate on individual actors are discussed. This approach allows for the partitioning of the actors into blocks or subgroups. Some ideas for combining these models are described, and the various models and computational methods are applied to the analysis of data for a corporate interlock network of the 25 largest organizations in Minneapolis/St. Paul and for a classic network of 18 monks in a cloister. The computational techniques all involve variations on the standard iterative proportional-fitting algorithm used extensively in the analysis of multidimensional contingency tables.},
    keywords = {methods
 ties},
@@ -2513,7 +2530,8 @@ ties},
    author = {Finkel, Jenny and Grenager, Trond and Manning, Christopher},
    title = {Incorporating non-local information into information extraction systems by Gibbs sampling},
    publisher = {Association for Computational Linguistics},
-   pages = {370, 363 %U http://dx.doi.org/10.3115/1219840.1219885},
+   pages = {370, 363},
+   doi = {10.3115/1219840.1219885},
    keywords = {classification
 echo
 text},
@@ -2525,13 +2543,15 @@ text},
    title = {Computer-Based Self-Help Groups -- On-Line Recovery for Addictions},
    journal = {Computers in Human Services},
    volume = {13},
-   pages = {21 - 41 %U http://www.informaworld.com/10.1300/J407v13n01_02},
+   pages = {21 - 41},
+   url = {http://www.informaworld.com/10.1300/J407v13n01_02},
    year = {2010}
 }
 
 @misc{
    author = {Fisher, Danyel and Hogan, Bernie and Brush, A. J. and Smith, Marc and Jacobs, Andy},
-   title = {Using Social Sorting to Enhance Email Management %U http://research.microsoft.com/~danyelf/publications/Fisher_HCIC.pdf},
+   title = {Using Social Sorting to Enhance Email Management},
+   url = {http://research.microsoft.com/~danyelf/publications/Fisher_HCIC.pdf},
    abstract = {We evaluate the use and potential benefits of social sorting as a technique for managing email. We present SNARF, the Social Network and Relationship Finder, a tool which filters and sorts email based on the type of message and the user’s past history with an email correspondent, a process we refer to as social sorting. This tool also combines several contemporary techniques for email selection and review, including thread management and multiple simultaneous views. We report on the results of a 4 week field study (N=574), and describe the user behavior that emerged around the tool. Additionally, we present a scale of email overflow to assess users’ experience with email generally. While our application did not significantly reduce experience of email overflow, we conclude leveraging past email behavior can be of value to email users for both time-critical triage and peripheral awareness.},
    keywords = {wemeddlechi},
    year = {2006}
@@ -2543,7 +2563,8 @@ text},
    journal = {Decision Support Systems},
    volume = {37},
    number = {2},
-   pages = {239-263 %U http://www.sciencedirect.com/science/article/B6V8S-48326D8-3/2/1f78c81dd89f4986c18a305f70811e1c},
+   pages = {239-263},
+   url = {http://www.sciencedirect.com/science/article/B6V8S-48326D8-3/2/1f78c81dd89f4986c18a305f70811e1c},
    abstract = {Group support systems (GSS) have been the subject of many investigations and meta-analyses over the past decade. This study presents, summarizes, and analyzes the results of 145 experiments that used communication mode as an independent variable. The results show that the modal outcome for GSSs compared to Face-to-Face (FtF) methods is "no difference," while the overall percentage of positive effects for results that compare GSS to FtF is 29.2%. The results suggest that the use of a GSS improves decision quality, depth of analysis, equality of participation, and satisfaction over manual methods. Additionally, more detailed analysis suggests that task type, GSS type and the interaction of both have a moderating effect on adaptation and outcome factors. Specifically, groups working on idea generation tasks using GSS decision room technology improve to 39.6% (GSS>FtF) effect. Conversely, asynchronous computer-mediated communication (CMC) groups working on decision making tasks improved to 46.4% (GSS>FtF) effect. FtF groups show higher levels of consensus and perceived quality, communicate more, and are more efficient (requiring less time to complete the tasks). No differences are observed between FtF and GSS groups on satisfaction and usability.},
    keywords = {Categorical assessment
 Experimental analysis
@@ -2554,7 +2575,8 @@ Group decision support systems},
 @book{
    author = {Florida, Richard},
    title = {The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community and Everyday Life},
-   publisher = {Basic Books %@ 0465024777 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0465024777},
+   publisher = {Basic Books %@ 0465024777},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0465024777},
    abstract = {The national bestseller that defines a new economic class and shows how it is key to the future of our cities. The Washington Monthly 2002 Annual Political Book Award Winner The Rise of the Creative Class gives us a provocative new way to think about why we live as we do today-and where we might be headed. Weaving storytelling with masses of new and updated research, Richard Florida traces the fundamental theme that runs through a host of seemingly unrelated changes in American society: the growing role of creativity in our economy. Just as William Whyte's 1956 classic The Organization Man showed how the organizational ethos of that age permeated every aspect of life, Florida describes a society in which the creative ethos is increasingly dominant. Millions of us are beginning to work and live much as creative types like artists and scientists always have-with the result that our values and tastes, our personal relationships, our choices of where to live, and even our sense and use of time are changing. Leading the shift are the nearly 38 million Americans in many diverse fields who create for a living--the Creative Class. The Rise of the Creative Class chronicles the ongoing sea of change in people's choices and attitudes, and shows not only what's happening but also how it stems from a fundamental economic change. The Creative Class now comprises more than thirty percent of the entire workforce. Their choices have already had a huge economic impact. In the future they will determine how the workplace is organized, what companies will prosper or go bankrupt, and even which cities will thrive or wither.},
    keywords = {echo
 social},
@@ -2572,7 +2594,8 @@ social},
 
 @misc{
    author = {Fogg, B. J.},
-   title = {Mass interpersonal persuasion: An early view of a new phenomenon %U http://www.bjfogg.com/mip.pdf},
+   title = {Mass interpersonal persuasion: An early view of a new phenomenon},
+   url = {http://www.bjfogg.com/mip.pdf},
    year = {2008}
 }
 
@@ -2581,14 +2604,16 @@ social},
    title = {Hyperfriends and Beyond: Friendship and Social Norms on LiveJournal},
    booktitle = {Internet Research Annual Volume 4: Selected Papers from the AOIR Conference},
    publisher = {Peter Lang},
-   pages = {91-103 %U http://k4t3.org/publications/hyperfriendship.pdf},
+   pages = {91-103},
+   url = {http://k4t3.org/publications/hyperfriendship.pdf},
    year = {2006}
 }
 
 @misc{
    author = {Force, Internet Safety Technical Task},
    title = {Enhancing Child Safety and Online Technologies},
-   publisher = {Internet Safety Technical Task Force %U http://cyber.law.harvard.edu/pubrelease/isttf/},
+   publisher = {Internet Safety Technical Task Force},
+   url = {http://cyber.law.harvard.edu/pubrelease/isttf/},
    year = {2008}
 }
 
@@ -2598,7 +2623,8 @@ social},
    journal = {BMJ (Clinical research ed.)},
    volume = {337},
    number = {dec04_2},
-   pages = {a2338 %U http://dx.doi.org/10.1136/bmj.a2338},
+   pages = {a2338},
+   doi = {10.1136/bmj.a2338},
    abstract = {OBJECTIVES: To evaluate whether happiness can spread from person to person and whether niches of happiness form within social networks. DESIGN: Longitudinal social network analysis. SETTING: Framingham Heart Study social network. PARTICIPANTS: 4739 individuals followed from 1983 to 2003. MAIN OUTCOME MEASURES: Happiness measured with validated four item scale; broad array of attributes of social networks and diverse social ties. RESULTS: Clusters of happy and unhappy people are visible in the network, and the relationship between people's happiness extends up to three degrees of separation (for example, to the friends of one's friends' friends). People who are surrounded by many happy people and those who are central in the network are more likely to become happy in the future. Longitudinal statistical models suggest that clusters of happiness result from the spread of happiness and not just a tendency for people to associate with similar individuals. A friend who lives within a mile (about 1.6 km) and who becomes happy increases the probability that a person is happy by 25% (95% confidence interval 1% to 57%). Similar effects are seen in coresident spouses (8%, 0.2% to 16%), siblings who live within a mile (14%, 1% to 28%), and next door neighbours (34%, 7% to 70%). Effects are not seen between coworkers. The effect decays with time and with geographical separation. CONCLUSIONS: People's happiness depends on the happiness of others with whom they are connected. This provides further justification for seeing happiness, like health, as a collective phenomenon.},
    keywords = {emotion
 networks
@@ -2613,7 +2639,7 @@ sna},
    volume = {60},
    number = {6},
    pages = {1299-1309},
-   note = {doi: DOI: 10.1016/j.socscimed.2004.07.005},
+   doi = {10.1016/j.socscimed.2004.07.005},
    abstract = {Do [`]informed' or [`]expert' patients challenge dominant traditions in biomedicine or simply adopt these as conventional ways of thinking about body shape and size, illness and health? This paper examines this question in relation to the use of the weight-loss drug Xenical by participants in an Internet forum for obese and overweight people. Ethnographic and interview data from the forum provides evidence that participants share information and support each other as they use Xenical, and in the process emerge as [`]expert patients' in relation to their body shape and its treatment. However, it is argued that while an [`]expert patient' can be perceived as desirable, enabling the democratisation of healthcare, it can also be constraining. The exchanges between the users in the forum perpetuate a biomedical model of overweight as a condition to be overcome. The discussion critically considers a number of options for the development of the expert patient, including the emergence of an [`]informed consumer'.},
    keywords = {Consumer
 Expert patient
@@ -2626,7 +2652,8 @@ Weight loss},
 
 @misc{
    author = {Fox, Susannah},
-   title = {Participatory Culture + Health Care %U http://www.pewinternet.org/Commentary/2009/November/The-Pew-InternetHealth-FAQ.aspx},
+   title = {Participatory Culture + Health Care},
+   url = {http://www.pewinternet.org/Commentary/2009/November/The-Pew-InternetHealth-FAQ.aspx},
    year = {2009}
 }
 
@@ -2639,7 +2666,8 @@ Weight loss},
 
 @misc{
    author = {Fox, S. and Jones, S.},
-   title = {The Social Life of Health Information Americans' pursuit of health takes place within a widening network of both online and offline sources. %U http://www.pewinternet.org/Reports/2009/8-The-Social-Life-of-Health-Information.aspx},
+   title = {The Social Life of Health Information Americans' pursuit of health takes place within a widening network of both online and offline sources.},
+   url = {http://www.pewinternet.org/Reports/2009/8-The-Social-Life-of-Health-Information.aspx},
    year = {2009}
 }
 
@@ -2648,14 +2676,15 @@ Weight loss},
    title = {WTF a Crazy Brazilian Invasion},
    publisher = {Murdoch University - School of Information Technology},
    volume = {1},
-   pages = {255-274 %U none},
+   pages = {255-274},
    year = {2006}
 }
 
 @book{
    author = {Frakes, William and Baeza-Yates, Ricardo},
    title = {Information Retrieval: Data Structures and Algorithms},
-   publisher = {Prentice Hall %@ 0134638379 %U http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0134638379},
+   publisher = {Prentice Hall %@ 0134638379},
+   url = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&path=ASIN/0134638379},
    abstract = {Information retrieval is a sub-field of computer science that deals with the automated storage and retrieval of documents. Providing the latest information retrieval techniques, this guide discusses Information Retrieval data structures and algorithms, including implementations in C. Aimed at software engineers building systems with book processing components, it provides a descriptive and evaluative explanation of storage and retrieval systems, file structures, term and query operations, document operations and hardware. Contains techniques for handling inverted files, signature files, and file organizations for optical disks. Discusses such operations as lexical analysis and stoplists, stemming algorithms, thesaurus construction, and relevance feedback and other query modification techniques. Provides information on Boolean operations, hashing algorithms, ranking algorithms and clustering algorithms. In addition to being of interest to software engineering professionals, this book will be useful to information science and library science professionals who are interested in text retrieval technology.},
    keywords = {classification
 ml
@@ -2683,7 +2712,8 @@ Impact Factor},
    journal = {International Journal on Digital Libraries},
    volume = {3},
    number = {2},
-   pages = {115–130 %U http://dx.doi.org/10.1007/s007999900023},
+   pages = {115–130},
+   doi = {10.1007/s007999900023},
    abstract = {Technical terms (henceforth called terms), are important elements for digital libraries. In this paper we present a domain-independent method for the automatic extraction of multi-word terms, from machine-readable special language corpora. The method, (C-value/NC-value), combines linguistic and statistical information. The first part, C-value enhances the common statistical measure of frequency of occurrence for term extraction, making it sensitive to a particular type of multi-word terms, the nested terms. The second part, NC-value, gives: 1) a method for the extraction of term context words (words that tend to appear with terms), 2) the incorporation of information from term context words to the extraction of terms.},
    year = {2000}
 }
@@ -2694,7 +2724,8 @@ Impact Factor},
    journal = {The American Journal of Sociology},
    volume = {98},
    number = {1},
-   pages = {166, 152 %U http://www.jstor.org/stable/2781196},
+   pages = {166, 152},
+   url = {http://www.jstor.org/stable/2781196},
    abstract = {Two models of the structural form of small, informal groups are compared. One, derived by Winship, requires that patterns of social affiliation be strictly transitive. The other, based on Granovetter's ideas about weak and strong ties, requires only a special limited form of transitivity. When these alternative models are tested with data on human interaction, it turns out that the Winship model does not fit the data but that the model developed from Granovetter's work does.},
    keywords = {capital
 sna
@@ -2708,7 +2739,8 @@ social},
    journal = {The Journal of Consumer Research},
    volume = {17},
    number = {1},
-   pages = {12, 1 %U http://www.jstor.org/stable/2626820},
+   pages = {12, 1},
+   url = {http://www.jstor.org/stable/2626820},
    abstract = {This article explores the concept of market embeddedness and its impact on purchasing behavior in a consumer market. Embeddedness exists when consumers derive utility from two sources simultaneously: from attributes of the product and from social capital found in preexisting ties between buyers and sellers. This framework is applied to the home party method of direct sales. We find that the degree of social capital present, as measured by the strength of the buyer-seller tie and buyer indebtedness to the seller, significantly affects the likelihood of purchase.},
    keywords = {econ
 sna
@@ -2720,7 +2752,8 @@ social},
    author = {Freund, Yoav and Schapire, Robert},
    title = {A decision-theoretic generalization of on-line learning and an application to boosting},
    publisher = {Springer-Verlag},
-   pages = {37, 23 %@ 3-540-59119-2 %U http://portal.acm.org/citation.cfm?id=712093},
+   pages = {37, 23 %@ 3-540-59119-2},
+   url = {http://portal.acm.org/citation.cfm?id=712093},
    keywords = {classification
 ml},
    year = {1995}
@@ -2740,7 +2773,9 @@ ml},
    author = {Friedland, Lisa and Jensen, David},
    title = {Finding tribes: identifying close-knit individuals from employment patterns},
    publisher = {ACM},
-   pages = {299, 290 %@ 978-1-59593-609-7 %U http://dx.doi.org/10.1145/1281192.1281226},
+   pages = {299, 290},
+   isbn = {978-1-59593-609-7},
+   doi = {10.1145/1281192.1281226},
    abstract = {We present a family of algorithms to uncover tribes -groups of individuals who share unusual sequences of affiliations. While much work inferring community structure describes large-scale trends, we instead search for small groups of tightly linked individuals who behave anomalously with respect to those trends. We apply the algorithms to a large temporal and relational data set consisting of millions of employment records from the National Association of Securities Dealers. The resulting tribes contain individuals at higher risk for fraud, are homogenous with respect to risk scores, and are geographically mobile, all at significant levels compared to random or to other sets of individuals who share affiliations.},
    keywords = {ml
 modeling
@@ -2755,7 +2790,8 @@ stats},
    title = {The Human Being in Disasters: A Research Perspective},
    journal = {Annals of the American Academy of Political and Social Science},
    volume = {309},
-   pages = {42-51 %U http://www.jstor.org/stable/1031933},
+   pages = {42-51},
+   url = {http://www.jstor.org/stable/1031933},
    year = {1957}
 }
 
@@ -2764,7 +2800,9 @@ stats},
    title = {Social Uses of Personal Health Information Within PatientsLikeMe, an Online Patient Community: What Can Happen When Patients Have Access to One Another’s Data},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e15 %U http://www.jmir.org/2008/3/e15/ http://dx.doi.org/10.2196/jmir.1053 http://www.ncbi.nlm.nih.gov/pubmed/18504244},
+   pages = {e15},
+   doi = {10.2196/jmir.1053},
+   url = {http://www.jmir.org/2008/3/e15/},
    keywords = {data visualization
 health care
 online communities
@@ -2784,7 +2822,8 @@ technology},
    journal = {Journal of Medical Internet Research},
    volume = {10},
    number = {3},
-   pages = {e15 %U http://www.jmir.org/2008/3/e15/HTML},
+   pages = {e15},
+   url = {http://www.jmir.org/2008/3/e15/HTML},
    year = {2008}
 }
 
@@ -2794,7 +2833,8 @@ technology},
    journal = {Journal of Information Science},
    volume = {30},
    number = {5},
-   pages = {396+ %U http://dx.doi.org/10.1177/0165551504046722},
+   pages = {396+},
+   url = {10.1177/0165551504046722},
    keywords = {clustering
 queries},
 
@@ -2803,7 +2843,8 @@ queries},
 @misc{
    author = {Fuchs, Christian},
    title = {Social Networking Sites and the Surveillance Society. A Critical Case Study of the Usage of studiVZ, Facebook and MySpace by Students in Salzburg in the Context of Electronic Surveillance},
-   publisher = {Salzburg/Vienna: Research Group UTI %U http://fuchs.icts.sbg.ac.at/SNS_Surveillance_Fuchs.pdf},
+   publisher = {Salzburg/Vienna: Research Group UTI},
+   url = {http://fuchs.icts.sbg.ac.at/SNS_Surveillance_Fuchs.pdf},
    year = {2009}
 }
 
@@ -2813,7 +2854,8 @@ queries},
    journal = {Journal of New Music Research},
    volume = {32},
    number = {2},
-   pages = {121–131 %U http://www.informaworld.com.ezproxy.library.drexel.edu/openurl?genre=article&#38;issn=0929-8215&#38;volume=32&#38;issue=2&#38;spage=121},
+   pages = {121–131},
+   url = {http://www.informaworld.com.ezproxy.library.drexel.edu/openurl?genre=article&#38;issn=0929-8215&#38;volume=32&#38;issue=2&#38;spage=121},
    abstract = {Music Information Retrieval (MIR) is an interdisciplinary research area that has grown out of the need to manage burgeoning collections of music in digital form. Its diverse disciplinary communities, exemplified by the recently established ISMIR conference series, have yet to articulate a common research agenda or agree on methodological principles and metrics of success. In order for MIR to succeed, researchers need to work with real user communities and develop research resources such as reference music collections, so that the wide variety of techniques being developed in MIR can be meaningfully compared with one another. Out of these efforts, a common MIR practice can emerge.},
    keywords = {music
 reviews},
@@ -2844,7 +2886,8 @@ text},
    journal = {The American Mathematical Monthly},
    volume = {69},
    number = {1},
-   pages = {15, 9 %U http://dx.doi.org/10.2307/2312726},
+   pages = {15, 9},
+   doi = {10.2307/2312726},
    keywords = {gametheory
 math},
    year = {1962}
@@ -2865,7 +2908,8 @@ math},
    author = {Galley, Michel and McKeown, Kathleen and Hirschberg, Julia and Shriberg, Elizabeth},
    title = {Identifying agreement and disagreement in conversational speech: use of Bayesian networks to model pragmatic dependencies},
    publisher = {Association for Computational Linguistics},
-   pages = {669 %U http://dx.doi.org/10.3115/1218955.1219040},
+   pages = {669},
+   doi = {10.3115/1218955.1219040},
    abstract = {We describe a statistical approach for modeling agreements and disagreements in conversational interaction. Our approach first identifies adjacency pairs using maximum entropy ranking based on a set of lexical, durational, and structural features that look both forward and backward in the discourse. We then classify utterances as agreement or disagreement using these adjacency pairs and features that represent various pragmatic influences of previous agreement or disagreement on the current utterance. Our approach achieves 86.9% accuracy, a 4.9% increase over previous work.},
    keywords = {echo
 ml},
@@ -2875,7 +2919,8 @@ ml},
 @misc{
    author = {Gamon, Michael},
    title = {Sentiment classification on customer feedback data: noisy data, large feature vectors, and the role of linguistic analysis},
-   publisher = {Association for Computational Linguistics %U http://dx.doi.org/10.3115/1220355.1220476},
+   publisher = {Association for Computational Linguistics},
+   doi = {10.3115/1220355.1220476},
    keywords = {sentiment
 text},
    year = {2004}
