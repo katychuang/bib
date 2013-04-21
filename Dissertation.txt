@@ -5920,17 +5920,12 @@ social},
    title = {How Cancer Survivors Provide Support on Cancer-Related Internet Mailing Lists},
    journal = {Journal of Medical Internet Research},
    volume = {9},
-   number = {2 %U http://www.jmir.org/2007/2/e12/HTML},
-   year = {2007}
-}
-
-@article{
-   author = {Meier, Andrea and Lyons, J. Elizabeth and Frydman, Gilles and Forlenza, Michael and Rimer, K. Barbara},
-   title = {How Cancer Survivors Provide Support on Cancer-Related Internet Mailing Lists},
-   journal = {Journal of Medical Internet Research},
-   volume = {9},
-   pages = {e12 %U http://www.jmir.org/2007/2/e12/ http://dx.doi.org/10.2196/jmir.9.2.e12 http://www.ncbi.nlm.nih.gov/pubmed/17513283},
-   keywords = {cancer
+   number = {2},
+   pages = {e12},
+   url = {http://www.jmir.org/2007/2/e12/HTML},
+   doi = {10.2196/jmir.9.2.e12},
+   pmid = {17513283},
+      keywords = {cancer
 internet
 mailing lists
 online communities
@@ -6069,12 +6064,9 @@ Social psychology},
    volume = {75},
    number = {1},
    pages = {16-24},
-   note = {doi: DOI: 10.1016/j.pec.2008.08.029},
+   doi = {10.1016/j.pec.2008.08.029},
    abstract = {Objective Previous research has contended that the unique characteristics of the Internet might remove some of the gender differences that exist in face-to-face healthcare. The aims of the present study were to systematically review studies that have examined gender differences in communication within online health communities.Methods A literature search was conducted to identify studies addressing gender differences in messages posted to online health-related support groups. Out of the 1186 articles identified, twelve were retrieved for review.Results Half of the studies examined gender differences by comparing male and female cancer discussion boards. The literature review revealed that some gender differences were observed in these studies. However, for studies that analysed mixed-gender communities, gender differences were less evident.Conclusion Results seemed to reveal gender differences in communications in single-sex online health support groups, and similarities in communication patterns in mixed-sex online health support groups. However, findings should be treated with caution due to the diversity in studies and methodological issues highlighted in the present review.Practice implications There is a need for health care professionals to take into account a range of situational and contextual factors that may affect how men and women use online health support groups. However, more robust research is needed before concrete guidelines can be developed to help health care professionals develop effective online support interventions.},
-   keywords = {Gender
-Online support groups
-Health
-Computer-mediated communication},
+   keywords = {Gender, Online support groups, Health, Computer-mediated communication},
    year = {2009}
 }
 
@@ -6203,22 +6195,10 @@ The majority of participants, with more females than males, knew where to go for
    title = {Patient and Parent Views on a Web 2.0 Diabetes Portal—the Management Tool, the Generator, and the Gatekeeper: Qualitative Study},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e17 %U http://www.jmir.org/2010/2/e17/},
-   keywords = {adolescents
-apomediation
-childhood chronic disease
-children
-Disease management
-eHealth
-health care professionals
-learning
-networking
-parents
-patient information
-self-care
-social media
-type 1 diabetes
-Web 2.0},
+   pages = {e17},
+   url = {http://www.jmir.org/2010/2/e17/},
+   doi = {10.2196/jmir.1267},
+   keywords = {adolescents, apomediation, childhood chronic disease, children, Disease management, eHealth, health care professionals, learning, networking, parents, patient information, self-care, social media, type 1 diabetes, Web 2.0},
    year = {2010}
 }
 
@@ -6331,11 +6311,14 @@ Web 2.0},
    year = {2007}
 }
 
-@misc{
+@inproceedings{
    author = {Otterbacher, Jahna},
    title = {'Helpfulness' in online communities: a measure of message quality},
+   booktitle = {CHI '09: Proceedings of the 27th international conference on Human factors in computing systems'},
    publisher = {ACM},
-   pages = {964, 955 %@ 978-1-60558-246-7 %U http://dx.doi.org/10.1145/1518701.1518848},
+   pages = {955-964},
+   isbn = {978-1-60558-246-7},
+   doi = {10.1145/1518701.1518848},
    abstract = {Online communities displaying textual postings require measures to combat information overload. One popular approach is to ask participants whether or not messages are helpful in order to then guide others to interesting content. Adopting a well-established framework for assessing data quality, we examine the nature of "helpfulness."We study consumer reviews at Amazon.com, deriving 22 measures quantifying their textual properties, authors' reputations and product characteristics. Confirmatory factor analysis reveals five underlying quality dimensions representing reviewers' reputations in the community, the topical relevancy of the reviews, the ease of understanding them, their believability and objectivity. A correlation and regression analysis confirms that these dimensions are related to the helpfulness scores assigned by community participants. However, it also uncovers a strong relationship between the chronological ordering of reviews and helpfulness, which both community participants and designers should keep in mind when using this method of social navigation.},
    keywords = {redundant
 review},
@@ -6347,13 +6330,11 @@ review},
    title = {How Breast Cancer Patients Want to Search for and Retrieve Information From Stories of Other Patients on the Internet: an Online Randomized Controlled Experiment},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e7 %U http://www.jmir.org/2010/1/e7/ http://dx.doi.org/10.2196/jmir.1215 http://www.ncbi.nlm.nih.gov/pubmed/20215101},
-   keywords = {Breast cancer
-information retrieval
-internet
-life experiences
-patient satisfaction.
-Social support},
+   pages = {e7},
+   url = {http://www.jmir.org/2010/1/e7/},
+   pmid = {20215101},
+   doi = {10.2196/jmir.1215},
+   keywords = {Breast cancer, information retrieval, internet, life experiences, patient satisfaction, Social support},
    year = {2010}
 }
 
@@ -6439,7 +6420,7 @@ text},
    title = {The Virtual Geographies of Social Networks: A comparative analysis of Facebook, LinkedIn and ASmallWorld},
    journal = {New Media & Society},
    volume = {11},
-   pages = {199-220 %U none},
+   pages = {199-220},
    year = {2009}
 }
 
@@ -6561,7 +6542,8 @@ text},
    series = {Advances in Medical Sociology},
    publisher = {Emerald Group Publishing Limited},
    volume = {8},
-   pages = {3-25 %@ 1057-6290 %U http://dx.doi.org/10.1016/S1057-6290(02)80019-5},
+   pages = {3-25},
+   doi = {10.1016/S1057-6290(02)80019-5},
    year = {2002}
 }
 
@@ -6577,53 +6559,31 @@ text},
 
 @article{
    author = {Pfeil, U. and Arjan, R. and Zaphiris, P.},
-   title = {Age differences in online social networking - A study of user profiles and the social capital divide among teenagers and older users in MySpace %U none},
+   title = {Age differences in online social networking - A study of user profiles and the social capital divide among teenagers and older users in MySpace},
    journal = {Computers in Human Behavior},
    year = {2008}
 }
-x
-@misc{
+
+@inproceedings{
    author = {Pfeil, Ulrike and Zaphiris, Panayiotis},
    title = {Patterns of empathy in online communication},
-   pages = {919 - 928  },
+   booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+   pages = {919 - 928},
+   doi = {10.1145/1240624.1240763},
    abstract = {This article presents an investigation of empathy within an online community for older people (SeniorNet). Qualitative content analysis of 400 messages from a discussion board about depression was used to determine how empathy is expressed and facilitated in online communication. Special emphasis was placed on determining the components of online empathy. A code scheme that we developed to analyse online empathy is also presented. The findings were compared to offline studies about empathy in order to investigate the influence that the mediating technology has on the phenomenon.},
-   keywords = {Computer mediated communication (CMC)
-empathy
-inclusive design
-older people
-online communities
-seniors
-Social aspects
-social computing},
+   keywords = {Computer mediated communication (CMC), empathy, inclusive design, older people, online communities, seniors, Social aspects, social computing},
    year = {2007}
 }
 
 @article{
    author = {Pfeil, Ulrike and Zaphiris, Panayiotis},
    title = {Investigating social network patterns within an empathic online community for older people},
-   journal = {Comput. Hum. Behav.},
+   journal = {Computers & Human Behavior},
    volume = {25},
    number = {5},
    pages = {1139-1155},
    abstract = {In this paper, we study the social network structure of an online discussion board within SeniorNet, an empathic online community for older people. We apply Social Network Analysis (SNA) to analyse the communication patterns and relationships between members of the discussion board. In addition to looking at the structure of the exchanged messages within the discussion board as a whole, we also investigate associations between the communication content and the social network patterns. Our findings show distinct differences between the social network patterns of empathic and non-empathic communications. For example, members are more connected and closer to each other in the social networks that are based on empathic communication compared to non-empathic communication. Additionally our results show that the type of empathic communication (e.g. different kinds of support) is linked to the social network structure within the discussion board.},
-   keywords = {ageing
-cmc
-empathic online communities
-older people
-online discussion board
-social interactions
-social network analysis},
-   year = {2009}
-}
-
-@article{
-   author = {Pfeil, Ulrike and Zaphiris, Panayiotis},
-   title = {Investigating social network patterns within an empathic online community for older people},
-   journal = {Computers in Human Behavior},
-   volume = {25},
-   number = {5},
-   pages = {1139-1155   },
-   abstract = {In this paper, we study the social network structure of an online discussion board within SeniorNet, an empathic online community for older people. We apply Social Network Analysis (SNA) to analyse the communication patterns and relationships between members of the discussion board. In addition to looking at the structure of the exchanged messages within the discussion board as a whole, we also investigate associations between the communication content and the social network patterns. Our findings show distinct differences between the social network patterns of empathic and non-empathic communications. For example, members are more connected and closer to each other in the social networks that are based on empathic communication compared to non-empathic communication. Additionally our results show that the type of empathic communication (e.g. different kinds of support) is linked to the social network structure within the discussion board. },
+   keywords = {ageing, cmc, empathic online communities, older people, online discussion board, social interactions, social network analysis},
    year = {2009}
 }
 
@@ -6733,8 +6693,9 @@ econ},
    journal = {Sexually Transmitted Infections},
    volume = {78},
    number = {suppl 1},
-   pages = {i158, i152 %U http://dx.doi.org/10.1136/sti.78.suppl_1.i152},
-   abstract = {10.1136/sti.78.suppl_1.i152 Ascertaining epidemic phase for a sexually transmitted disease (STD) has depended on secular trend data which often contain significant artefacts. The usefulness of sexual network structure as an indicator of STD epidemic phase is explored in an analysis of community wide genital chlamydia reports, with network analysis of interviewed cases and linked sexual partners, in Colorado Springs, USA, 1996 to 1999. In this period, the chlamydia case rate per 100 000 increased by 46%. Three quarters of cases (n= 4953) were interviewed, nominating 7365 partners; these, combined with index cases, made up the 9114 persons in the network. Epidemiologic analysis of cases suggests that secular trend increases are artefactual. Network analysis supports this view: overall network structure is fragmented and dendritic, notably lacking the cyclic (closed loops) structures associated with network cohesion and thus with efficient STD transmission. Comparison of network structure with that of an intense STD outbreak (characterised by numerous cyclic structures) suggests low level or declining endemic rather than epidemic chlamydia transmission during the study interval. These observations accord with intuitive and stochastic predictions.},
+   pages = {i158, i152},
+   doi = {10.1136/sti.78.suppl_1.i152},
+   abstract = {Ascertaining epidemic phase for a sexually transmitted disease (STD) has depended on secular trend data which often contain significant artefacts. The usefulness of sexual network structure as an indicator of STD epidemic phase is explored in an analysis of community wide genital chlamydia reports, with network analysis of interviewed cases and linked sexual partners, in Colorado Springs, USA, 1996 to 1999. In this period, the chlamydia case rate per 100 000 increased by 46%. Three quarters of cases (n= 4953) were interviewed, nominating 7365 partners; these, combined with index cases, made up the 9114 persons in the network. Epidemiologic analysis of cases suggests that secular trend increases are artefactual. Network analysis supports this view: overall network structure is fragmented and dendritic, notably lacking the cyclic (closed loops) structures associated with network cohesion and thus with efficient STD transmission. Comparison of network structure with that of an intense STD outbreak (characterised by numerous cyclic structures) suggests low level or declining endemic rather than epidemic chlamydia transmission during the study interval. These observations accord with intuitive and stochastic predictions.},
    keywords = {networks
 prelim},
    year = {2002}
@@ -6758,6 +6719,14 @@ prelim},
    year = {1999}
 }
 
+@book{
+   author = {Preece, J.},
+   title = {Online communities: Supporting sociability, designing usability.},
+   publisher = {Wiley},
+   address = {Chichester, New York},
+   year = {2000}
+}
+
 @article{
    author = {Preece, J.},
    title = {Empathy online},
@@ -6765,7 +6734,7 @@ prelim},
    volume = {4},
    number = {1},
    pages = {74-84},
-   note = {10.1007/BF01434996},
+   doi = {10.1007/BF01434996},
    abstract = {Members of online support communities help each other by empathising about common problems and exchanging information about symptoms and treatments. Results from two studies indicate that: empathy occurs in most online textual communities; empathetic communication is influenced by the topic being discussed; the presence of women tends to encourage empathy; and the presence of moderators not only reduces hostility but also appears to encourage empathy. The paper explores how empathy may be affected by pace of interaction, mode of expression and the way people reveal themselves in synchronous and asynchronous communities. As we advance towards technically better computer virtual environments, it is timely to pay greater attention to social issues such as empathetic communication.},
    year = {1999}
 }
@@ -6842,32 +6811,18 @@ reviews},
 @phdthesis{
    author = {Radin, Patricia Marie},
    title = {"Hello, my friends": Social capital and transformations of trust in a grassroots breast cancer Website},
-   note = {The World Wide Web is widely used for medical communication, including online mutual-help communities of people focused on specific diseases. One successful example, sponsored by Breast Cancer Action Nova Scotia, provides high levels of support, information, and shared activities among many hundreds of people affected by breast cancer. Social capital theory suggests that a high level of trust helps to explain how groups such as this are able to thrive. According to this theory, trust is at the center of a virtuous circle of sharing, helping, and cooperation that provides a net benefit to all participants and even may benefit society in a broader way, for example by sharing a burden that is traditionally borne by family, friends, and healthcare providers. Although online communication takes place under quite different conditions from the face-to-face interactions on which social capital research is predicated, this study shows that an online community, too, may be a site for social capital to accrue. This revelatory case study, based on the author's three-year participatory research with the community, explores how this website promotes transformations of trust. The study finds a three-stage process in which (1)�newcomers "lurk" in an environment that is rich with breast cancer symbolism and observe the community at their leisure; (2)�participants are offered several ways to share personal disclosures, thus building mutual trust; and (3)�a variety of shared activities, both virtual and face-to-face, help to build "thick trust." This study shows that these three stages are sequential; are promoted by site design; and successfully move some participants to increased trust levels, thus explaining how a particular Web community can be beneficial to large numbers of users. The study suggests that an often overlooked, large group of beneficiaries may be lurkers. Use of medium theory provides a relevant new dimension by framing the transformation of social trust not just as a function of personal and group behavior but also as a function of the communication environment that is provided by computer-mediated communication and molded by both the site providers and the users themselves.},
-   abstract = {The World Wide Web is widely used for medical communication, including online mutual-help communities of people focused on specific diseases. One successful example, sponsored by Breast Cancer Action Nova Scotia, provides high levels of support, information, and shared activities among many hundreds of people affected by breast cancer. Social capital theory suggests that a high level of trust helps to explain how groups such as this are able to thrive. According to this theory, trust is at the center of a virtuous circle of sharing, helping, and cooperation that provides a net benefit to all participants and even may benefit society in a broader way, for example by sharing a burden that is traditionally borne by family, friends, and healthcare providers. Although online communication takes place under quite different conditions from the face-to-face interactions on which social capital research is predicated, this study shows that an online community, too, may be a site for social capital to accrue. This revelatory case study, based on the author's three-year participatory research with the community, explores how this website promotes transformations of trust. The study finds a three-stage process in which (1)�newcomers "lurk" in an environment that is rich with breast cancer symbolism and observe the community at their leisure; (2)�participants are offered several ways to share personal disclosures, thus building mutual trust; and (3)�a variety of shared activities, both virtual and face-to-face, help to build "thick trust." This study shows that these three stages are sequential; are promoted by site design; and successfully move some participants to increased trust levels, thus explaining how a particular Web community can be beneficial to large numbers of users. The study suggests that an often overlooked, large group of beneficiaries may be lurkers. Use of medium theory provides a relevant new dimension by framing the transformation of social trust not just as a function of personal and group behavior but also as a function of the communication environment that is provided by computer-mediated communication and molded by both the site providers and the users themselves.},
-   keywords = {Health
-Information Systems
-Sociology},
-   year = {2001}
-}
-
-@phdthesis{
-   author = {Radin, Patricia Marie},
-   title = {"Hello, my friends": Social capital and transformations of trust in a grassroots breast cancer Website %U http://www.library.drexel.edu/cgi-bin/r.cgi?url=http://proquest.umi.com/pqdweb?did=725935471&Fmt=7&clientId=18133&RQT=309&VName=PQD},
-   abstract = {The World Wide Web is widely used for medical communication, including online mutual-help communities of people focused on specific diseases. One successful example, sponsored by Breast Cancer Action Nova Scotia, provides high levels of support, information, and shared activities among many hundreds of people affected by breast cancer. Social capital theory suggests that a high level of trust helps to explain how groups such as this are able to thrive. According to this theory, trust is at the center of a virtuous circle of sharing, helping, and cooperation that provides a net benefit to all participants and even may benefit society in a broader way, for example by sharing a burden that is traditionally borne by family, friends, and healthcare providers. Although online communication takes place under quite different conditions from the face-to-face interactions on which social capital research is predicated, this study shows that an online community, too, may be a site for social capital to accrue. This revelatory case study, based on the author's three-year participatory research with the community, explores how this website promotes transformations of trust. The study finds a three-stage process in which (1)�newcomers "lurk" in an environment that is rich with breast cancer symbolism and observe the community at their leisure; (2)�participants are offered several ways to share personal disclosures, thus building mutual trust; and (3)�a variety of shared activities, both virtual and face-to-face, help to build "thick trust." This study shows that these three stages are sequential; are promoted by site design; and successfully move some participants to increased trust levels, thus explaining how a particular Web community can be beneficial to large numbers of users. The study suggests that an often overlooked, large group of beneficiaries may be lurkers. Use of medium theory provides a relevant new dimension by framing the transformation of social trust not just as a function of personal and group behavior but also as a function of the communication environment that is provided by computer-mediated communication and molded by both the site providers and the users themselves.},
-   keywords = {Health
-Information Systems
-Sociology},
+   abstract = {The World Wide Web is widely used for medical communication, including online mutual-help communities of people focused on specific diseases. One successful example, sponsored by Breast Cancer Action Nova Scotia, provides high levels of support, information, and shared activities among many hundreds of people affected by breast cancer. Social capital theory suggests that a high level of trust helps to explain how groups such as this are able to thrive. According to this theory, trust is at the center of a virtuous circle of sharing, helping, and cooperation that provides a net benefit to all participants and even may benefit society in a broader way, for example by sharing a burden that is traditionally borne by family, friends, and healthcare providers. Although online communication takes place under quite different conditions from the face-to-face interactions on which social capital research is predicated, this study shows that an online community, too, may be a site for social capital to accrue. This revelatory case study, based on the author's three-year participatory research with the community, explores how this website promotes transformations of trust. The study finds a three-stage process in which (1) newcomers "lurk" in an environment that is rich with breast cancer symbolism and observe the community at their leisure; (2) participants are offered several ways to share personal disclosures, thus building mutual trust; and (3) a variety of shared activities, both virtual and face-to-face, help to build "thick trust." This study shows that these three stages are sequential; are promoted by site design; and successfully move some participants to increased trust levels, thus explaining how a particular Web community can be beneficial to large numbers of users. The study suggests that an often overlooked, large group of beneficiaries may be lurkers. Use of medium theory provides a relevant new dimension by framing the transformation of social trust not just as a function of personal and group behavior but also as a function of the communication environment that is provided by computer-mediated communication and molded by both the site providers and the users themselves.},
+   keywords = {Health, Information Systems, Sociology},
    year = {2001}
 }
 
 @article{
-   author = {Rains, S. A. and Young, V.},
+   author = {Rains, Stephen A. and Young, Valerie},
    title = {A Meta-Analysis of Research on Formal Computer-Mediated Support Groups: Examining Group Characteristics and Health Outcomes},
    journal = {Human Communication Research},
    volume = {35},
    number = {3},
-   pages = {309-U5},
-   note = {Rains, Stephen A. Young, Valerie},
+   pages = {305-309},
    year = {2009}
 }
 
@@ -6926,10 +6881,8 @@ Sociology},
    number = {6},
    pages = {2757-2770},
    abstract = {The rapid growth of online social network services (SNSs) leads to new research questions. Unlike in other online communities, people in SNSs expect to gratify social-emotional needs rather than informational needs, and they are connected in a person-to-person manner which is more direct and interpersonal. The author argued that the factors influencing members' public posting in SNSs differ from those in traditional online communities. Interpersonal intimacy was postulated to influence lurking behaviors in SNSs. To investigate the relationship between intimacy level and posting frequency in SNSs, an online survey was conducted in Wallop, a SNS provided by Microsoft. Responses (102) were collected, in which the first 40 posters and the first 40 lurkers were selected for statistical analysis. The result shows significant differences exist in both verbal and affective intimacy level between lurkers and posters. The level of verbal intimacy and the level of affective intimacy are positively correlated with posting frequency. The result of discriminant analysis shows that verbal intimacy and affective intimacy are useful for discriminating posting/lurking groups of users. In addition, significant gender differences in perceived intimacy and posting behaviors were found. The result implies that people lurk in SNSs because they believe that their social-emotional needs may not be satisfied even if they post.},
-   keywords = {Computer mediated communication (CMC)
-Interpersonal relationship
-Intimacy
-Social networking},
+   keywords = {Computer mediated communication (CMC), Interpersonal relationship, Intimacy, Social networking},
+   doi = {10.1016/j.chb.2008.04.001},
    year = {2008}
 }
 
@@ -7031,13 +6984,11 @@ stress},
    title = {Emotion encoding and interpretation in computer-mediated communication: Reasons for use},
    journal = {Computers in Human Behavior},
    volume = {26},
-   number = {6 %U http://www.sciencedirect.com/science/article/B6VDC-50HWJ4Y-5/2/96ae67aad7a99bdcc00870b439f7e0fe},
+   number = {6},
+   url = {http://www.sciencedirect.com/science/article/B6VDC-50HWJ4Y-5/2/96ae67aad7a99bdcc00870b439f7e0fe},
    abstract = {As computer-mediated communication (CMC) is increasingly used to build and maintain relationships, the examination of channel choice for the development of these social ties becomes important to study. Using free response data from Riordan and Kreuz (submitted for publication), we examine reasons for choosing among face-to-face, asynchronous email, or synchronous instant message channels to transmit negatively or positively valenced emotional information. The most common reason for choosing face-to-face over channels of CMC was the ability to use more nonverbal cues. The most common reason for choosing a CMC channel over face-to-face was to shield oneself from the message recipient. Face-to-face was deemed more effective, more personal, more comfortable, and less permanent than CMC channels. Reasons differed significantly by valence and channel. We suggest that better knowledge of why people choose certain channels for different types of socio-emotional communication can help develop more comprehensive theories of CMC that account for different attributes of each channel in information transmission.},
-   keywords = {Computer-mediated
-Email
-Emotion
-Face-to-face
-Instant messenger},
+   keywords = {Computer-mediated, Email, Emotion, Face-to-face, Instant messenger},
+   doi = {10.1016/j.chb.2010.06.015},
    year = {2010}
 }
 
@@ -7046,16 +6997,11 @@ Instant messenger},
    title = {Predicting Successful Treatment Outcome of Web-Based Self-help for Problem Drinkers: Secondary Analysis From a Randomized Controlled Trial},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e46 %U http://www.jmir.org/2008/4/e46/ http://dx.doi.org/10.2196/jmir.1102 http://www.ncbi.nlm.nih.gov/pubmed/19033150},
-   keywords = {alcohol
-attribute-treatment interaction
-drinking
-general population
-pragmatic randomized trial
-Predictors
-problem drinking
-self-help
-Web-based intervention},
+   pages = {e46},
+   url = {http://www.jmir.org/2008/4/e46/},
+   doi = {10.2196/jmir.1102},
+   pmid = {19033150},
+   keywords = {alcohol, attribute-treatment interaction, drinking, general population, pragmatic randomized trial, Predictors, problem drinking, self-help, Web-based intervention},
    year = {2008}
 }
 
@@ -7210,24 +7156,13 @@ social},
 }
 
 @article{
-   author = {Schaefer, Catherine and Coyne, James and Lazarus, Richard},
-   title = {The health-related functions of social support},
-   journal = {Journal of Behavioral Medicine},
-   volume = {4},
-   number = {4},
-   pages = {406, 381-406, 381},
-   abstract = {Social support research has been hampered by a lack of clarity both in the definitions of social support and in the conceptualization of its effects on health outcomes. The present study compared social network size and three types of perceived social support—tangible, emotional, and informational —in relation to stressful life events, psychological symptoms and morale, and physical health status in a sample of 100 persons 45–64 years old. Social network size was empirically separable from, though correlated with, perceived social support and had a weaker overall relationship to outcomes than did support. Low tangible support and emotional support, in addition to certain life events, were independently related to depression and negative morale; informational support was associated with positive morale. Neither social support nor stressful life events were associated with physical health. It was concluded that social support research would benefit from attention to the multidimensionality of support and greater specificity in hypotheses about the relationship between types of support and adaptational outcomes.},
-   keywords = {ties},
-   year = {1981}
-}
-
-@article{
    author = {Schaefer, Catherine and Coyne, James C. and Lazarus, Richard S.},
    title = {The Health-related Functions of Social Support},
    journal = {Journal of Behavioral Medicine},
    volume = {4},
    number = {4},
    pages = {381-406},
+   pmid = {7338894},
    abstract = {Social support research has been hampered by a lack of clarity both in the definitions of social support and in the conceptualization of its effects on health outcomes. The present study compared social network size and three types of perceived social support—tangible, emotional, and informational —in relation to stressful life events, psychological symptoms and morale, and physical health status in a sample of 100 persons 45–64 years old. Social network size was empirically separable from, though correlated with, perceived social support and had a weaker overall relationship to outcomes than did support. Low tangible support and emotional support, in addition to certain life events, were independently related to depression and negative morale; informational support was associated with positive morale. Neither social support nor stressful life events were associated with physical health. It was concluded that social support research would benefit from attention to the multidimensionality of support and greater specificity in hypotheses about the relationship between types of support and adaptational outcomes.},
    keywords = {social support - stressful life events - psychological symptoms - morale - health status},
    year = {1990}
@@ -7394,13 +7329,11 @@ social},
    title = {Online Social and Professional Support for Smokers Trying to Quit: An Exploration of First Time Posts From 2562 Members},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e34 %U http://www.jmir.org/2010/3/e34/ http://dx.doi.org/10.2196/jmir.1340 http://www.ncbi.nlm.nih.gov/pubmed/20719739},
-   keywords = {addiction
-internet
-Social support
-Tobacco
-treatment
-WATI},
+   pages = {e34},
+   url = {http://www.jmir.org/2010/3/e34/},
+   doi = {10.2196/jmir.1340},
+   pmid = {20719739},
+   keywords = {addiction, internet, Social support, Tobacco, treatment, WATI},
    year = {2010}
 }
 
@@ -7425,7 +7358,8 @@ WATI},
    journal = {International Journal of Stress Management},
    volume = {15},
    number = {3},
-   pages = {235-251 %U http://ovidsp.tx.ovid.com/sp-2.3.1b/ovidweb.cgi?QS2=434f4e1a73d37e8c6056533a8d0c69ec365b1b060c867fa9059ea986bd309b88f4412f23a744c0954e2047e6452f05dcd0d9ecbe1708aebf52a603c6b987bd31a72d38bc166992933ee2787827a341e8f10d66bd2e55cb0fa9c3ab79d1bf8de74827b488513d66b77b044d07a44f10fc70416a556aa36d1618ab0dbfc351616b86204f6e868c998e53461017bc7533dde748c4c63d2dc44c3d86db2920844a96567d03b86366c407ac83258b7a8ff00694f07fdc990779ead138496cfec9db06056d9fcbcccd5b4851c09c6d7ded531c88d807a6837219652243fe44dafbf5019b2a5d49e0b085de53ca582949b89718a78aa724fdecb3c387c599a5d1fa7bfab667aaaf4a7c4bafee056022ef652b0b738ae2ed8f623e98db94cc7089d8c9bd5d55e7bb6cb5649294148a100e8f6d4d292daed4e5f27b7d1d606ac5f49a16222954bec51f1799acfcf733584079fed90e05727c9bdef8e3fce54fbd4633b0ef14e821ee6cc50c9df010b5d1db8da0ac280e808a3bce46f93c8a19fd7031ac3aa8797b1164206dd7ade7120e17ff2090aa464cd54c7eb68993b0d7c4efaabb9af69d8b0be2e439409cd887688fab10ed21724c51cb4b048566509cf850521aa6affcbde31aae99319d020ffb710e3f40},
+   pages = {235-251},
+   url = {http://ovidsp.tx.ovid.com/sp-2.3.1b/ovidweb.cgi?QS2=434f4e1a73d37e8c6056533a8d0c69ec365b1b060c867fa9059ea986bd309b88f4412f23a744c0954e2047e6452f05dcd0d9ecbe1708aebf52a603c6b987bd31a72d38bc166992933ee2787827a341e8f10d66bd2e55cb0fa9c3ab79d1bf8de74827b488513d66b77b044d07a44f10fc70416a556aa36d1618ab0dbfc351616b86204f6e868c998e53461017bc7533dde748c4c63d2dc44c3d86db2920844a96567d03b86366c407ac83258b7a8ff00694f07fdc990779ead138496cfec9db06056d9fcbcccd5b4851c09c6d7ded531c88d807a6837219652243fe44dafbf5019b2a5d49e0b085de53ca582949b89718a78aa724fdecb3c387c599a5d1fa7bfab667aaaf4a7c4bafee056022ef652b0b738ae2ed8f623e98db94cc7089d8c9bd5d55e7bb6cb5649294148a100e8f6d4d292daed4e5f27b7d1d606ac5f49a16222954bec51f1799acfcf733584079fed90e05727c9bdef8e3fce54fbd4633b0ef14e821ee6cc50c9df010b5d1db8da0ac280e808a3bce46f93c8a19fd7031ac3aa8797b1164206dd7ade7120e17ff2090aa464cd54c7eb68993b0d7c4efaabb9af69d8b0be2e439409cd887688fab10ed21724c51cb4b048566509cf850521aa6affcbde31aae99319d020ffb710e3f40},
    abstract = {Functional social support can be described as emotional (i.e., caring, esteem, etc.) or instrumental (i.e., informational, tangible) support. Hypothesizing that instrumental support often is interpreted as helpful because of its emotional meaning (signalling caring, understanding, esteem), we asked hospital patients (N = 67) to describe situations (N = 109) during which they were supported, and to indicate why this support was helpful. Both the description of the supportive behaviors and the meaning attributed to them were coded with regard to their instrumental versus emotional quality. As expected, many situations that were instrumental in descriptive terms were emotional in terms of meaning; the reverse occurred very seldom. This effect was confined to “private” interactions (i.e. interactions involving family and friends), whereas instrumental behaviors of medical professionals were largely instrumental in meaning as well. Results underscore the importance of giving instrumental support in a way that communicates care and esteem.},
    year = {2008}
 }
@@ -7651,23 +7585,12 @@ music},
    journal = {Journal of Consumer Health on the Internet},
    volume = {13},
    number = {3},
-   pages = {213 - 222+ %U http://www.informaworld.com/10.1080/15398280903119705},
+   pages = {213 - 222},
+   url = {http://www.informaworld.com/10.1080/15398280903119705},
    abstract = {The increasing application of the newest Web technologies to health information sites such as Revolution Health and IndivoHealth as well as patient-focused blogs and wikis brings greater patient participation into the traditionally static equation of health information-seeking on the Internet. Health-related Web sites are currently offering features that allow consumers to interact with each other and medical professionals, display and store their medical data, and obtain current biomedical research. What do all these new developments portend for those long-standing dependable Web sites such as MedlinePlusÂ�? This article examines the history, current status, and potential for three sites, the National Library of Medicine's MedlinePlus, the Medical Library Association's Consumer and Patient Health Information Section's CAPHIS site, and HealthfinderÂ�, in the context of the emerging importance of the newer social networking tools for consumer health information-seeking and decision making. The focus is on the inquiries produced at this transitional period of online health information. The purpose is to stimulate thought and debate.},
    keywords = {consumer
 Health
 information},
-
-}
-
-@article{
-   author = {Smith, Kay Hogan and Mayer, Susan},
-   title = {The "Big Three" Consumer Health Sites and Web Technology Trends: MedlinePlus®, Healthfinder®, and CAPHIS},
-   journal = {Journal of Consumer Health on the Internet},
-   volume = {13},
-   number = {3},
-   pages = {213 - 222},
-   abstract = {The increasing application of the newest Web technologies to health information sites such as Revolution Health and IndivoHealth as well as patient-focused blogs and wikis brings greater patient participation into the traditionally static equation of health information-seeking on the Internet. Health-related Web sites are currently offering features that allow consumers to interact with each other and medical professionals, display and store their medical data, and obtain current biomedical research. What do all these new developments portend for those long-standing dependable Web sites such as MedlinePlusÂ®? This article examines the history, current status, and potential for three sites, the National Library of Medicine's MedlinePlus, the Medical Library Association's Consumer and Patient Health Information Section's CAPHIS site, and HealthfinderÂ®, in the context of the emerging importance of the newer social networking tools for consumer health information-seeking and decision making. The focus is on the inquiries produced at this transitional period of online health information. The purpose is to stimulate thought and debate.},
-   year = {2009}
 }
 
 @article{
@@ -7804,12 +7727,11 @@ REFERENCE groups},
    title = {Effect of Adding a Virtual Community (Bulletin Board) to Smokefree.gov: Randomized Controlled Trial},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e53 %U http://www.jmir.org/2008/5/e53/ http://dx.doi.org/10.2196/jmir.1124 http://www.ncbi.nlm.nih.gov/pubmed/19097974},
-   keywords = {internet
-randomized trial
-self-help
-Smoking cessation
-World Wide Web},
+   pages = {e53},
+   url = {http://www.jmir.org/2008/5/e53/},
+   doi = {10.2196/jmir.1124},
+   pmid = {9097974},
+   keywords = {internet, randomized trial, self-help, Smoking cessation, World Wide Web},
    year = {2008}
 }
 
@@ -7963,7 +7885,7 @@ politics},
    volume = {18},
    number = {4},
    pages = {437-451},
-   note = {doi: DOI: 10.1016/S0747-5632(01)00054-1},
+   doi = {10.1016/S0747-5632(01)00054-1},
    abstract = {Competing claims have been presented in the literature regarding the impact of Internet use on social support. Some theorists have suggested that Internet use increases social interaction and support (Silverman, 1999, American Psychologist 54, 780-781), while others have argued that it leads to decreased interaction and support (Kiesler & Kraut, 1999, American Psychologist 54, 783-784). This study was designed to address this issue by examining the relationships among Internet use, personality, and perceived social support. Two-hundred and six participants completed questionnaires that assessed Internet use, personality (agreeableness, conscientiousness, extraversion, neuroticism, openness), and perceived social support. Using principal components analysis, individual computer activities were combined into three primary factors: Technical, Information Exchange, and Leisure. Correlation and regression analyses revealed only a marginal relationship between computer use and social support. Similarly, only modest associations were found between personality and computer use. However, personality did moderate the relationship between computer use and social support. That is, on two occasions, high computer use coupled with high personality was associated with decreased perceived social support and on a third occasion this combination resulted in increased perceived social support. These results help to address some of the inconsistencies that have been reported in the literature.},
    keywords = {Internet
 Computer use
