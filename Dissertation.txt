@@ -1113,18 +1113,6 @@ Information science},
    journal = {Health Communication},
    volume = {11},
    number = {2},
-   pages = {123 - 151+},
-   url = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
-   abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
-
-}
-
-@article{
-   author = {Braithwaite, Dawn O. and Waldron, Vincent R. and Finn, Jerry},
-   title = {Communication of Social Support in Computer-Mediated Groups for People With Disabilities},
-   journal = {Health Communication},
-   volume = {11},
-   number = {2},
    pages = {123 - 151},
    abstract = {This study documented the types and extent of social support messages exchanged by persons with disabilities who participated in a computer-based support group. A modified version of Cutrona &amp; Suhr's (1992) social support category system was used to code 1,472 support messages. The largest percentage of these messages offered emotional and informational support, whereas network support and tangible assistance were least frequently offered. It appeared that many of the support messages directly redressed limitations and challenges associated with disability-related mobility, socialization, and self-care. Results are discussed in terms of the generalizability of existing category systems for coding support to this mediated context, the relative importance of different types of support in the communication of support group members, and the unique features of social support in mediated environments. The implications of this study for social support researchers, persons with disabilities, and human services professionals are also discussed.},
    url = {http://www.informaworld.com/10.1207/s15327027hc1102_2},
@@ -1447,6 +1435,7 @@ prelim},
    volume = {60},
    number = {7},
    pages = {1504-1518},
+   doi = {10.1002/asi.21070/pdf},
    abstract = {A network approach was used to determine the overall supportive communication patterns constructed within the PTT psychosis support group in Taiwan, the largest bulletin board system in the Chinese-speaking world. The full sequences of supportive interactions were observed over a 2.5 year period from February 2004 to July 2006. The results indicated that the most exchanged support types were information and network links. All types of supportive communication networks were relatively sparse, yet small groups of cliques with different provision of support types formed within the psychosis group. Most of the online supportive interactions exchanged at dyadic and triadic levels. The overall supportive network was highly centralized. The overall findings with implications for future studies were discussed.},
    keywords = {psychology
 social networking
@@ -1643,9 +1632,12 @@ Coping},
    year = {2010}
 }
 
-@misc{
+@conference{
    author = {Chuang, Katherine Y. and Yang, Christopher C.},
    title = {Helping you to help me: Exploring Supportive Interaction in Online Health Community},
+   booktitle = {Proceedings of American Society for Information Science & Technology},
+   doi = {10.1002/meet.145-4701140},
+   address = {Pittsburgh, PA},
    year = {2010}
 }
 
@@ -1976,6 +1968,7 @@ Support groups},
    volume = {19},
    number = {2},
    pages = {154-174},
+   doi = {10.1177/009365092019002002},
    abstract = {Among married couples, the effect of the controllability of stressful events was tested as a predictor of the type of social support communications provided and preferred. Sixty married individuals disclosed stressful events to their spouse. Controllability of the stress was rated by observers. The Social Support Behavior Code was used to assess the frequency with which each of five types of social support was provided by the spouse. Action-promoting support (information) was provided most frequently when the stressed person had high control over the event. Of the five types of support communications assessed, only information was evaluated differently in high- and low-controllable situations. Both controllability by the support recipient and controllability by his or her spouse were relevant to support evaluations. Results provide limited support for the optimal matching model proposed by Cutrona and Russell (Cutrona, 1990; Cutrona & Russell, 1990).},
    year = {1992}
 }
@@ -2146,6 +2139,7 @@ emotion},
    journal = {JCMC},
    volume = {13},
    number = {1},
+   doi = {10.1111/j.1083-6101.2007.00394.x},
    url = {http://jcmc.indiana.edu/vol13/issue1/donath.html},
    year = {2007}
 }
@@ -2306,6 +2300,7 @@ finance},
    author = {Ellison, Nicole and Lampe, Cliff and Steinfield, Charles},
    title = {Social Network Sites and Society: Current Trends and Future Possibilities},
    journal = {Interactions Magazine},
+   doi = {10.1145/1456202.1456204},
    volume = {16},
    number = {1},
    year = {2009}
@@ -2412,7 +2407,7 @@ sentiment},
    series = {Advances in Medical Sociology},
    publisher = {Emerald Group Publishing Limited},
    volume = {8},
-   pages = {29-72 %@ 1057-6290},
+   pages = {29-72},
    doi = {10.1016/S1057-6290(02)80020-1},
    year = {2002}
 }
@@ -2640,7 +2635,7 @@ sna},
    number = {6},
    pages = {1299-1309},
    doi = {10.1016/j.socscimed.2004.07.005},
-   abstract = {Do [`]informed' or [`]expert' patients challenge dominant traditions in biomedicine or simply adopt these as conventional ways of thinking about body shape and size, illness and health? This paper examines this question in relation to the use of the weight-loss drug Xenical by participants in an Internet forum for obese and overweight people. Ethnographic and interview data from the forum provides evidence that participants share information and support each other as they use Xenical, and in the process emerge as [`]expert patients' in relation to their body shape and its treatment. However, it is argued that while an [`]expert patient' can be perceived as desirable, enabling the democratisation of healthcare, it can also be constraining. The exchanges between the users in the forum perpetuate a biomedical model of overweight as a condition to be overcome. The discussion critically considers a number of options for the development of the expert patient, including the emergence of an [`]informed consumer'.},
+   abstract = {Do 'informed' or 'expert' patients challenge dominant traditions in biomedicine or simply adopt these as conventional ways of thinking about body shape and size, illness and health? This paper examines this question in relation to the use of the weight-loss drug Xenical by participants in an Internet forum for obese and overweight people. Ethnographic and interview data from the forum provides evidence that participants share information and support each other as they use Xenical, and in the process emerge as 'expert patients' in relation to their body shape and its treatment. However, it is argued that while an 'expert patient' can be perceived as desirable, enabling the democratisation of healthcare, it can also be constraining. The exchanges between the users in the forum perpetuate a biomedical model of overweight as a condition to be overcome. The discussion critically considers a number of options for the development of the expert patient, including the emergence of an 'informed consumer'.},
    keywords = {Consumer
 Expert patient
 Internet
@@ -2930,7 +2925,9 @@ text},
    author = {Garg, Nikhil and Weber, Ingmar},
    title = {Personalized, interactive tag recommendation for flickr},
    publisher = {ACM},
-   pages = {74, 67 %@ 978-1-60558-093-7 %U http://dx.doi.org/10.1145/1454008.1454020},
+   pages = {74, 67},
+   isbn = {978-1-60558-093-7},
+   doi = {10.1145/1454008.1454020},
    abstract = {We study the problem of personalized, interactive tag recommendation for Flickr: While a user enters/selects new tags for a particular picture, the system suggests related tags to her, based on the tags that she or other people have used in the past along with (some of) the tags already entered. The suggested tags are dynamically updated with every additional tag entered/selected. We describe a new algorithm, called Hybrid, which can be applied to this problem, and show that it outperforms previous algorithms. It has only a single tunable parameter, which we found to be very robust.},
    keywords = {prelim},
    year = {2008}
@@ -2939,7 +2936,8 @@ text},
 @misc{
    author = {Gaudeul, Alexia and Mathieu, Laurence and Peroni, Chiara},
    title = {Blogs and the Economics of Reciprocal},
-   publisher = {SSRN %U http://ssrn.com/abstract=1291376},
+   publisher = {SSRN},
+   url = {http://ssrn.com/abstract=1291376},
    year = {2008}
 }
 
@@ -2953,7 +2951,8 @@ text},
    author = {Gergle, Darren and Kraut, Robert and Fussell, Susan},
    title = {The impact of delayed visual feedback on collaborative performance},
    publisher = {ACM},
-   pages = {1312, 1303 %@ 1-59593-372-7 %U http://dx.doi.org/10.1145/1124772.1124968},
+   pages = {1312, 1303 %@ 1-59593-372-7},
+   doi = {10.1145/1124772.1124968},
    abstract = {When pairs work together on a physical task, seeing a common workspace benefits their performance and transforms their use of language. Previous results have demonstrated that visual information helps collaborative pairs to understand the current state of their task, ground their conversations, and communicate efficiently. However, collaborative technologies often impinge on the visual information needed to support successful collaboration. One example of this is the introduction of delayed visual feedback in a collaborative environment. We present results from two studies that detail the form of the function that describes the relationship between visual delay and collaborative task performance. The first study precisely demonstrates how a range of visual delays differentially impact performance and the collaborative strategies employed. The second study describes how parameters of the task, such as the dynamics of the visual environment, reduce the amount of delay that can be tolerated.},
    keywords = {methods},
    year = {2006}
@@ -2963,37 +2962,23 @@ text},
    author = {Ghose, Anindya and Ipeirotis, Panagiotis},
    title = {Designing novel review ranking systems: predicting the usefulness and impact of reviews},
    publisher = {ACM},
-   pages = {310, 303 %@ 978-1-59593-700-1 %U http://dx.doi.org/10.1145/1282100.1282158},
+   pages = {310, 303},
+   isbn = {978-1-59593-700-1},
+   url = {10.1145/1282100.1282158},
    abstract = {With the rapid growth of the Internet, users' ability to publish content has created active electronic communities that provide a wealth of product information. Consumers naturally gravitate to reading reviews in order to decide whether to buy a product. However, the high volume of reviews that are typically published for a single product makes it harder for individuals to locate the best reviews and understand the true underlying quality of a product based on the reviews. Similarly, the manufacturer of a product needs to identify the reviews that influence the customer base, and examine the content of these reviews. In this paper, we propose two ranking mechanisms for ranking product reviews: a consumer-oriented ranking mechanism ranks the reviews according to their expected helpfulness, and a manufacturer-oriented ranking mechanism ranks the reviews according to their expected effect on sales. Our ranking mechanism combines econometric analysis with text mining techniques in general, and with subjectivity analysis in particular. We show that subjectivity analysis can give useful clues about the helpfulness of a review and about its impact on sales. Our results can have several implications for the market design of online opinion forums.},
    keywords = {consumer
 sentiment},
    year = {2007}
 }
 
-@misc{
+@article{
    author = {Gilbert, Eric and Karahalios, Karrie},
    title = {Predicting tie strength with social media},
    publisher = {ACM},
    pages = {211-220},
+   isbn = {978-1-60558-246-7},
+   doi = {10.1145/1518701.1518736},
    abstract = {Social media treats all users the same: trusted friend or total stranger, with little or nothing in between. In reality, relationships fall everywhere along this spectrum, a topic social science has investigated for decades under the theme of tie strength. Our work bridges this gap between theory and practice. In this paper, we present a predictive model that maps social media data to tie strength. The model builds on a dataset of over 2,000 social media ties and performs quite well, distinguishing between strong and weak ties with over 85% accuracy. We complement these quantitative findings with interviews that unpack the relationships we could not predict. The paper concludes by illustrating how modeling tie strength can improve social media design elements, including privacy controls, message routing, friend introductions and information prioritization.},
-   keywords = {relationship modeling,  sns,  social media,  social networks,  tie strength,  ties},
-   ISBN = {978-1-60558-246-7},
-   year = {2009}
-}
-
-@misc{
-   author = {Gilbert, Eric and Karahalios, Karrie},
-   title = {Predicting tie strength with social media},
-   publisher = {ACM},
-   pages = {220, 211 %@ 978-1-60558-246-7 %U http://dx.doi.org/10.1145/1518701.1518736},
-   abstract = {Social media treats all users the same: trusted friend or total stranger, with little or nothing in between. In reality, relationships fall everywhere along this spectrum, a topic social science has investigated for decades under the theme of tie strength. Our work bridges this gap between theory and practice. In this paper, we present a predictive model that maps social media data to tie strength. The model builds on a dataset of over 2,000 social media ties and performs quite well, distinguishing between strong and weak ties with over 85% accuracy. We complement these quantitative findings with interviews that unpack the relationships we could not predict. The paper concludes by illustrating how modeling tie strength can improve social media design elements, including privacy controls, message routing, friend introductions and information prioritization.},
-   keywords = {wemeddlechi},
-   year = {2009}
-}
-
-@misc{
-   author = {Gilbert, Eric and Karahalios, Karrie},
-   title = {Predicting tie strength with social media %U http://dx.doi.org/10.1145/1518701.1518736},
    keywords = {relationship modeling, sns, social media, social networks, tie strength, ties},
    year = {2009}
 }
