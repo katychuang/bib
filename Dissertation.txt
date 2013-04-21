@@ -1368,6 +1368,17 @@ prelim},
 }
 
 @article{
+   author = {Caplan},
+   title = {Social support, person-environment fit and coping},
+   editors = {Ferman, L. and Gordis, J.},
+   booktitle = {Mental Health and the Economy},
+   pages = {89-137},
+   address = {Kalamazoo, Michigan},
+   publisher = {Upjohn Foundation},
+   year = {1979}
+}
+
+@article{
    author = {Caplan, Scott E. and Turner, Jacob S.},
    title = {Bringing theory to research on computer-mediated comforting communication},
    journal = {Computers in Human Behavior},
@@ -2052,6 +2063,14 @@ nlp},
    year = {2006}
 }
 
+@misc{
+   author = {De Souza, C.S. and Preece, J.},
+   title = {A framework for analyzing and understanding online communities},
+   journal = {Interacting with computers},
+   volume = {16},
+   year = {2004}
+}
+
 @article{
    author = {Debatin, Bernhard and Lovejoy, Jennette P. and Horn, Ann-Kathrin and Hughes, Brittany N.},
    title = {Facebook and Online Privacy: Attitudes, Behaviors, and Unintended Consequences},
@@ -2365,9 +2384,17 @@ finance},
    title = {SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining},
    url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.7217},
    abstract = {Opinion mining (OM) is a recent subdiscipline at the crossroads of information retrieval and computational linguistics which is concerned not with the topic a document is about, but with the opinion it expresses. OM has a rich set of applications, ranging from tracking users' opinions about products or about political candidates as expressed in online forums, to customer relationship management. In order to aid the extraction of opinions from text, recent research has tried to automatically...},
-   keywords = {consumer
-sentiment},
+   keywords = {consumer, sentiment},
+}
 
+@article{
+    author = {Etzioni, A. and Etzioni, O.},
+    year = {1999},
+    title = {Face-to-face and Computer-Mediated Communities, A Comparative Analysis},
+    journal = {The Information Society},
+    volume = {15},
+    number = {4},
+    pages = {241-248}
 }
 
 @misc{
@@ -2400,6 +2427,17 @@ sentiment},
    year = {2008}
 }
 
+@article{
+  title={Health related virtual communities and electronic support groups: systematic review of the effects of online peer to peer interactions},
+  author={Eysenbach, Gunther and Powell, John and Englesakis, Marina and Rizo, Carlos and Stern, Anita},
+  journal={Bmj},
+  volume={328},
+  number={7449},
+  pages={1166},
+  year={2004},
+  publisher={BMJ}
+}
+
 @inbook{
    author = {Faber, Ashley D. and Wasserman, Stanley},
    title = {Social support and social networks: synthesis and review},
@@ -2410,6 +2448,15 @@ sentiment},
    pages = {29-72},
    doi = {10.1016/S1057-6290(02)80020-1},
    year = {2002}
+}
+
+@inproceedings{
+  title={Faceted identity, faceted lives: social and technical issues with being yourself online},
+  author={Farnham, Shelly D and Churchill, Elizabeth F},
+  booktitle={Proceedings of the ACM 2011 conference on Computer supported cooperative work},
+  pages={359-368},
+  year={2011},
+  organization={ACM}
 }
 
 @misc{
@@ -2645,6 +2692,14 @@ Weight loss},
    year = {2005}
 }
 
+@techreport{
+   author = {Fox, Susannah and Purcell, K.},
+   title = {Chronic Disease and the Internet},
+   institution = {Pew Internet & American Life Project.},
+   url = {http://www.pewinternet.org/Reports/2010/Chronic-Disease.aspx},
+   year = {2009}
+}
+
 @misc{
    author = {Fox, Susannah},
    title = {Participatory Culture + Health Care},
@@ -2654,15 +2709,8 @@ Weight loss},
 
 @techreport{
    author = {Fox, Susannah and Jones, S. },
-   title = { The Social Life of Health Information Americans’ pursuit of health takes place within a widening network of both online and offline sources},
+   title = {The Social Life of Health Information Americans’ pursuit of health takes place within a widening network of both online and offline sources},
    institution = {Pew Internet & American Life Project.},
-   year = {2009}
-}
-
-@misc{
-   author = {Fox, S. and Jones, S.},
-   title = {The Social Life of Health Information Americans' pursuit of health takes place within a widening network of both online and offline sources.},
-   url = {http://www.pewinternet.org/Reports/2009/8-The-Social-Life-of-Health-Information.aspx},
    year = {2009}
 }
 
@@ -2933,6 +2981,17 @@ text},
    year = {2008}
 }
 
+@article{
+  title = {Studying online social networks},
+  author = {Garton, Laura and Haythornthwaite, Caroline and Wellman, Barry},
+  journal = {Journal of Computer-Mediated Communication},
+  volume = {3},
+  number = {1},
+  pages = {0-0},
+  year = {2006},
+  publisher = {Wiley Online Library}
+}
+
 @misc{
    author = {Gaudeul, Alexia and Mathieu, Laurence and Peroni, Chiara},
    title = {Blogs and the Economics of Reciprocal},
@@ -2983,19 +3042,16 @@ sentiment},
    year = {2009}
 }
 
-@misc{
+@article{
    author = {Gilbert, Eric and Karahalios, Karrie and Sandvig, Christian},
    title = {The network in the garden: an empirical analysis of social media in rural life},
    publisher = {ACM},
-   pages = {1612, 1603 %@ 9781605580111 %U http://dx.doi.org/10.1145/1357054.1357304},
+   pages = {1603-1612},
+   isbn = {9781605580111},
+   doi = {10.1145/1357054.1357304},
+   url = {http://social.cs.uiuc.edu/people/gilbert/pub/chi08-rural-gilbert.pdf},
    keywords = {sna
 ties},
-   year = {2008}
-}
-
-@misc{
-   author = {Gilbert, Eric and Karahalios, Karrie and Sandvig, Christian},
-   title = {The Network in the Garden: An Empirical Analysis of Social Media in Rural Life %U http://social.cs.uiuc.edu/people/gilbert/pub/chi08-rural-gilbert.pdf},
    year = {2008}
 }
 
@@ -3014,7 +3070,8 @@ ties},
 @book{
    author = {Glanz, Karen and Rimer, Barbara K. and Wiswanath, K.},
    title = {Health Behavior and Health Education: Theory, Research, and Practice},
-   publisher = {Jossey-Bass %@ 978-0787996147},
+   publisher = {Jossey-Bass},
+   isbn = {978-0787996147},
    year = {2008}
 }
 
@@ -3175,7 +3232,8 @@ stats},
    journal = {The American Journal of Sociology},
    volume = {78},
    number = {6},
-   pages = {1380, 1360 %U http://dx.doi.org/10.2307/2776392},
+   pages = {1360-1380},
+   doi = {10.2307/2776392},
    abstract = {Analysis of social networks is suggested as a tool for linking micro and macro levels of sociological theory. The procedure is illustrated by elaboration of the macro implications of one aspect of small-scale interaction: the strength of dyadic ties. It is argued that the degree of overlap of two individuals' friendship networks varies directly with the strength of their tie to one another. The impact of this principle on diffusion of influence and information, mobility opportunity, and community organization is explored. Stress is laid on the cohesive power of weak ties. Most network models deal, implicitly, with strong ties, thus confining their applicability to small, well-defined groups. Emphasis on weak ties lends itself to discussion of relations between groups and to analysis of segments of social structure not easily defined in terms of primary groups.},
    keywords = {ties},
    year = {1973}
@@ -3357,11 +3415,14 @@ sentiment},
    year = {2008}
 }
 
-@misc{
+@conference{
    author = {Gurzick, David and Lutters, Wayne G.},
    title = {Towards a design theory for online communities},
    publisher = {ACM},
-   pages = {11:1–11:20 %W Philadelphia, Pennsylvania %@ 978-1-60558-408-9 %U http://doi.acm.org/10.1145/1555619.1555634},
+   address = {Philadelphia, PA},
+   isbn = {978-1-60558-408-9},
+   doi = {10.1145/1555619.1555634},
+   pages = {11:1–11:20},
    keywords = {design guidelines
 design science
 online communities},
@@ -3410,7 +3471,8 @@ social},
    series = {Advances in Medical Sociology},
    publisher = {Emerald Group Publishing Limited},
    volume = {8},
-   pages = {269-292 %@ 1057-6290 %U http://dx.doi.org/10.1016/S1057-6290(02)80030-4},
+   pages = {269-292},
+   doi = {]10.1016/S1057-6290(02)80030-4},
    year = {2002}
 }
 
@@ -3562,7 +3624,9 @@ Tobacco},
 @misc{
    author = {Haythornthwaite, C.},
    title = {The strength and the impact of new media},
-   pages = {10 pp. %U http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=926199},
+   pages = {10 pp.},
+   url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=926199},
+   doi = {10.1080/01972240290108195}.
    abstract = {This paper presents a perspective on the impact and use of new media that focuses on the strength of the interpersonal tie connecting communicators. Research shows that more strongly tied pairs communicate more frequently, maintain more and different kinds of relations and use more media to communicate. It is argued that where ties are strong, communicators adapt their use of media and expand to other media to support the exchanges important to their tie; where ties are weak communicators rely on few means of contact (often only one), and depend on media and protocols established by others. It is theorized that dependence on a common, widely used medium makes a weak tie network vulnerable to dissolution and reformulation following changes to that medium; by contrast strong ties are more robust under conditions of change since their connection rests on multiple relations and media.},
    keywords = {sna
 social
@@ -3633,11 +3697,17 @@ reviews},
    year = {1997}
 }
 
-@misc{
+@inproceedings{
    author = {Heo, Gyeong Mi and Breuleux, Alain},
    title = {Roles of initiators and interaction patterns: exploring an informal online community at the interpersonal plane},
+   booktitle = {9th International conference on Computer supported collaborative learning},
+   volume = {1},
+   journal = {CSCL},
    publisher = {International Society of the Learning Sciences},
-   pages = {13–17 %W Rhodes, Greece %@ 978-1-4092-8598-4 %U http://portal.acm.org/citation.cfm?id=1600053.1600056},
+   pages = {13–17},
+   location = {Rhodes, Greece},
+   isbn = {78-1-4092-8598-4},
+   url = {http://portal.acm.org/citation.cfm?id=1600053.1600056},
    year = {2009}
 }
 
@@ -3740,6 +3810,7 @@ social},
    title = {Reply distribution in online dicussions: A comparative network analysis of political and health newsgroups},
    journal = {Journal of Computer-Mediated Communication},
    volume = {14},
+   number = {1},
    pages = {156-177},
    year = {2008}
 }
@@ -3789,6 +3860,7 @@ finance},
    title = {The social support networks of internet users},
    journal = {New Media & Society},
    volume = {8},
+   number = {1},
    pages = {9-32},
    year = {2006}
 }
@@ -3903,6 +3975,17 @@ sentiment},
    year = {2005}
 }
 
+@article{
+  title = {Three approaches to qualitative content analysis},
+  author = {Hsieh, Hsiu-Fang and Shannon, Sarah E},
+  journal = {Qualitative health research},
+  volume = {15},
+  number = {9},
+  pages = {1277-1288},
+  year = {2005},
+  publisher = {Sage Publications}
+}
+
 @misc{
    author = {Hsiung, Robert C.},
    title = {The Best of Both Worlds: An Online Self-Help Group Hosted by a Mental Health Professional},
@@ -3918,12 +4001,9 @@ MENTAL health services},
 @book{
    author = {Hsiung, Robert C.},
    title = {The Best of Both Worlds: An Online Self-Help Group Hosted by a Mental Health Professional},
-   series = {CyberPsychology & Behavior %U http://search.ebscohost.com/login.aspx?direct=true&#38;db=buh&#38;AN=5323530&#38;site=ehost-live},
-   keywords = {Health
-medical
-mental
-services
-telematics},
+   series = {CyberPsychology & Behavior},
+   url = {http://search.ebscohost.com/login.aspx?direct=true&#38;db=buh&#38;AN=5323530&#38;site=ehost-live},
+   keywords = {Health, medical, mental, services, telematics},
    year = {2000}
 }
 
@@ -3938,7 +4018,8 @@ telematics},
    author = {Hu, Minqing and Liu, Bing},
    title = {Mining and summarizing customer reviews},
    publisher = {ACM},
-   pages = {177, 168 %@ 1-58113-888-1 %U http://dx.doi.org/10.1145/1014052.1014073},
+   pages = {177, 168},
+   url = {1-58113-888-1 %U http://dx.doi.org/10.1145/1014052.1014073},
    abstract = {Merchants selling products on the Web often ask their customers to review the products that they have purchased and the associated services. As e-commerce is becoming more and more popular, the number of customer reviews that a product receives grows rapidly. For a popular product, the number of reviews can be in hundreds or even thousands. This makes it difficult for a potential customer to read them to make an informed decision on whether to purchase the product. It also makes it difficult for the manufacturer of the product to keep track and to manage customer opinions. For the manufacturer, there are additional difficulties because many merchant sites may sell the same product and the manufacturer normally produces many kinds of products. In this research, we aim to mine and to summarize all the customer reviews of a product. This summarization task is different from traditional text summarization because we only mine the features of the product on which the customers have expressed their opinions and whether the opinions are positive or negative. We do not summarize the reviews by selecting a subset or rewrite some of the original sentences from the reviews to capture the main points as in the classic text summarization. Our task is performed in three steps: (1) mining product features that have been commented on by customers; (2) identifying opinion sentences in each review and deciding whether each opinion sentence is positive or negative; (3) summarizing the results. This paper proposes several novel techniques to perform these tasks. Our experimental results using reviews of a number of products sold online demonstrate the effectiveness of the techniques.},
    keywords = {consumer
 sentiment},
@@ -3949,10 +4030,10 @@ sentiment},
    author = {Hu, Nan and Pavlou, Paul and Zhang, Jennifer},
    title = {Can online reviews reveal a product's true quality?: empirical findings and analytical modeling of Online word-of-mouth communication},
    publisher = {ACM},
-   pages = {330, 324 %@ 1-59593-236-4 %U http://dx.doi.org/10.1145/1134707.1134743},
+   pages = {330, 324 %@ 1-59593-236-4},
+   doi = {10.1145/1134707.1134743},
    abstract = {As a digital version of word-of-mouth, online review has become a major information source for consumers and has very important implications for a wide range of management activities. While some researchers focus their studies on the impact of online product review on sales, an important assumption remains unexamined, that is, can online product review reveal the true quality of the product? To test the validity of this key assumption, this paper first empirically tests the underlying distribution of online reviews with data from Amazon. The results show that 53% of the products have a bimodal and non-normal distribution. For these products, the average score does not necessarily reveal the product's true quality and may provide misleading recommendations. Then this paper derives an analytical model to explain when the mean can serve as a valid representation of a product's true quality, and discusses its implication on marketing practices.},
-   keywords = {redundant
-reviews},
+   keywords = {redundant, reviews},
    year = {2006}
 }
 
@@ -3960,7 +4041,8 @@ reviews},
    author = {Huang, Yen-Pei and Goh, Tiong and Liew, Chern Li},
    title = {Hunting Suicide Notes in Web 2.0 - Preliminary Findings},
    publisher = {IEEE Computer Society},
-   pages = {517-521 %@ 0-7695-3084-2 %U http://portal.acm.org/citation.cfm?id=1338269},
+   pages = {517-521 %@ 0-7695-3084-2},
+   url = {http://portal.acm.org/citation.cfm?id=1338269},
    abstract = {Blogs provide an outlet for youth to explore and share their emotions with the world. By exploring the possibilities of mining the vast repositories of social networking sites, we hope to be able to identify bloggers who are at risk of suicide so that appropriate intervention can take place. This paper will explore the techniques used by other researchers in the process of identifying emotional content in unstructured data, and will make use of existing technologies to attempt to identify at-risk bloggers. Using a selection of real blog entries harvested from MySpace.com, supplemented with artificial entries from our research, we test the accuracy of a simple algorithm for scoring the presence of certain key words and phrases in blog entries. Despite the simplistic approach taken, the preliminary results of this study were very promising.},
    year = {2007}
 }
@@ -4011,6 +4093,7 @@ echo},
    title = {Mobile Social Networks and Social Practice: A Case Study of Dodgeball},
    journal = {JCMC},
    volume = {13 (1) %U http://jcmc.indiana.edu/vol13/issue1/humphreys.html},
+   doi = {10.1111/j.1083-6101.2007.00399.x},
    year = {2007}
 }
 
@@ -4449,6 +4532,7 @@ prelim},
 The problem is not a lack of ideas, as cutting-edge medical research continues apace. Nor is it unwillingness to put money into healthcare, which consumes vast budgets. Rather, the difficulties lie in the diverse obstacles to new ideas finding their way into widespread and transformative change. But new approaches exist which demonstrate how healthcare systems could be improved.
 
 The Economist Intelligence Unit conducted interviews with a range of healthcare professionals and leading experts, along with extensive desk research, to uncover several examples which illustrate how organisational and structural changes can deliver clear benefits. The research suggests that policymakers and healthcare professionals should focus on five main areas of system innovation, as detailed within the report.},
+   url = {http://www.pewinternet.org/Media-Mentions/2009/Doctor-innovation-Shaking-up-the-health-system.aspx},
    year = {2009}
 }
 
@@ -4508,7 +4592,9 @@ echo},
    title = {Configurations of relationships in different media: FtF, email, instant messenger, mobile phone, and SMS},
    journal = {Journal of Computer-Mediated Communication},
    volume = {12},
-   pages = {article 3 %U http://jcmc.indiana.edu/vol12/issue4/kim.html},
+   number = {4},
+   pages = {article 3},
+   url = {http://jcmc.indiana.edu/vol12/issue4/kim.html},
    year = {2007}
 }
 
@@ -4647,16 +4733,10 @@ text},
    title = {Examining the Medical Blogosphere: An Online Survey of Medical Bloggers},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e28 %U http://www.jmir.org/2008/3/e28/},
-   keywords = {authorship
-blog
-electronic publishing
-internet
-journalism
-medical
-Medicine
-podcast
-questionnaires},
+   number = {3},
+   pages = {e28},
+   url = {http://www.jmir.org/2008/3/e28/},
+   keywords = {authorship, blog, electronic publishing, internet, journalism, medical, Medicine, podcast, questionnaires},
    year = {2008}
 }
 
@@ -4704,6 +4784,13 @@ word usage},
    journal = {Journal of Media Psychology: Theories, Methods, and Applications},
    volume = {20 (3) %U none},
    year = {2008}
+}
+
+@book{
+  title = {Content analysis: An introduction to its methodology},
+  author = {Krippendorff, Klaus},
+  year = {2012},
+  publisher = {SAGE Publications, Incorporated}
 }
 
 @misc{
@@ -4970,6 +5057,14 @@ social},
 }
 
 @inbook{
+    author = {Latour, B.},
+    title = {Where are the MIsing Masses? The Sociology of a Few Mundane Artifacts},
+    publisher = {MIT Press},
+    booktitle = {Shaping Technology/Building Society},
+    editors = {Bijker and Law},
+}
+
+@inbook{
    author = {Lau, AnnieY S. and Kwok, TrevorM Y.},
    title = {Social Features in Online Communities for Healthcare Consumers – A Review},
    booktitle = {Online Communities and Social Computing},
@@ -4989,7 +5084,6 @@ social features},
    author = {Lau, T.},
    title = {Venture Research %U http://cacm.acm.org/blogs/blog-cacm/38421-venture-research/fulltext},
    keywords = {wemeddlechi},
-
 }
 
 @article{
@@ -4997,14 +5091,10 @@ social features},
    title = {Impact of Web Searching and Social Feedback on Consumer Decision Making: A Prospective Online Experiment},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e2 %U http://www.jmir.org/2008/1/e2/ http://dx.doi.org/10.2196/jmir.963 http://www.ncbi.nlm.nih.gov/pubmed/18244893},
-   keywords = {accuracy
-confidence
-decision making
-Health care consumer
-information searching
-internet
-social feedback},
+   pages = {e2},
+   url = {http://www.jmir.org/2008/1/e2/  http://www.ncbi.nlm.nih.gov/pubmed/18244893},
+   doi = {10.2196/jmir.963},
+   keywords = {accuracy, confidence, decision making, Health care consumer, information searching, internet, social feedback},
    year = {2008}
 }
 
@@ -5070,6 +5160,7 @@ social feedback},
    volume = {21},
    number = {4},
    pages = {350-374},
+   doi = {10.1108/09593840810919671},
    abstract = {Purpose - The purpose of this paper is to explore whether online communities meet their potential of providing environments in which social relationships can be readily established to help patients cope with their disease through social support. The paper aims to develop and test a model to examine antecedents of the formation of virtual relationships of cancer patients within virtual communities (VCs) as well as their effects in the form of social assistance. Design/methodology/research - Data were collected from members of virtual patient communities in the German-speaking internet through an online survey to which 301 cancer patients responded. The data were analyzed with partial least square (PLS) structural equation modeling. Findings - Virtual relationships for patients are established in VCs and play an important role in meeting patients' social needs. Important determinants for the formation of virtual relationships within virtual communities for patients are general internet usage intensity (active posting vs lurking) and the perceived disadvantages of CMC. The paper also found that virtual relationships have a strong effect on virtual support of patients; more than 61 per cent of the variance of perceived social assistance of cancer patients was explained by cancer-related VCs. Emotional support and information exchange delivered through these virtual relationships may help patients to better cope with their illness. Research limitations/implications - In contrast to prior research, known determinants for the formation of virtual relationships (i.e. marital status, educational status, gender, and disease-related factors such as the type of cancer as control variables, as well as general internet usage motives, and perceived advantages of CMC as direct determinants) played a weak role in this study of German cancer patients. Studies on other patient populations (i.e. patients with other acute illnesses in other cultures) are needed to see if results remain consistent. Practical implications - Participants and administrators of patient VCs have different design criteria for the improvement of VCs for patients (e.g. concerning community management, personal behaviour and the usage of information in online communities). Once the social mechanisms taking place in online communities are better understood, the systematic redesign of online communities according to the needs of their users should be given priority. Originality/value - Little research has been conducted examining the role of VCs for social relationships and social networks in general and for patients in particular. Antecedents and effects of virtual social relationships of patients have not been sufficiently theoretically or empirically researched to be better understood. This research combines various determinants and effects of virtual relationships from prior related research. These are integrated into a conceptual model and applied empirically to a new target group, i.e. VCs for patients.},
    keywords = {cancer
 social
@@ -5314,11 +5405,10 @@ prelim},
    title = {Internet-Based Interactive Health Intervention for the Promotion of Sensible Drinking: Patterns of Use and Potential Impact on Members of the General Public},
    journal = {Journal of Medical Internet Research},
    volume = {9},
-   pages = {e10 %U http://www.jmir.org/2007/2/e10/ http://dx.doi.org/10.2196/jmir.9.2.e10 http://www.ncbi.nlm.nih.gov/pubmed/17513281},
-   keywords = {alcohol
-drinking
-health promotion
-internet},
+   pages = {e10},
+   url = {http://www.jmir.org/2007/2/e10/  http://www.ncbi.nlm.nih.gov/pubmed/17513281},
+   doi = {10.2196/jmir.9.2.e10},
+   keywords = {alcohol, drinking, health promotion, internet},
    year = {2007}
 }
 
@@ -5339,9 +5429,9 @@ web},
    title = {Social network profiles as taste performances},
    journal = {Journal of Computer-Mediated Communication},
    volume = {13},
-   number = {1 %U http://jcmc.indiana.edu/vol13/issue1/liu.html},
-   note = {Boyd, Danah
-Ellison, Nicole},
+   number = {1},
+   url = {http://jcmc.indiana.edu/vol13/issue1/liu.html},
+   editors = {Boyd, Danah and Ellison, Nicole},
    abstract = {This study examines how a social network profile's lists of interests⬚music, books, movies, television shows, etc.⬚can function as an expressive arena for taste performance. By composing interest tokens around a theme, profile users craft their "taste statements." First, socioeconomic and aesthetic influences on taste are considered, and the expressivity of interest tokens is analyzed using a semiotic framework. Then, a grounded theory approach is taken to identify four types of taste statements⬚those that convey prestige, differentiation, authenticity, and theatrical persona. The semantics of taste and taste statements are further investigated through a statistical analysis of 127,477 profiles collected from the MySpace social network site between November 2006 and January 2007. The major findings of the analysis include statistical evidence for prestige and differentiation taste statements and an interpretation of the taste semantics underlying the MySpace community⬚its motifs, paradigms, and demographic structures.},
    keywords = {pca
 social network
