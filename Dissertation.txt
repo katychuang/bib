@@ -6,6 +6,7 @@
 
 @misc{
    title = {Social Support for Health Behavior Change},
+   notes = {UNC Center for Health Promotion and Disesase Prevention Center of Excellence for Training and Research Translation},
    url = {http://www.center-trt.org/downloads/wisewoman/strategies/Social_Support.pdf}
 }
 
@@ -1707,6 +1708,14 @@ expertise sharing, patient expertise,cancer patient},
 }
 
 @article{
+  title = {Electronic Eavesdropping”: the ethical issues involved in conducting a virtual ethnography},
+  author = {Clegg Smith, Katherine M},
+  journal = {Online Social Research: Methods, Issues, and Ethics, Peter Lang, New York},
+  pages = {223-238},
+  year = {2004}
+}
+
+@article{
    author = {Cline, R. J. W. and Haynes, K. M.},
    title = {Consumer health information seeking on the Internet: the state of the art},
    journal = {Health Education Research},
@@ -2428,14 +2437,14 @@ finance},
 }
 
 @article{
-  title={Health related virtual communities and electronic support groups: systematic review of the effects of online peer to peer interactions},
-  author={Eysenbach, Gunther and Powell, John and Englesakis, Marina and Rizo, Carlos and Stern, Anita},
-  journal={Bmj},
-  volume={328},
-  number={7449},
-  pages={1166},
-  year={2004},
-  publisher={BMJ}
+  title = {Health related virtual communities and electronic support groups: systematic review of the effects of online peer to peer interactions},
+  author = {Eysenbach, Gunther and Powell, John and Englesakis, Marina and Rizo, Carlos and Stern, Anita},
+  journal = {Bmj},
+  volume = {328},
+  number = {7449},
+  pages = {1166},
+  year = {2004},
+  publisher = {BMJ}
 }
 
 @inbook{
@@ -2451,12 +2460,12 @@ finance},
 }
 
 @inproceedings{
-  title={Faceted identity, faceted lives: social and technical issues with being yourself online},
-  author={Farnham, Shelly D and Churchill, Elizabeth F},
-  booktitle={Proceedings of the ACM 2011 conference on Computer supported cooperative work},
-  pages={359-368},
-  year={2011},
-  organization={ACM}
+  title = {Faceted identity, faceted lives: social and technical issues with being yourself online},
+  author = {Farnham, Shelly D and Churchill, Elizabeth F},
+  booktitle = {Proceedings of the ACM 2011 conference on Computer supported cooperative work},
+  pages = {359-368},
+  year = {2011},
+  organization = {ACM}
 }
 
 @misc{
@@ -5481,6 +5490,13 @@ empirical},
 }
 
 @article{
+  title = {Analyzing social settings},
+  author = {Lofland, John and Lofland, Lyn H},
+  year = {1995},
+  publisher = {Wadsworth Belmont, CA}
+}
+
+@article{
    author = {Lorig, Kate},
    title = {Partnerships between expert patients and physicians},
    journal = {The Lancet},
@@ -5784,6 +5800,8 @@ ties},
    title = {It is what one does: why people participate and help others in electronic communities of practice},
    journal = {The Journal of Strategic Information Systems},
    volume = {9},
+   number = {2},
+   pages = {155-173},
    year = {2000}
 }
 
@@ -5968,6 +5986,13 @@ survivors},
    author = {Meneses, J.},
    title = {The orkut.com case: A reflection on the exploration of new ways to online sociability in the tradition of the study of virtual communities %U http://www.cibersociedad.net/congres2004/grups/fitxacom_publica.php?grup=65&id=516&idioma=en},
    year = {2004}
+}
+
+@article{
+  title = {No sense of place: The impact of electronic media on social behavior},
+  author = {Meyrowitz, Joshua},
+  year = {1986},
+  publisher = {Oxford University Press}
 }
 
 @article{
@@ -6247,6 +6272,17 @@ Web 2.0},
    author = {Nyland, Rob and Near, Chris},
    title = {Jesus is My Friend: Religiosity as a Mediating Factor in Internet Social Networking Use},
    year = {2007}
+}
+
+@article{
+  title = {Methodological issues in social support and social network research},
+  author = {O'Reilly, Patrick},
+  journal = {Social science \& medicine},
+  volume = {26},
+  number = {8},
+  pages = {863--873},
+  year = {1988},
+  publisher = {Elsevier}
 }
 
 @misc{
@@ -7935,16 +7971,12 @@ Education},
    title = {Potential Benefits and Harms of a Peer Support Social Network Service on the Internet for People With Depressive Tendencies: Qualitative Content Analysis and Social Network Analysis},
    journal = {Journal of Medical Internet Research},
    volume = {11},
-   pages = {e29 %U http://www.jmir.org/2009/3/e29/ http://dx.doi.org/10.2196/jmir.1142 http://www.ncbi.nlm.nih.gov/pubmed/19632979},
+   pages = {e29},
+   url = {http://www.jmir.org/2009/3/e29/},
+   doi = {10.2196/jmir.1142},
+   pmid = {19632979},
    abstract = {Background: Internet peer support groups for depression are becoming popular and could be affected by an increasing number of social network services (SNSs). However, little is known about participant characteristics, social relationships in SNSs, and the reasons for usage. In addition, the effects of SNS participation on people with depression are rather unknown. Objective: The aim was to explore the potential benefits and harms of an SNS for depression based on a concurrent triangulation design of mixed methods strategy, including qualitative content analysis and social network analysis. Methods: A cross-sectional Internet survey of participants, which involved the collection of SNS log files and a questionnaire, was conducted in an SNS for people with self-reported depressive tendencies in Japan in 2007. Quantitative data, which included user demographics, depressive state, and assessment of the SNS (positive vs not positive), were statistically analyzed. Descriptive contents of responses to open-ended questions concerning advantages and disadvantages of SNS participation were analyzed using the inductive approach of qualitative content analysis. Contents were organized into codes, concepts, categories, and a storyline based on the grounded theory approach. Social relationships, derived from data of “friends,” were analyzed using social network analysis, in which network measures and the extent of interpersonal association were calculated based on the social network theory. Each analysis and integration of results were performed through a concurrent triangulation design of mixed methods strategy. Results: There were 105 participants. Median age was 36 years, and 51% (36/71) were male. There were 37 valid respondents; their number of friends and frequency of accessing the SNS were significantly higher than for invalid/nonrespondents (P = .008 and P = .003). Among respondents, 90% (28/31) were mildly, moderately, or severely depressed. Assessment of the SNS was performed by determining the access frequency of the SNS and the number of friends. Qualitative content analysis indicated that user-selectable peer support could be passive, active, and/or interactive based on anonymity or ease of use, and there was the potential harm of a downward depressive spiral triggered by aggravated psychological burden. Social network analysis revealed that users communicated one-on-one with each other or in small groups (five people or less). A downward depressive spiral was related to friends who were moderately or severely depressed and friends with negative assessment of the SNS. Conclusions: An SNS for people with depressive tendencies provides various opportunities to obtain support that meets users’ needs. To avoid a downward depressive spiral, we recommend that participants do not use SNSs when they feel that the SNS is not user-selectable, when they get egocentric comments, when friends have a negative assessment of the SNS, or when they have additional psychological burden.},
-   keywords = {Content analysis
-depression
-internet
-mixed methods
-peer support
-qualitative method
-social network
-Social network service (SNS)},
+   keywords = {Content analysis, depression, internet, mixed methods, peer support, qualitative method, social network, Social network service (SNS)},
    year = {2009}
 }
 
@@ -8126,28 +8158,25 @@ econ},
 }
 
 @article{
-   author = {Thelwall, Michael},
-   title = {Homophily in MySpace %U http://www.scit.wlv.ac.uk/ cm1993/papers/MySpaceHomophilypreprint.doc},
-   journal = {Journal of the American Society for Information Science and Technology},
-   year = {2009}
-}
-
-@article{
-   author = {Thelwall, Mike},
-   title = {Emotion homophily in social network site messages},
-   journal = {First Monday},
-   volume = {15},
-   number = {4-5},
+  title = {Emotion homophily in social network site messages},
+  author = {Thelwall, Mike},
+  journal = {First Monday},
+  volume = {15},
+  number = {4-5},
    abstract = {Social network sites (SNS) like MySpace seem to play a role in friendships and wider relationships for many people. Emotion expression can be important in relationship maintenance but little is known about the role of emotion in SNSs, other than positive comments being widespread in MySpace. Is emotion typically reciprocated, and do Friends express and/or receive similar levels of emotion expression to each other? Based upon an analysis of over two million MySpace public comments associated with 2,990 pairs of U.K. and U.S. Friends using a sentiment detection program, statistically significant evidence was found for a weak correlation between the strength of positive emotion exchanged between Friends and received by Friends. This is consistent with two separate hypotheses: members tend to Friend others with similar levels of public emotion expression, or the expression of emotion in MySpace is contagious. The results may help to identify non–optimal behaviour and at–risk individuals in SNSs.},
-   year = {2010}
+  year = {2010}
 }
 
 @article{
-   author = {Thelwall, Mike},
-   title = {Homophily in Myspace},
-   journal = {First Monday},
-   volume = {15 %U http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2897/2483},
-   year = {2010}
+  title = {Homophily in myspace},
+  author = {Thelwall, Mike},
+  journal = {Journal of the American Society for Information Science and Technology},
+  volume = {61},
+  number = {2},
+  pages = {219-231},
+  doi = {10.1002/asi.21241},
+  year = {2009},
+  publisher = {Wiley Online Library}
 }
 
 @article{
@@ -8165,7 +8194,8 @@ econ},
    author = {Thelwall, M. and Wilkinson, D. and Uppal, S.},
    title = {Data mining emotion in social network communication: Gender differences in MySpace},
    journal = {Journal of the American Society for Information Science and Technology},
-   volume = {61(1)},
+   volume = {61},
+   number = {1},
    pages = {190-199},
    year = {2010}
 }
@@ -8241,7 +8271,9 @@ text},
 
 @article{
    author = {Tufekci, Zeynep},
-   title = {Can You See Me Now? Audience and Disclosure Management in Online Social Network Sites %U http://userpages.umbc.edu/%7Ezeynep/papers/ZeynepCanYouSeeMeNowBSTS.pdf},
+   title = {Can You See Me Now? Audience and Disclosure Management in Online Social Network Sites},
+   url = {http://userpages.umbc.edu/%7Ezeynep/papers/ZeynepCanYouSeeMeNowBSTS.pdf},
+   doi = {10.1177/0270467607311484},
    journal = {Bulletin of Science and Technology Studies},
    year = {2008}
 }
@@ -8250,8 +8282,10 @@ text},
    author = {Tufekci, Zeynep},
    title = {Grooming, Gossip, Facebook and Myspace: What Can We Learn About These Sites From Those Who Won't Assimilate?},
    journal = {Information, Communication, and Society},
-   volume = {11 (4)},
-   pages = {544 - 564 %U http://userpages.umbc.edu/ zeynep/papers/ZeynepSocialGroomingandFacebook.pdf},
+   volume = {11},
+   number = {4},
+   pages = {544 - 564}
+   url = {http://userpages.umbc.edu/ zeynep/papers/ZeynepSocialGroomingandFacebook.pdf},
    year = {2008}
 }
 
@@ -8383,14 +8417,12 @@ Online support groups},
    title = {Self-Reported Differences in Empowerment Between Lurkers and Posters in Online Patient Support Groups},
    journal = {Journal of Medical Internet Research},
    volume = {10},
-   pages = {e18 %U http://www.jmir.org/2008/2/e18/ http://dx.doi.org/10.2196/jmir.992 http://www.ncbi.nlm.nih.gov/pubmed/18653442},
-   keywords = {arthritis
-Breast cancer
-empowerment
-fibromyalgia
-lurkers
-online support groups
-Patients},
+   number = {2},
+   pages = {e18},
+   url = {http://www.jmir.org/2008/2/e18/},
+   doi = {10.2196/jmir.992},
+   pmid = {18653442},
+   keywords = {arthritis, Breast cancer, empowerment, fibromyalgia, lurkers, online support groups, Patients},
    year = {2008}
 }
 
@@ -8478,6 +8510,7 @@ visualization},
    author = {Walstrom, M.},
    title = {Seeing and sensingî online interaction: An interpretive interactionist approach to USENET support group research},
    journal = {Online social research: Methods, issues, & ethics},
+   isbn = {0-8204-6101-6},
    pages = {81-97},
    year = {2004}
 }
@@ -8649,12 +8682,10 @@ prelim},
    title = {Using the Internet to Promote Health Behavior Change: A Systematic Review and Meta-analysis of the Impact of Theoretical Basis, Use of Behavior Change Techniques, and Mode of Delivery on Efficacy},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e4 %U http://www.jmir.org/2010/1/e4},
-   keywords = {behavior change
-internet
-intervention
-meta-analysis
-review},
+   number = {1},
+   pages = {e4},
+   url = {http://www.jmir.org/2010/1/e4},
+   keywords = {behavior change, internet, intervention, meta-analysis, review},
    year = {2010}
 }
 
@@ -8699,12 +8730,30 @@ Social Support},
    year = {2010}
 }
 
+@article{
+  title = {Applying network analysis to the study of support},
+  author = {Wellman, Barry},
+  journal = {Social networks and social support},
+  volume = {4},
+  pages = {171-200},
+  year = {1981}
+}
+
 @misc{
    author = {Wellman, Barry},
    title = {Little Boxes, Glocalization, and Networked Individualism},
    publisher = {Springer-Verlag},
-   pages = {10–25 %@ 3-540-43963-3 %U http://portal.acm.org/citation.cfm?id=646700.701697},
+   pages = {10–25 %@ 3-540-43963-3},
+   url = {http://portal.acm.org/citation.cfm?id=646700.701697},
    year = {2002}
+}
+
+@book{
+  title = {Social structures: A network approach},
+  author = {Wellman, Barry and Berkowitz, Stephen D},
+  volume = {2},
+  year = {1988},
+  publisher = {Cambridge [England]: Cambridge University Press}
 }
 
 @article{
@@ -8713,7 +8762,6 @@ Social Support},
    journal = {Journal of Computer-Mediated Communication},
    volume = {8},
    number = {3},
-   pages = {0, 0-0, 0},
    abstract = {Abstract We review the evidence from a number of surveys in which our NetLab has been involved about the extent to which the Internet is transforming or enhancing community. The studies show that the Internet is used for connectivity locally as well as globally, although the nature of its use varies in different countries. Internet use is adding on to other forms of communication, rather than replacing them. Internet use is reinforcing the pre-existing turn to societies in the developed world that are organized around networked individualism rather than group or local solidarities. The result has important implications for civic involvement.},
    keywords = {echo
 social
@@ -8737,7 +8785,9 @@ ties},
    author = {Welser, Howard T. and Gleave, Eric and Fisher, Danyel and Smith, Marc},
    title = {Visualizing the Signature of Social Roles in Online Discussion Groups},
    journal = {Journal of Social Structure},
-   volume = {8 %U http://www.connectedaction.net/wp-content/uploads/2009/08/2007-JOSS-Visualizing-the-Signatures-of-Social-Roles-in-Online-Discussion-Groups.pdf},
+   volume = {8},
+   number = {2},
+   url = {http://www.connectedaction.net/wp-content/uploads/2009/08/2007-JOSS-Visualizing-the-Signatures-of-Social-Roles-in-Online-Discussion-Groups.pdf},
    abstract = {Abstract: Social roles in online discussion forums can be described by patterned characteristics of communication between network members which we conceive of as ‘structural signatures.' This paper uses visualization methods to reveal these structural signatures and regression analysis to confirm the relationship between these signatures and their associated roles in Usenet newsgroups. Our analysis focuses on distinguishing the signatures of one role from others, the role of “answer people." Answer people are individuals whose dominant behavior is to respond to questions posed by other users. We found that answer people predominantly contribute one or a few messages to discussions initiated by others, are disproportionately tied to relative isolates, have few intense ties and have few triangles in their local networks. OLS regression shows that these signatures are strongly correlated with role behavior and, in combination, provide a strongly predictive model for identifying role behavior (R=.72). To conclude, we consider strategies for further improving the identification of role behavior in online discussion settings and consider how the development of a taxonomy of author types could be extended to a taxonomy of newsgroups in particular and discussion systems in general.},
    year = {2007}
 }
@@ -8811,7 +8861,8 @@ ties},
    title = {Sharing Health Data for Better Outcomes on PatientsLikeMe},
    journal = {Journal of Medical Internet Research},
    volume = {12},
-   pages = {e19 %U http://www.jmir.org/2010/2/e19/},
+   pages = {e19}
+   url = {http://www.jmir.org/2010/2/e19/},
    abstract = {Background: PatientsLikeMe is an online quantitative personal research platform for patients with life-changing illnesses to share their experience using patient-reported outcomes, find other patients like them matched on demographic and clinical characteristics, and learn from the aggregated data reports of others to improve their outcomes. The goal of the website is to help patients answer the question: “Given my status, what is the best outcome I can hope to achieve, and how do I get there?” Objective: Using a cross-sectional online survey, we sought to describe the potential benefits of PatientsLikeMe in terms of treatment decisions, symptom management, clinical management, and outcomes. Methods: Almost 7,000 members from six PatientsLikeMe communities (amyotrophic lateral sclerosis [ALS], Multiple Sclerosis [MS], Parkinson’s Disease, human immunodeficiency virus [HIV], fibromyalgia, and mood disorders) were sent a survey invitation using an internal survey tool (PatientsLikeMe Lens). Results: Complete responses were received from 1323 participants (19% of invited members). Between-group demographics varied according to disease community. Users perceived the greatest benefit in learning about a symptom they had experienced; 72% (952 of 1323) rated the site “moderately” or “very helpful.” Patients also found the site helpful for understanding the side effects of their treatments (n = 757, 57%). Nearly half of patients (n = 559, 42%) agreed that the site had helped them find another patient who had helped them understand what it was like to take a specific treatment for their condition. More patients found the site helpful with decisions to start a medication (n = 496, 37%) than to change a medication (n = 359, 27%), change a dosage (n = 336, 25%), or stop a medication (n = 290, 22%). Almost all participants (n = 1,249, 94%) were diagnosed when they joined the site. Most (n = 824, 62%) experienced no change in their confidence in that diagnosis or had an increased level of confidence (n = 456, 34%). Use of the site was associated with increasing levels of comfort in sharing personal health information among those who had initially been uncomfortable. Overall, 12% of patients (n = 151 of 1320) changed their physician as a result of using the site; this figure was doubled in patients with fibromyalgia (21%, n = 33 of 150). Patients reported community-specific benefits: 41% of HIV patients (n = 72 of 177) agreed they had reduced risky behaviors and 22% of mood disorders patients (n = 31 of 141) agreed they needed less inpatient care as a result of using the site. Analysis of the Web access logs showed that participants who used more features of the site (eg, posted in the online forum) perceived greater benefit. Conclusions: We have established that members of the community reported a range of benefits, and that these may be related to the extent of site use. Third party validation and longitudinal evaluation is an important next step in continuing to evaluate the potential of online data-sharing platforms.},
    keywords = {data visualization
 health care
@@ -8970,11 +9021,12 @@ text},
 @article{
    author = {Wright, Kevin B. and Bell, Sally B.},
    title = {Health-related Support Groups on the Internet: Linking Empirical Findings to Social Support and Computer-mediated Communication Theory},
-   journal = {J Health Psychol},
+   journal = {Journal of Health Psychology},
    volume = {8},
    number = {1},
    pages = {39-54},
    abstract = {This literature review of research on health-related computer-mediated support groups links features of these groups to existing theory from the areas of social support and computer-mediated communication research. The article exams computer-mediated support groups as weak tie networks, focuses on how these support groups facilitate participant similarity and empathic support and identifies changes in supportive communication due to characteristics of the medium.},
+   doi = {10.1177/1359105303008001429},
    year = {2003}
 }
 
@@ -9124,6 +9176,23 @@ social},
    abstract = {Social (or folksonomic) tagging has become a very popular way to describe, categorise, search, discover and navigate content within Web 2.0 websites. Unlike taxonomies, which overimpose a hierarchical categorisation of content, folksonomies empower end users by enabling them to freely create and choose the categories (in this case, tags) that best describe some content. However, as tags are informally defined, continually changing, and ungoverned, social tagging has often been criticised for lowering, rather than increasing, the efficiency of searching, due to the number of synonyms, homonyms, polysemy, as well as the heterogeneity of users and the noise they introduce. In this paper, we propose Social Ranking, a method that exploits recommender system techniques to increase the efficiency of searches within Web 2.0. We measure users' similarity based on their past tag activity. We infer tags' relationships based on their association to content. We then propose a mechanism to answer a user's query that ranks (recommends) content based on the inferred semantic distance of the query to the tags associated to such content, weighted by the similarity of the querying user to the users who created those tags. A thorough evaluation conducted on the CiteULike dataset demonstrates that Social Ranking neatly improves coverage, while not compromising on accuracy.},
    keywords = {prelim},
    year = {2008}
+}
+
+@inproceedings{
+ author = {Zaphiris, Panayiotis and Pfeil, Ulrike},
+ title = {Introduction to social network analysis},
+ booktitle = {Proceedings of the 21st British HCI Group Annual Conference on People and Computers: HCI...but not as we know it - Volume 2},
+ series = {BCS-HCI '07},
+ year = {2007},
+ isbn = {978-1-902505-95-4},
+ location = {University of Lancaster, United Kingdom},
+ pages = {231--232},
+ numpages = {2},
+ url = {http://dl.acm.org/citation.cfm?id=1531407.1531481},
+ acmid = {1531481},
+ publisher = {British Computer Society},
+ address = {Swinton, UK, UK},
+ keywords = {online communities, online research methodologies, social network analysis},
 }
 
 @misc{
