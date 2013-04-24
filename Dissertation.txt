@@ -7604,6 +7604,25 @@ social},
 }
 
 @article{
+ author = {Shahaf, Dafna and Guestrin, Carlos and Horvitz, Eric},
+ title = {"Metro maps of information" by Dafna Shahaf, Carlos Guestrin and Eric Horvitz, with Ching-man Au Yeung as coordinator},
+ journal = {SIGWEB Newsl.},
+ issue_date = {Spring 2013},
+ number = {Spring},
+ month = apr,
+ year = {2013},
+ issn = {1931-1745},
+ pages = {4:1--4:9},
+ articleno = {4},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/2451836.2451840},
+ doi = {10.1145/2451836.2451840},
+ acmid = {2451840},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+
+@article{
    author = {Shaheen, M. A.},
    title = {Use of social networks and information seeking behavior of students during political crises in Pakistan: A case study},
    journal = {The International Information & Library Review},
