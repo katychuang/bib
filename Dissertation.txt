@@ -2461,26 +2461,14 @@ finance},
   organization = {ACM}
 }
 
-@misc{
+@inproceedings{
    author = {Farzan, Rosta and DiMicco, Joan M. and Brownholtz, Beth},
    title = {Spreading the honey: a system for maintaining an online community},
    publisher = {ACM},
    pages = {31-40},
-   ISBN = {978-1-60558-500-0},
-   year = {2009}
-}
-
-@article{
-   author = {Farzan, Rosta and DiMicco, Joan M. and Brownholtz, Beth},
-   title = {Spreading the honey: a system for maintaining an online community},
    note = {Proceedings of the ACM 2009 international conference on Supporting group work %W Sanibel Island, Florida, USA}
    doi = {10.1145/1531674.1531680},
-   year = {2009}
-}
-
-@misc{
-   author = {Farzan, Rosta and DiMicco, Joan M. and Brownholtz, Beth},
-   title = {Spreading the honey: a system for maintaining an online community},
+   ISBN = {978-1-60558-500-0},
    year = {2009}
 }
 
