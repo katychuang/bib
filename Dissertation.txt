@@ -315,6 +315,14 @@ social},
    year = {2003}
 }
 
+@book{
+   author = {Anderson, L. Lo and Krathwohl, D.R.},
+   title = {A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives},
+   publisher = {Longman},
+   year = {2001},
+   abstract = {This revision of Bloom's taxonomy is designed to help teachers understand and implement standards-based curriculums. Cognitive psychologists, curriculum specialists, teacher educators, and researchers have developed a two-dimensional framework, focusing on knowledge and cognitive processes. In combination, these two define what students are expected tolearn in school. Like no other text, it explores curriculums from three unique perspectives-cognitive psychologists (learning emphasis), curriculum specialists and teacher educators (C&I emphasis), and measurement and assessment experts (assessment emphasis). This "revisited" framework allows you to connect learning in all areas of curriculum. Educators, or others interested in Educational Psychology or Educational Methods for grades K-12.}
+}
+
 @article{
    author = {Andrejevic, Mark},
    title = {The work of watching one another: Lateral surveillance, risk and governance},
@@ -2038,15 +2046,6 @@ sentiment},
    year = {1997}
 }
 
-@article{
-   author = {Davison, K.P. and Pennebaker, J.W. and Dickerson, A.S.},
-   title = {Who talks? The social psychology of illness support groups},
-   journal = {American Psychologist},
-   volume = {55},
-   number = {2},
-   year = {2000}
-}
-
 @misc{
    author = {De Choudhury, Munmun and Sundaram, Hari and John, Ajita and Seligmann, Dor 'ee},
    title = {Can blog communication dynamics be correlated with stock market activity?},
@@ -2104,6 +2103,27 @@ sentiment},
 ml},
    year = {1977}
 }
+
+@article{Denecke:2009:VMS:1523512.1523612,
+ author = {Denecke, Kerstin and Nejdl, Wolfgang},
+ title = {How valuable is medical social media data? Content analysis of the medical web},
+ journal = {Inf. Sci.},
+ issue_date = {May, 2009},
+ volume = {179},
+ number = {12},
+ month = may,
+ year = {2009},
+ issn = {0020-0255},
+ pages = {1870--1880},
+ numpages = {11},
+ url = {http://dx.doi.org/10.1016/j.ins.2009.01.025},
+ doi = {10.1016/j.ins.2009.01.025},
+ acmid = {1523612},
+ publisher = {Elsevier Science Inc.},
+ address = {New York, NY, USA},
+ abstract = {It is still an open question where to search for complying a specific information need due to the large amount and diversity of information available. In this paper, a content analysis of health-related information provided in the Web is performed to get an overview on the medical content available. In particular, the content of medical Question & Answer Portals, medical weblogs, medical reviews and Wikis is compared. For this purpose, medical concepts are extracted from the text material with existing extraction technology. Based on these concepts, the content of the different knowledge resources is compared. Since medical weblogs describe experiences as well as information, it is of large interest to be able to distinguish between informative and affective posts. For this reason, a method to classify blogs based on their information content is presented, which exploits high-level features describing the medical and affective content of blog posts. The results show that there are substantial differences in the content of various health-related Web resources. Weblogs and answer portals mainly deal with diseases and medications. The Wiki and the encyclopedia provide more information on anatomy and procedures. While patients and nurses describe personal aspects of their life, doctors aim to present health-related information in their blog posts. The knowledge on content differences and information content can be exploited by search engines to improve ranking, search and to direct users to appropriate knowledge sources.}
+}
+
 
 @misc{
    author = {DeRosa, C. and Cantrell, J. and Havens, A. and Hawk, J. and Jenkins, L.},
@@ -3021,13 +3041,14 @@ sentiment},
    year = {2007}
 }
 
-@article{
+@inproceeding{
    author = {Gilbert, Eric and Karahalios, Karrie},
    title = {Predicting tie strength with social media},
    publisher = {ACM},
    pages = {211-220},
    isbn = {978-1-60558-246-7},
    doi = {10.1145/1518701.1518736},
+   booktitle = {Paper presented at the Proceedings of the 27th international conference on Human factors in computing systems},
    abstract = {Social media treats all users the same: trusted friend or total stranger, with little or nothing in between. In reality, relationships fall everywhere along this spectrum, a topic social science has investigated for decades under the theme of tie strength. Our work bridges this gap between theory and practice. In this paper, we present a predictive model that maps social media data to tie strength. The model builds on a dataset of over 2,000 social media ties and performs quite well, distinguishing between strong and weak ties with over 85% accuracy. We complement these quantitative findings with interviews that unpack the relationships we could not predict. The paper concludes by illustrating how modeling tie strength can improve social media design elements, including privacy controls, message routing, friend introductions and information prioritization.},
    keywords = {relationship modeling, sns, social media, social networks, tie strength, ties},
    year = {2009}
@@ -4737,7 +4758,8 @@ nlp},
    title = {Can Blogging Enhance Subjective Well-Being Through Self-Disclosure?},
    journal = {CyberPsychology & Behavior},
    pages = {1-5+-1-5+},
-   note = {Can Blogging Enhance Subjective Well-Being Through Self-Disclosure? —=note-separator=— doi: 10.1089/cpb.2008.0163},
+   doi = {10.1089/cpb.2008.0163},
+   note = {Self-disclosure theory- intention, amount, positive/negative matter, depth, and honesty and accuracy (Wheeles and Grotz, 1976), social capital theory, subjective well-being. Results: self-disclosure of bloggers significantly and directly affects a blogger's perception of social integration, bonding social capital, and bridge social capital, which in turn promote bloggers' SWB. "When people share their deep thoughts, such as feelings of trauma, pressure, and depression, with others belonng to the same community, they may acquire social support and improve their integration with society. (Niederhoffer & Pennebaker 2002)" Blogging helps with social bonding of existing physical relationships. While an interesting topic, the paper does not describe in detail the methodology, but seems to jump to conclusions. Further the discussion seems shallow and hints at causal relationships that may not be in fact more than coincidence. I like that it used quantitative approach (PCA) to measure relationships. Wish it provided more detail on how it was done.},
    abstract = {Abstract Based on the self-disclosure theory and the social capital theory, this study investigates if bloggers' self-disclosure enhances their social capital and if these capitals in turn enhance perception of subjective well-being (SWB). The results reveal that the self-disclosure of bloggers significantly and directly affects a blogger's perception of social integration, bonding social capital, and bridge social capital, which in turn promote bloggers' SWB. It appears that as bloggers share their inner thoughts of their moods/feelings with others through writing, they may gain greater social support and improve their social integration. Therefore, self-disclosure through blogging may serve as the core of building intimate relationships. Furthermore, social capital, built through blogging, may improve a blogger's satisfaction with his or her social contact, interpersonal communication, and overall quality of life.},
    year = {2009}
 }
@@ -5915,12 +5937,13 @@ ties},
 
 @article{
    author = {McClure-Wasko, M. and Faraj, S.},
-   title = {It is what one does: why people participate and help others in electronic communities of practice},
+   title = {“It is what one does”: why people participate and help others in electronic communities of practice},
    journal = {The Journal of Strategic Information Systems},
    volume = {9},
    number = {2},
    pages = {155-173},
-   year = {2000}
+   year = {2000},
+   publisher={Elsevier}
 }
 
 @article{
@@ -6214,6 +6237,7 @@ Social psychology},
    doi = {10.1016/j.pec.2008.08.029},
    abstract = {Objective Previous research has contended that the unique characteristics of the Internet might remove some of the gender differences that exist in face-to-face healthcare. The aims of the present study were to systematically review studies that have examined gender differences in communication within online health communities.Methods A literature search was conducted to identify studies addressing gender differences in messages posted to online health-related support groups. Out of the 1186 articles identified, twelve were retrieved for review.Results Half of the studies examined gender differences by comparing male and female cancer discussion boards. The literature review revealed that some gender differences were observed in these studies. However, for studies that analysed mixed-gender communities, gender differences were less evident.Conclusion Results seemed to reveal gender differences in communications in single-sex online health support groups, and similarities in communication patterns in mixed-sex online health support groups. However, findings should be treated with caution due to the diversity in studies and methodological issues highlighted in the present review.Practice implications There is a need for health care professionals to take into account a range of situational and contextual factors that may affect how men and women use online health support groups. However, more robust research is needed before concrete guidelines can be developed to help health care professionals develop effective online support interventions.},
    keywords = {Gender, Online support groups, Health, Computer-mediated communication},
+   notes = {"There is need for health care professionals to take into account a range of situational and contextual factors that may affect how men and women use online health support groups." Communication styles are mentioned, i.e. feminine style is to use more feeling words.},
    year = {2009}
 }
 
@@ -6340,6 +6364,15 @@ wemeddlechi},
 The majority of participants, with more females than males, knew where to go for help and who they could talk to. Almost half of the participants had been to the Reach Out! website following the presentation, and approximately two-thirds reported that they would use Reach Out! to seek help if they were going through a tough time. There were no significant gender differences in visiting Reach Out! or in intending to visit it. The results demonstrate that young people in Australia are likely to use the Internet, and especially Reach Out!, to seek help when they are going through tough times.},
    keywords = {help-seeking, internet, adolescents, gender differences, mental health, mental health literacy},
 
+}
+
+@article{
+   author = {Niederhoffer KG, Pennebaker JW},
+   year = {2002}
+   title = {Sharing one's story. In Snyder CR, Lopez SJ, eds}
+   book = {Handbook of positive psychology.}
+   publisher = {New York: Oxford University Press}
+   pages = {573- 583}
 }
 
 @article{
