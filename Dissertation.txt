@@ -1098,7 +1098,10 @@ Information science},
    journal = {JCMC},
    volume = {13},
    number = {1},
-   year = {2007}
+   year = {2007},
+   doi = {10.1111/j.1083-6101.2007.00393.x},
+   abstract = {Social network sites (SNSs) are increasingly attracting the attention of academic and industry researchers intrigued by their affordances and reach. This special theme section of the Journal of Computer-Mediated Communication brings together scholarship on these emergent phenomena. In this introductory article, we describe features of SNSs and propose a comprehensive definition. We then present one perspective on the history of such sites, discussing key changes and developments. After briefly summarizing existing scholarship concerning SNSs, we discuss the articles in this special section and conclude with considerations for future research.},
+   notes = {"The rise of SNSs indicates a shift in the organization of online communities. While websites dedicated to communities of interest still exist and prosper, SNSs are primarily organized around people, not interests. Early public online communities such as Usenet and public discussion forums were structured by topics or according to topical hierarchies, but social network sites are structured as personal (or "egocentric") networks, with the individual at the center of their own community. This more accurately mirrors unmediated social structures where 'the world is composed of networks, not groups' (Wellman, 1988) The introduction of SNS features has introduced a new organizational framework for online communitties, and with it, a vibrant new research context."
 }
 
 @misc{
@@ -1853,6 +1856,20 @@ text},
    abstract = {People use weak ties-relationships with acquaintances or strangers-to seek help unavailable from friends or colleagues. Yet in the absence of personal relationships or the expectation of direct reciprocity, help from weak ties might not be forthcoming or could be of low quality. We examined the practice of distant employees (strangers) exchanging technical advice through a large organizational computer network. A survey of advice seekers and those who replied was conducted to test hypotheses about the viability and usefulness of such electronic weak tie exchanges. Theories of organizational motivation suggest that positive regard for the larger organization can substitute for direct incentives or personal relationships in motivating people to help others. Theories of weak ties suggest that the usefulness of this help may depend on the number of ties, the diversity of ties, or the resources of help providers. We hypothesized that, in an organizational context, the firm-specific resources and organizational motivation of people who provide advice will predict the usefulness of advice. We investigated these theories in a study of employees of a global computer manufacturer. We collected survey and observational data on the relationships between information seekers and information providers; the number, diversity, resources, and motivations of information providers, and subjective ratings of the usefulness of the advice (from both parties in the exchange) and whether or not the advice solved information seekers' problems. We found that information providers gave useful advice and solved the problems of information seekers, despite their lack of a personal connection with the seekers. The data support the main hypotheses and provide some support for resource and diversity explanations of weak tie influence. We discuss how this organization's culture sustained useful information exchange through weak ties.},
    keywords = {ties},
    year = {1996}
+}
+
+
+@article{
+   author = {Copeland, Jan and Martin, Greg},
+   title = {Web-based interventions for substance use disorders: A qualitative review},
+   journal = {Journal of Substance Abuse Treatment},
+   volume = {26},
+   doi = {10.1016/S0740-5472(03)00165-X},
+   year = {2004},
+   pages = {109-116},
+   abstract = {Substance use disorder is one of the most common mental health problems in the Western world with a significant contribution to the global burden of disease and a high level of unmet treatment need. To assess the use and effectiveness of web-based interventions for substance use disorders. A qualitative review of the published literature across databases Medline, EMBASE, PsychINFO, GrayLIT Network, and Web of Science using relevant key terms. A search of the worldwide web was also conducted using search engines such as Google. There were a number of computerized and internet-based interventions for mental health disorders including substance use disorders located; however, they are largely descriptive with no large randomized controlled trials of internet-delivered interventions for substance use disorders reported. While the literature on internet-based substance use interventions is sparse and flawed, the potential impact of effective intervention is considerable. On the basis of the limited research available it is reasonable to suggest that a demand for such interventions exists and there is a likelihood that they would be as effective as those delivered by therapists for the majority of less severely dependent clients. Further clinical outcome research, particularly in the area of brief interventions for alcohol use disorders and extension to other drugs such as cannabis and club drugs, is certainly justified. © 2004 Elsevier Science Inc. All rights reserved.},
+   notes = {"[Internet's] capacity for interactivity allows software to solicit information from individual users and provide feedback tailored to their characteristics and responses." "The medium [internet] allows the user a high level of convenience and flexibility of use;... consistent, no fatigue or forgetfulness"
+   }
 }
 
 @misc{
@@ -7873,7 +7890,7 @@ music},
 }
 
 @article{
-   author = {Smith, Kay H. and Mayer, Susan},
+   author = {Smith, Kay Hogan and Mayer, Susan},
    title = {The "Big Three" Consumer Health Sites and Web Technology Trends: MedlinePlus�, Healthfinder�, and CAPHIS},
    journal = {Journal of Consumer Health on the Internet},
    volume = {13},
@@ -7884,6 +7901,7 @@ music},
    keywords = {consumer
 Health
 information},
+   notes = {Open data: Vadlo.com; Filtering content: gopubmed.org; Personalization: wellsphere.com/home.s; Mobile apps. Websites allow patients to find others at similar points in disease progression and helps promot rsearch by posting individual outcomes }
 }
 
 @article{
