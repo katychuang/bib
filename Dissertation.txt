@@ -2193,6 +2193,21 @@ ml},
 }
 
 @article{
+   author = {Dodds, P. and Danforth, C.}, 
+   title = {Measuring the happiness of large-scale written expression: Songs, Blogs, and Presidents},
+   year = {2009},
+   journal = {Journal of Happiness Studies},
+   notes = {
+   - Testing predictive theories of social interactions (i.e. Heise's affect control theory, Burke's identity control theory)
+   - Examine the dynamics of emotions in online interactive contexts - if emotional contagion is observable, then it is possible to characterize its nature on a spectrum from analogous to an infectious disease to more complex threshold-based contagion
+   - Improved approach
+     * Empirical study to gather emotional content estimates for larger set of terms
+     * Coupling word assessment with detailed demographics of participants
+     * Approcahes not based on semantic differentials
+     * Game-based experiments to assess emotional content of common word groups and phrases
+   }
+}
+@article{
    author = {Dolan, R. J.},
    title = {Emotion, cognition, and behavior},
    journal = {Science (New York, N.Y.)},
@@ -8310,6 +8325,17 @@ reviews},
 motivation
 social
 support},
+   notes = {
+	Support speculation that people who make use of the forum for a longer period of time (i.e. over 2 yrs) have a chronic condition or suffer from deteriorating illness and therefore do not see positive change in their situation.
+	Research focusing in more detail on how online groups affect people mentally as well as physically
+	Research focusing on both benefits and perils of participating in online forums
+		Stalking and vulnerabilities
+		Information quality (misinformation left uncorrected)
+		Dependency to online community and neglecting offline network
+		People losing broad perspective of their situation (people who primarily use forums to discuss problems seem to be worse off in coping compared to people who use forums for other purposes)
+	Investigate how people make use of online forums and for which groups these forums are beneficial/harmful
+		Insight into effects of online forums with array of health related support
+}
 
 }
 
